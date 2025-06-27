@@ -1,0 +1,179 @@
+
+-------------------------------------------------------------------------------------------------
+Scraping de horarios de partidos siguiente jornada
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Horarios de la proxima jornada intento 1. Partidos restantes: 65
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeados horario de partido: 4428260
+Scrapeados horario de partido: 4428259
+Scrapeados horario de partido: 4428261
+Scrapeados horario de partido: 4428265
+Scrapeados horario de partido: 4428262
+Scrapeados horario de partido: 4428263
+Scrapeados horario de partido: 4428267
+Scrapeados horario de partido: 4428264
+Scrapeados horario de partido: 4428266
+Scrapeados horario de partido: 4428268
+
+Procesando batch 1 de URLs
+Scrapeados horario de partido: 4428465
+Scrapeados horario de partido: 4428468
+Scrapeados horario de partido: 4428472
+Scrapeados horario de partido: 4428467
+Scrapeados horario de partido: 4428466
+Scrapeados horario de partido: 4428470
+Scrapeados horario de partido: 4428471
+Scrapeados horario de partido: 4428473
+Scrapeados horario de partido: 4428474
+Scrapeados horario de partido: 4428469
+
+Procesando batch 2 de URLs
+Scrapeados horario de partido: 4435506
+Scrapeados horario de partido: 4435511
+Scrapeados horario de partido: 4435510
+Scrapeados horario de partido: 4435503
+Scrapeados horario de partido: 4435507
+Scrapeados horario de partido: 4435504
+Scrapeados horario de partido: 4435505
+Scrapeados horario de partido: 4435509
+Scrapeados horario de partido: 4435508
+Scrapeados horario de partido: 4429816
+
+Procesando batch 3 de URLs
+Scrapeados horario de partido: 4429821
+Scrapeados horario de partido: 4429818
+Scrapeados horario de partido: 4429815
+Scrapeados horario de partido: 4429820
+Scrapeados horario de partido: 4429814
+Scrapeados horario de partido: 4429813
+Scrapeados horario de partido: 4429819
+Scrapeados horario de partido: 4429817
+Scrapeados horario de partido: 4435495
+Scrapeados horario de partido: 4435494
+
+Procesando batch 4 de URLs
+Scrapeados horario de partido: 4435501
+Scrapeados horario de partido: 4435502
+Scrapeados horario de partido: 4435496
+Scrapeados horario de partido: 4435497
+Scrapeados horario de partido: 4435499
+Scrapeados horario de partido: 4435498
+Scrapeados horario de partido: 4435500
+Scrapeados horario de partido: 4435532
+Scrapeados horario de partido: 4435530
+Scrapeados horario de partido: 4435533
+
+Procesando batch 5 de URLs
+Scrapeados horario de partido: 4435537
+Scrapeados horario de partido: 4435538
+Scrapeados horario de partido: 4435531
+Scrapeados horario de partido: 4435534
+Scrapeados horario de partido: 4435536
+Scrapeados horario de partido: 4435535
+Scrapeados horario de partido: 4435521
+Scrapeados horario de partido: 4435526
+Scrapeados horario de partido: 4435524
+Scrapeados horario de partido: 4435528
+
+Procesando batch 6 de URLs
+Scrapeados horario de partido: 4435525
+Scrapeados horario de partido: 4435523
+Scrapeados horario de partido: 4435529
+Scrapeados horario de partido: 4435522
+Scrapeados horario de partido: 4435527
+
+-------------------------------------------------------------------------------------------------
+Scraping de partidos: horarios de 65 partidos distintos
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Estadísticas de scraping
+-------------------------------------------------------------------------------------------------
+
+Páginas únicas scrapeadas: 65
+
+Asyncio semaphore: 10
+
+Tamaño del chunk: 10
+
+Páginas fallidas: 45
+
+-------------------------------------------------------------------------------------------------
+Reintento 1
+-------------------------------------------------------------------------------------------------
+· URLFailReason.EMPTY | https://www.transfermarkt.es/ud-almeria-b_real-balompedica-linense/index/spielbericht/4429818 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/recreativo-granada_xerez-cd/index/spielbericht/4429815 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/deportiva-minera_orihuela-cf/index/spielbericht/4429820 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/ucam-murcia-cf_cd-estepona-fs/index/spielbericht/4429814 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/xerez-deportivo-fc_juventud-torremolinos-cf/index/spielbericht/4429813 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/san-fernando-cd_aguilas-fc/index/spielbericht/4429819 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/bergantinos-fc_real-aviles-industrial/index/spielbericht/4435495 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/coruxo-fc_cd-numancia/index/spielbericht/4435494 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/salamanca-cf-uds_rayo-cantabria/index/spielbericht/4435497 | Contenido vacío (<1000 caracteres)
+
+-------------------------------------------------------------------------------------------------
+Reintento 2
+-------------------------------------------------------------------------------------------------
+· URLFailReason.EMPTY | https://www.transfermarkt.es/ud-almeria-b_real-balompedica-linense/index/spielbericht/4429818 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/recreativo-granada_xerez-cd/index/spielbericht/4429815 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/deportiva-minera_orihuela-cf/index/spielbericht/4429820 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/ucam-murcia-cf_cd-estepona-fs/index/spielbericht/4429814 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/xerez-deportivo-fc_juventud-torremolinos-cf/index/spielbericht/4429813 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/san-fernando-cd_aguilas-fc/index/spielbericht/4429819 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/bergantinos-fc_real-aviles-industrial/index/spielbericht/4435495 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/coruxo-fc_cd-numancia/index/spielbericht/4435494 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/salamanca-cf-uds_rayo-cantabria/index/spielbericht/4435497 | Contenido vacío (<1000 caracteres)
+
+-------------------------------------------------------------------------------------------------
+Reintento 3
+-------------------------------------------------------------------------------------------------
+· URLFailReason.EMPTY | https://www.transfermarkt.es/ud-almeria-b_real-balompedica-linense/index/spielbericht/4429818 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/recreativo-granada_xerez-cd/index/spielbericht/4429815 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/deportiva-minera_orihuela-cf/index/spielbericht/4429820 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/ucam-murcia-cf_cd-estepona-fs/index/spielbericht/4429814 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/xerez-deportivo-fc_juventud-torremolinos-cf/index/spielbericht/4429813 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/san-fernando-cd_aguilas-fc/index/spielbericht/4429819 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/bergantinos-fc_real-aviles-industrial/index/spielbericht/4435495 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/coruxo-fc_cd-numancia/index/spielbericht/4435494 | Contenido vacío (<1000 caracteres)
+
+-------------------------------------------------------------------------------------------------
+Reintento 4
+-------------------------------------------------------------------------------------------------
+· URLFailReason.EMPTY | https://www.transfermarkt.es/ud-almeria-b_real-balompedica-linense/index/spielbericht/4429818 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/recreativo-granada_xerez-cd/index/spielbericht/4429815 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/deportiva-minera_orihuela-cf/index/spielbericht/4429820 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/ucam-murcia-cf_cd-estepona-fs/index/spielbericht/4429814 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/xerez-deportivo-fc_juventud-torremolinos-cf/index/spielbericht/4429813 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/san-fernando-cd_aguilas-fc/index/spielbericht/4429819 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/bergantinos-fc_real-aviles-industrial/index/spielbericht/4435495 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/coruxo-fc_cd-numancia/index/spielbericht/4435494 | Contenido vacío (<1000 caracteres)
+
+-------------------------------------------------------------------------------------------------
+Reintento 5
+-------------------------------------------------------------------------------------------------
+· URLFailReason.EMPTY | https://www.transfermarkt.es/ud-almeria-b_real-balompedica-linense/index/spielbericht/4429818 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/xerez-deportivo-fc_juventud-torremolinos-cf/index/spielbericht/4429813 | Contenido vacío (<1000 caracteres)
+
+-------------------------------------------------------------------------------------------------
+Reintento 6
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Reintento 7
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Fichero JSON
+-------------------------------------------------------------------------------------------------
+Fichero creado: c:\Users\alexl\OneDrive - Universidade de Santiago de Compostela\TFG\Scraping\extraccion\previa\resultados\datos_horarios_jornada.json
+
+-------------------------------------------------------------------------------------------------
+Fichero JSON
+-------------------------------------------------------------------------------------------------
+Fichero creado: c:\Users\alexl\OneDrive - Universidade de Santiago de Compostela\TFG\Scraping\extraccion\previa\resultados\24-06-25_14-49datos_horarios_jornada.json
+
+Tiempo total de ejecución: 9 minutos y 4.93 segundos

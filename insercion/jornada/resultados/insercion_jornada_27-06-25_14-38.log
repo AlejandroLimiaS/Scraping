@@ -1,0 +1,109 @@
+
+-------------------------------------------------------------------------------------------------
+Iniciando inserción de jornada
+-------------------------------------------------------------------------------------------------
+Todas las inserciones finalizaron correctamente.
+
+-------------------------------------------------------------------------------------------------
+Jugadores encontrados que no estaban en la Base: 17
+-------------------------------------------------------------------------------------------------
+Scrapeandolos y insertandolos en la base de datos...
+
+-------------------------------------------------------------------------------------------------
+Jugadores intento 1. Jugadores restantes: 17
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado jugador: Samuel Pedraja Díez
+Scrapeado jugador: Luis Palomeque Cavadas
+Scrapeado jugador: Darío Hernández Santos
+Scrapeado jugador: Markel Villegas Devroye
+Scrapeado jugador: Daniel Sánchez Martin
+Scrapeado jugador: Jon Otxandiano Acevedo
+Scrapeado jugador: Iker Bidaurrázaga Santamaría
+Scrapeado jugador: Iván Caballero Sánchez
+Scrapeado jugador: Valentin Marius Medelean
+Scrapeado jugador: Jorge Francés Morales
+
+Procesando batch 1 de URLs
+Scrapeado jugador: Axel Lucas García Nchama
+Scrapeado jugador: Ian Jové Balero
+Scrapeado jugador: Puma
+Scrapeado jugador: Javier Soto Mira
+Scrapeado jugador: Israel García Rego
+Scrapeado jugador: Csanád Gonda
+Scrapeado jugador: Diego Aguado Facio
+
+-------------------------------------------------------------------------------------------------
+Agentes intento 1. Agentes restantes: 2
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado agente: Only Football
+Scrapeado agente: Niagara Sports Company
+
+-------------------------------------------------------------------------------------------------
+Historico jugadores intento 1. Jugadores restantes: 17
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado historico jugador: 1353959
+Scrapeado historico jugador: 1238023
+Scrapeado historico jugador: 1354048
+Scrapeado historico jugador: 1354494
+Scrapeado historico jugador: 1348780
+Scrapeado historico jugador: 1348781
+Scrapeado historico jugador: 1349960
+Scrapeado historico jugador: 1354642
+Scrapeado historico jugador: 1008262
+Scrapeado historico jugador: 1354641
+
+Procesando batch 1 de URLs
+Scrapeado historico jugador: 1338667
+Scrapeado historico jugador: 1354607
+Scrapeado historico jugador: 1352621
+Scrapeado historico jugador: 1015840
+Scrapeado historico jugador: 1354630
+Scrapeado historico jugador: 1348799
+Scrapeado historico jugador: 1208520
+
+-------------------------------------------------------------------------------------------------
+Valor mercado jugadores intento 1. Jugadores restantes: 17
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado grafico valores jugador: 1353959
+Scrapeado grafico valores jugador: 1238023
+Scrapeado grafico valores jugador: 1354048
+Scrapeado grafico valores jugador: 1354494
+Scrapeado grafico valores jugador: 1348780
+Scrapeado grafico valores jugador: 1348781
+Scrapeado grafico valores jugador: 1349960
+Scrapeado grafico valores jugador: 1354642
+Scrapeado grafico valores jugador: 1008262
+Scrapeado grafico valores jugador: 1354641
+
+Procesando batch 1 de URLs
+Scrapeado grafico valores jugador: 1338667
+Scrapeado grafico valores jugador: 1354607
+Scrapeado grafico valores jugador: 1352621
+Scrapeado grafico valores jugador: 1015840
+Scrapeado grafico valores jugador: 1354630
+Scrapeado grafico valores jugador: 1348799
+Scrapeado grafico valores jugador: 1208520
+Todos los representantes se insertaron correctamente.
+Todos los jugadores se insertaron correctamente.
+
+-------------------------------------------------------------------------------------------------
+Jugadores scrapeados e insertados: 17
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Representantes scrapeados e insertados: 2
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Inserción de jornada finalizada
+-------------------------------------------------------------------------------------------------
+
+Tiempo total de ejecución: 4 minutos y 55.55 segundos

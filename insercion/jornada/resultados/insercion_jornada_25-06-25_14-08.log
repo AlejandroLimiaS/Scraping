@@ -1,0 +1,123 @@
+
+-------------------------------------------------------------------------------------------------
+Iniciando inserción de jornada
+-------------------------------------------------------------------------------------------------
+Todas las inserciones finalizaron correctamente.
+
+-------------------------------------------------------------------------------------------------
+Jugadores encontrados que no estaban en la Base: 20
+-------------------------------------------------------------------------------------------------
+Scrapeandolos y insertandolos en la base de datos...
+
+-------------------------------------------------------------------------------------------------
+Jugadores intento 1. Jugadores restantes: 20
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado jugador: Thomas Martin Webb
+Scrapeado jugador: Enrique Bartual González
+Scrapeado jugador: Felipe Goun Jin Kin
+Scrapeado jugador: Tomás Ignacio Senestrari
+Scrapeado jugador: Marc Comamala Font
+Scrapeado jugador: Juan Pablo Ibáñez Ochoa
+Scrapeado jugador: Arnau Cañizares Pages
+Scrapeado jugador: Pol Arnau Camacho
+Scrapeado jugador: Hugo García Hernández
+Scrapeado jugador: Álvaro Pelayo Sancibrian
+
+Procesando batch 1 de URLs
+Scrapeado jugador: Samuel Fernández Leonardo
+Scrapeado jugador: Rodrigo Ajegun Pérez
+Scrapeado jugador: Chispa
+Scrapeado jugador: José Manuel Nicolás Ayén
+Scrapeado jugador: Nacor Brito Martín
+Scrapeado jugador: Daniel Pérez Guerra
+Scrapeado jugador: Daniel Rodríguez Olmedo
+Scrapeado jugador: Xairo Miguel Villalón García
+Scrapeado jugador: Alberto Páez Umpiérrez
+Scrapeado jugador: Roberto Esteban Hernández
+
+-------------------------------------------------------------------------------------------------
+Agentes intento 1. Agentes restantes: 7
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado agente: PAQUITO TERRY SPORT S.L.U
+Scrapeado agente: MagicPlayers
+Scrapeado agente: Balance International Group
+Scrapeado agente: Bahía Internacional
+Scrapeado agente: CAA Base Ltd
+Scrapeado agente: SportySpain
+Scrapeado agente: Emartsoccer
+
+-------------------------------------------------------------------------------------------------
+Historico jugadores intento 1. Jugadores restantes: 20
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado historico jugador: 1337697
+Scrapeado historico jugador: 1012137
+Scrapeado historico jugador: 1337699
+Scrapeado historico jugador: 1174568
+Scrapeado historico jugador: 1338459
+Scrapeado historico jugador: 1347180
+Scrapeado historico jugador: 1340117
+Scrapeado historico jugador: 1060647
+Scrapeado historico jugador: 1340018
+Scrapeado historico jugador: 1243361
+
+Procesando batch 1 de URLs
+Scrapeado historico jugador: 1209285
+Scrapeado historico jugador: 1132738
+Scrapeado historico jugador: 1340029
+Scrapeado historico jugador: 954447
+Scrapeado historico jugador: 1340048
+Scrapeado historico jugador: 1340010
+Scrapeado historico jugador: 1340119
+Scrapeado historico jugador: 1340118
+Scrapeado historico jugador: 1196805
+Scrapeado historico jugador: 1340009
+
+-------------------------------------------------------------------------------------------------
+Valor mercado jugadores intento 1. Jugadores restantes: 20
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado grafico valores jugador: 1337697
+Scrapeado grafico valores jugador: 1012137
+Scrapeado grafico valores jugador: 1337699
+Scrapeado grafico valores jugador: 1174568
+Scrapeado grafico valores jugador: 1338459
+Scrapeado grafico valores jugador: 1347180
+Scrapeado grafico valores jugador: 1340117
+Scrapeado grafico valores jugador: 1060647
+Scrapeado grafico valores jugador: 1340018
+Scrapeado grafico valores jugador: 1243361
+
+Procesando batch 1 de URLs
+Scrapeado grafico valores jugador: 1209285
+Scrapeado grafico valores jugador: 1132738
+Scrapeado grafico valores jugador: 1340029
+Scrapeado grafico valores jugador: 954447
+Scrapeado grafico valores jugador: 1340048
+Scrapeado grafico valores jugador: 1340010
+Scrapeado grafico valores jugador: 1340119
+Scrapeado grafico valores jugador: 1340118
+Scrapeado grafico valores jugador: 1196805
+Scrapeado grafico valores jugador: 1340009
+Todos los representantes se insertaron correctamente.
+Todos los jugadores se insertaron correctamente.
+
+-------------------------------------------------------------------------------------------------
+Jugadores scrapeados e insertados: 20
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Representantes scrapeados e insertados: 7
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Inserción de jornada finalizada
+-------------------------------------------------------------------------------------------------
+
+Tiempo total de ejecución: 1 minutos y 11.22 segundos

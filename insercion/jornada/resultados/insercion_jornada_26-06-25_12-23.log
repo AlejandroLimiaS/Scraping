@@ -1,0 +1,62 @@
+
+-------------------------------------------------------------------------------------------------
+Iniciando inserción de jornada
+-------------------------------------------------------------------------------------------------
+Todas las inserciones finalizaron correctamente.
+
+-------------------------------------------------------------------------------------------------
+Jugadores encontrados que no estaban en la Base: 5
+-------------------------------------------------------------------------------------------------
+Scrapeandolos y insertandolos en la base de datos...
+
+-------------------------------------------------------------------------------------------------
+Jugadores intento 1. Jugadores restantes: 5
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado jugador: Ander Fernández Urroz
+Scrapeado jugador: Ángel Hernández Blázquez
+Scrapeado jugador: Mikel González Vergara
+Scrapeado jugador: Tomás Méndez López
+Scrapeado jugador: Antonio Alfonso Sánchez
+
+-------------------------------------------------------------------------------------------------
+Agentes intento 1. Agentes restantes: 0
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Historico jugadores intento 1. Jugadores restantes: 5
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado historico jugador: 1405408
+Scrapeado historico jugador: 1067209
+Scrapeado historico jugador: 1175739
+Scrapeado historico jugador: 1369612
+Scrapeado historico jugador: 1405637
+
+-------------------------------------------------------------------------------------------------
+Valor mercado jugadores intento 1. Jugadores restantes: 5
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado grafico valores jugador: 1405408
+Scrapeado grafico valores jugador: 1067209
+Scrapeado grafico valores jugador: 1175739
+Scrapeado grafico valores jugador: 1369612
+Scrapeado grafico valores jugador: 1405637
+Todos los jugadores se insertaron correctamente.
+
+-------------------------------------------------------------------------------------------------
+Jugadores scrapeados e insertados: 5
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Representantes scrapeados e insertados: 0
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Inserción de jornada finalizada
+-------------------------------------------------------------------------------------------------
+
+Tiempo total de ejecución: 0 minutos y 39.09 segundos

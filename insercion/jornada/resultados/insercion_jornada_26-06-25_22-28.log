@@ -1,0 +1,356 @@
+
+-------------------------------------------------------------------------------------------------
+Iniciando inserción de jornada
+-------------------------------------------------------------------------------------------------
+Todas las inserciones finalizaron correctamente.
+
+-------------------------------------------------------------------------------------------------
+Jugadores encontrados que no estaban en la Base: 49
+-------------------------------------------------------------------------------------------------
+Scrapeandolos y insertandolos en la base de datos...
+
+-------------------------------------------------------------------------------------------------
+Jugadores intento 1. Jugadores restantes: 49
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado jugador: Carlos Javier Diez Pagonessa
+Scrapeado jugador: Samuel Hernández Hernández
+Scrapeado jugador: Rashford Manga Eteki
+Scrapeado jugador: Joel Fortes Mellado
+Scrapeado jugador: David Flores Martín
+Scrapeado jugador: Pablo Altozano Martínez
+Scrapeado jugador: César Valero Sáenz de Santamaría
+Scrapeado jugador: Pablo Montero Sánchez
+Scrapeado jugador: David Mateos Ramajo
+Scrapeado jugador: Martín Pérez López
+
+Procesando batch 1 de URLs
+Scrapeado jugador: Joseba Bermejo Mager
+Scrapeado jugador: Adrián Hernández Hernández
+Scrapeado jugador: Christian Yus Rubio
+Scrapeado jugador: Iker Moreno Bachiller
+Scrapeado jugador: Joel Jarauta Miranda
+Scrapeado jugador: Imanol Barace Jara
+Scrapeado jugador: Hassou Diaby Ndiaye
+Scrapeado jugador: Iñigo Ariztia de la Garza
+Scrapeado jugador: Arnau Pradas Algaba
+Scrapeado jugador: Yeimar Jesús Mosquera Mosquera
+
+Procesando batch 2 de URLs
+Scrapeado jugador: Hugo Wauthier Gorjón
+Scrapeado jugador: Guillermo San Felipe García
+Scrapeado jugador: Rodrigo Ibañes Adeva
+Scrapeado jugador: Abderrahim Issakhi Aoussani
+Scrapeado jugador: Lukas Pagés Borngräber
+Scrapeado jugador: Aday Alcalde Sánchez
+Scrapeado jugador: Guillermo Andreu Cubells
+Scrapeado jugador: Diego Castaño Solé
+Scrapeado jugador: Leandro Peña Biafore
+Scrapeado jugador: Andreu Vivó Granell
+
+Procesando batch 3 de URLs
+Scrapeado jugador: Manuel Guanini
+Scrapeado jugador: Gabriel García Castell
+Scrapeado jugador: Darío Lozano León
+Scrapeado jugador: Sergio Martinez Ortiz
+Scrapeado jugador: Benjamin Leo Knight
+Scrapeado jugador: Sergio Galindo Saura
+Scrapeado jugador: Daniel Recagno Guerrero
+Scrapeado jugador: Rafael Romero Morilla
+Scrapeado jugador: Darío Frey Sánchez
+Scrapeado jugador: Pau Navarro Badenes
+
+Procesando batch 4 de URLs
+Scrapeado jugador: Pablo López Matellán
+Scrapeado jugador: Iker Recio Ortega
+Scrapeado jugador: Jean-Aniel Eclesiaste Assi
+Scrapeado jugador: Hugo López Vargas
+Scrapeado jugador: Georgi Dimitrov Spiridonov
+Scrapeado jugador: Yago Fernández Calvarro
+Scrapeado jugador: Joan Miquel Rusiñol Galeote
+Scrapeado jugador: Gonzalo Castillo Vegas
+Scrapeado jugador: Hugo Villaverde Varela
+
+-------------------------------------------------------------------------------------------------
+Agentes intento 1. Agentes restantes: 23
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado agente: Cantera ANBB Fútbol
+Scrapeado agente: ELITE INTERNACIONAL SPORT AGENCY S.L.
+Scrapeado agente: Bahía Internacional
+Scrapeado agente: RySManagement
+Scrapeado agente: WBC DE MEXICO
+Scrapeado agente: Antonio López Management
+Scrapeado agente: DV7 Management
+Scrapeado agente: Emartsoccer
+Scrapeado agente: AHT Players Spain, s.l.
+Scrapeado agente: Score Futbol
+
+Procesando batch 1 de URLs
+Scrapeado agente: Fantastic Soccer S.A.
+Scrapeado agente: GUZ&GUAL FA
+Scrapeado agente: Ipi Sports and Management 14, SL
+Scrapeado agente: Pablo Martínez & Chesco Asesoría Deportiva SL
+Scrapeado agente: CAA Stellar
+Scrapeado agente: Un1que Football
+Scrapeado agente: Special Talent Group
+Scrapeado agente: Antbar Sports Spain
+Scrapeado agente: MRH Football Agency
+Scrapeado agente: SE SPORT MANAGEMENT
+
+Procesando batch 2 de URLs
+Scrapeado agente: SCM Sports Agency
+Scrapeado agente: Best of You
+Scrapeado agente: SEG - Sports Entertainment Group
+
+-------------------------------------------------------------------------------------------------
+Historico jugadores intento 1. Jugadores restantes: 49
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado historico jugador: 1313504
+Scrapeado historico jugador: 1313737
+Scrapeado historico jugador: 1186342
+Scrapeado historico jugador: 1209505
+Scrapeado historico jugador: 722341
+Scrapeado historico jugador: 1178573
+Scrapeado historico jugador: 1284006
+Scrapeado historico jugador: 889717
+Scrapeado historico jugador: 45304
+Scrapeado historico jugador: 682508
+
+Procesando batch 1 de URLs
+Scrapeado historico jugador: 1313471
+Scrapeado historico jugador: 895458
+Scrapeado historico jugador: 708530
+Scrapeado historico jugador: 1313884
+Scrapeado historico jugador: 1125097
+Scrapeado historico jugador: 614217
+Scrapeado historico jugador: 1122983
+Scrapeado historico jugador: 955757
+Scrapeado historico jugador: 938159
+Scrapeado historico jugador: 1163638
+
+Procesando batch 2 de URLs
+Scrapeado historico jugador: 937960
+Scrapeado historico jugador: 1310531
+Scrapeado historico jugador: 1310532
+Scrapeado historico jugador: 1309435
+Scrapeado historico jugador: 1313970
+Scrapeado historico jugador: 911304
+Scrapeado historico jugador: 1313885
+Scrapeado historico jugador: 1227199
+Scrapeado historico jugador: 668507
+Scrapeado historico jugador: 1064498
+
+Procesando batch 3 de URLs
+Scrapeado historico jugador: 376083
+Scrapeado historico jugador: 1056771
+Scrapeado historico jugador: 1061279
+Scrapeado historico jugador: 1310566
+Scrapeado historico jugador: 568007
+Scrapeado historico jugador: 825829
+Scrapeado historico jugador: 1305562
+Scrapeado historico jugador: 833884
+Scrapeado historico jugador: 1060455
+Scrapeado historico jugador: 1061336
+
+Procesando batch 4 de URLs
+Scrapeado historico jugador: 1310588
+Scrapeado historico jugador: 628461
+Scrapeado historico jugador: 842419
+Scrapeado historico jugador: 1033847
+Scrapeado historico jugador: 1313968
+Scrapeado historico jugador: 1314085
+Scrapeado historico jugador: 815659
+Scrapeado historico jugador: 1037553
+Scrapeado historico jugador: 1064138
+
+-------------------------------------------------------------------------------------------------
+Valor mercado jugadores intento 1. Jugadores restantes: 49
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado grafico valores jugador: 1313504
+Scrapeado grafico valores jugador: 1313737
+Scrapeado grafico valores jugador: 1186342
+Scrapeado grafico valores jugador: 1209505
+Scrapeado grafico valores jugador: 722341
+Scrapeado grafico valores jugador: 1178573
+Scrapeado grafico valores jugador: 1284006
+Scrapeado grafico valores jugador: 889717
+Scrapeado grafico valores jugador: 45304
+Scrapeado grafico valores jugador: 682508
+
+Procesando batch 1 de URLs
+Scrapeado grafico valores jugador: 1313471
+Scrapeado grafico valores jugador: 895458
+Scrapeado grafico valores jugador: 708530
+Scrapeado grafico valores jugador: 1313884
+Scrapeado grafico valores jugador: 1125097
+Scrapeado grafico valores jugador: 614217
+Scrapeado grafico valores jugador: 1122983
+Scrapeado grafico valores jugador: 955757
+Scrapeado grafico valores jugador: 938159
+Scrapeado grafico valores jugador: 1163638
+
+Procesando batch 2 de URLs
+Scrapeado grafico valores jugador: 937960
+Scrapeado grafico valores jugador: 1310531
+Scrapeado grafico valores jugador: 1310532
+Scrapeado grafico valores jugador: 1309435
+Scrapeado grafico valores jugador: 1313970
+Scrapeado grafico valores jugador: 911304
+Scrapeado grafico valores jugador: 1313885
+Scrapeado grafico valores jugador: 1227199
+Scrapeado grafico valores jugador: 668507
+Scrapeado grafico valores jugador: 1064498
+
+Procesando batch 3 de URLs
+Scrapeado grafico valores jugador: 376083
+Scrapeado grafico valores jugador: 1056771
+Scrapeado grafico valores jugador: 1061279
+Scrapeado grafico valores jugador: 1310566
+Scrapeado grafico valores jugador: 568007
+Scrapeado grafico valores jugador: 825829
+Scrapeado grafico valores jugador: 1305562
+Scrapeado grafico valores jugador: 833884
+Scrapeado grafico valores jugador: 1060455
+Scrapeado grafico valores jugador: 1061336
+
+Procesando batch 4 de URLs
+Scrapeado grafico valores jugador: 1310588
+Scrapeado grafico valores jugador: 628461
+Scrapeado grafico valores jugador: 842419
+Scrapeado grafico valores jugador: 1033847
+Scrapeado grafico valores jugador: 1313968
+Scrapeado grafico valores jugador: 1314085
+Scrapeado grafico valores jugador: 815659
+Scrapeado grafico valores jugador: 1037553
+Scrapeado grafico valores jugador: 1064138
+Error en representante ELITE INTERNACIONAL SPORT AGENCY S.L. (intento 1): (1062, "Duplicate entry 'ELITE INTERNACIONAL SPORT AGENCY S.L.' for key 'representante.representante_unique'")
+Error en representante Bahía Internacional (intento 1): (1062, "Duplicate entry 'Bahía Internacional' for key 'representante.representante_unique'")
+Error en representante RySManagement (intento 1): (1062, "Duplicate entry 'RySManagement' for key 'representante.representante_unique'")
+Error en representante DV7 Management (intento 1): (1062, "Duplicate entry 'DV7 Management' for key 'representante.representante_unique'")
+Error en representante Emartsoccer (intento 1): (1062, "Duplicate entry 'Emartsoccer' for key 'representante.representante_unique'")
+Error en representante Antonio López Management (intento 1): (1062, "Duplicate entry 'Antonio López Management' for key 'representante.representante_unique'")
+Error en representante Score Futbol (intento 1): (1062, "Duplicate entry 'Score Futbol' for key 'representante.representante_unique'")
+Error en representante CAA Stellar (intento 1): (1062, "Duplicate entry 'CAA Stellar' for key 'representante.representante_unique'")
+Error en representante GUZ&GUAL FA (intento 1): (1062, "Duplicate entry 'GUZ&GUAL FA' for key 'representante.representante_unique'")
+Error en representante Ipi Sports and Management 14, SL (intento 1): (1062, "Duplicate entry 'Ipi Sports and Management 14, SL' for key 'representante.representante_unique'")
+Error en representante Un1que Football (intento 1): (1062, "Duplicate entry 'Un1que Football' for key 'representante.representante_unique'")
+Error en representante Pablo Martínez & Chesco Asesoría Deportiva SL (intento 1): (1062, "Duplicate entry 'Pablo Martínez & Chesco Asesoría Deportiva SL' for key 'representante.representante_unique'")
+Error en representante Antbar Sports Spain (intento 1): (1062, "Duplicate entry 'Antbar Sports Spain' for key 'representante.representante_unique'")
+Error en representante Special Talent Group (intento 1): (1062, "Duplicate entry 'Special Talent Group' for key 'representante.representante_unique'")
+Error en representante MRH Football Agency (intento 1): (1062, "Duplicate entry 'MRH Football Agency' for key 'representante.representante_unique'")
+Error en representante Bahía Internacional (intento 2): (1062, "Duplicate entry 'Bahía Internacional' for key 'representante.representante_unique'")
+Error en representante ELITE INTERNACIONAL SPORT AGENCY S.L. (intento 2): (1062, "Duplicate entry 'ELITE INTERNACIONAL SPORT AGENCY S.L.' for key 'representante.representante_unique'")
+Error en representante SCM Sports Agency (intento 1): (1062, "Duplicate entry 'SCM Sports Agency' for key 'representante.representante_unique'")
+Error en representante Best of You (intento 1): (1062, "Duplicate entry 'Best of You' for key 'representante.representante_unique'")
+Error en representante SEG - Sports Entertainment Group (intento 1): (1062, "Duplicate entry 'SEG - Sports Entertainment Group' for key 'representante.representante_unique'")
+Error en representante Antonio López Management (intento 2): (1062, "Duplicate entry 'Antonio López Management' for key 'representante.representante_unique'")
+Error en representante Score Futbol (intento 2): (1062, "Duplicate entry 'Score Futbol' for key 'representante.representante_unique'")
+Error en representante RySManagement (intento 2): (1062, "Duplicate entry 'RySManagement' for key 'representante.representante_unique'")
+Error en representante Emartsoccer (intento 2): (1062, "Duplicate entry 'Emartsoccer' for key 'representante.representante_unique'")
+Error en representante DV7 Management (intento 2): (1062, "Duplicate entry 'DV7 Management' for key 'representante.representante_unique'")
+Error en representante CAA Stellar (intento 2): (1062, "Duplicate entry 'CAA Stellar' for key 'representante.representante_unique'")
+Error en representante Pablo Martínez & Chesco Asesoría Deportiva SL (intento 2): (1062, "Duplicate entry 'Pablo Martínez & Chesco Asesoría Deportiva SL' for key 'representante.representante_unique'")
+Error en representante Ipi Sports and Management 14, SL (intento 2): (1062, "Duplicate entry 'Ipi Sports and Management 14, SL' for key 'representante.representante_unique'")
+Error en representante Un1que Football (intento 2): (1062, "Duplicate entry 'Un1que Football' for key 'representante.representante_unique'")
+Error en representante GUZ&GUAL FA (intento 2): (1062, "Duplicate entry 'GUZ&GUAL FA' for key 'representante.representante_unique'")
+Error en representante Antbar Sports Spain (intento 2): (1062, "Duplicate entry 'Antbar Sports Spain' for key 'representante.representante_unique'")
+Error en representante MRH Football Agency (intento 2): (1062, "Duplicate entry 'MRH Football Agency' for key 'representante.representante_unique'")
+Error en representante Special Talent Group (intento 2): (1062, "Duplicate entry 'Special Talent Group' for key 'representante.representante_unique'")
+Error en representante ELITE INTERNACIONAL SPORT AGENCY S.L. (intento 3): (1062, "Duplicate entry 'ELITE INTERNACIONAL SPORT AGENCY S.L.' for key 'representante.representante_unique'")
+Error en representante Bahía Internacional (intento 3): (1062, "Duplicate entry 'Bahía Internacional' for key 'representante.representante_unique'")
+Error en representante SCM Sports Agency (intento 2): (1062, "Duplicate entry 'SCM Sports Agency' for key 'representante.representante_unique'")
+Error en representante Best of You (intento 2): (1062, "Duplicate entry 'Best of You' for key 'representante.representante_unique'")
+Error en representante Emartsoccer (intento 3): (1062, "Duplicate entry 'Emartsoccer' for key 'representante.representante_unique'")
+Error en representante SEG - Sports Entertainment Group (intento 2): (1062, "Duplicate entry 'SEG - Sports Entertainment Group' for key 'representante.representante_unique'")
+Error en representante Score Futbol (intento 3): (1062, "Duplicate entry 'Score Futbol' for key 'representante.representante_unique'")
+Error en representante Antonio López Management (intento 3): (1062, "Duplicate entry 'Antonio López Management' for key 'representante.representante_unique'")
+Error en representante RySManagement (intento 3): (1062, "Duplicate entry 'RySManagement' for key 'representante.representante_unique'")
+Error en representante DV7 Management (intento 3): (1062, "Duplicate entry 'DV7 Management' for key 'representante.representante_unique'")
+Error en representante CAA Stellar (intento 3): (1062, "Duplicate entry 'CAA Stellar' for key 'representante.representante_unique'")
+Error en representante ELITE INTERNACIONAL SPORT AGENCY S.L. (intento 4): (1062, "Duplicate entry 'ELITE INTERNACIONAL SPORT AGENCY S.L.' for key 'representante.representante_unique'")
+Error en representante Pablo Martínez & Chesco Asesoría Deportiva SL (intento 3): (1062, "Duplicate entry 'Pablo Martínez & Chesco Asesoría Deportiva SL' for key 'representante.representante_unique'")
+Error en representante Antbar Sports Spain (intento 3): (1062, "Duplicate entry 'Antbar Sports Spain' for key 'representante.representante_unique'")
+Error en representante Un1que Football (intento 3): (1062, "Duplicate entry 'Un1que Football' for key 'representante.representante_unique'")
+Error en representante Ipi Sports and Management 14, SL (intento 3): (1062, "Duplicate entry 'Ipi Sports and Management 14, SL' for key 'representante.representante_unique'")
+Error en representante GUZ&GUAL FA (intento 3): (1062, "Duplicate entry 'GUZ&GUAL FA' for key 'representante.representante_unique'")
+Error en representante MRH Football Agency (intento 3): (1062, "Duplicate entry 'MRH Football Agency' for key 'representante.representante_unique'")
+Error en representante Special Talent Group (intento 3): (1062, "Duplicate entry 'Special Talent Group' for key 'representante.representante_unique'")
+Error en representante Best of You (intento 3): (1062, "Duplicate entry 'Best of You' for key 'representante.representante_unique'")
+Error en representante Bahía Internacional (intento 4): (1062, "Duplicate entry 'Bahía Internacional' for key 'representante.representante_unique'")
+Error en representante SEG - Sports Entertainment Group (intento 3): (1062, "Duplicate entry 'SEG - Sports Entertainment Group' for key 'representante.representante_unique'")
+Error en representante SCM Sports Agency (intento 3): (1062, "Duplicate entry 'SCM Sports Agency' for key 'representante.representante_unique'")
+Error en representante Emartsoccer (intento 4): (1062, "Duplicate entry 'Emartsoccer' for key 'representante.representante_unique'")
+Error en representante Score Futbol (intento 4): (1062, "Duplicate entry 'Score Futbol' for key 'representante.representante_unique'")
+Error en representante Antonio López Management (intento 4): (1062, "Duplicate entry 'Antonio López Management' for key 'representante.representante_unique'")
+Error en representante DV7 Management (intento 4): (1062, "Duplicate entry 'DV7 Management' for key 'representante.representante_unique'")
+Error en representante Antbar Sports Spain (intento 4): (1062, "Duplicate entry 'Antbar Sports Spain' for key 'representante.representante_unique'")
+Error en representante Pablo Martínez & Chesco Asesoría Deportiva SL (intento 4): (1062, "Duplicate entry 'Pablo Martínez & Chesco Asesoría Deportiva SL' for key 'representante.representante_unique'")
+Error en representante RySManagement (intento 4): (1062, "Duplicate entry 'RySManagement' for key 'representante.representante_unique'")
+Error en representante CAA Stellar (intento 4): (1062, "Duplicate entry 'CAA Stellar' for key 'representante.representante_unique'")
+Error en representante Un1que Football (intento 4): (1062, "Duplicate entry 'Un1que Football' for key 'representante.representante_unique'")
+Error en representante Ipi Sports and Management 14, SL (intento 4): (1062, "Duplicate entry 'Ipi Sports and Management 14, SL' for key 'representante.representante_unique'")
+Error en representante ELITE INTERNACIONAL SPORT AGENCY S.L. (intento 5): (1062, "Duplicate entry 'ELITE INTERNACIONAL SPORT AGENCY S.L.' for key 'representante.representante_unique'")
+Falló representante ELITE INTERNACIONAL SPORT AGENCY S.L. tras 5 intentos.
+Error en representante Special Talent Group (intento 4): (1062, "Duplicate entry 'Special Talent Group' for key 'representante.representante_unique'")
+Error en representante MRH Football Agency (intento 4): (1062, "Duplicate entry 'MRH Football Agency' for key 'representante.representante_unique'")
+Error en representante GUZ&GUAL FA (intento 4): (1062, "Duplicate entry 'GUZ&GUAL FA' for key 'representante.representante_unique'")
+Error en representante Best of You (intento 4): (1062, "Duplicate entry 'Best of You' for key 'representante.representante_unique'")
+Error en representante Bahía Internacional (intento 5): (1062, "Duplicate entry 'Bahía Internacional' for key 'representante.representante_unique'")
+Falló representante Bahía Internacional tras 5 intentos.
+Error en representante SCM Sports Agency (intento 4): (1062, "Duplicate entry 'SCM Sports Agency' for key 'representante.representante_unique'")
+Error en representante Emartsoccer (intento 5): (1062, "Duplicate entry 'Emartsoccer' for key 'representante.representante_unique'")
+Falló representante Emartsoccer tras 5 intentos.
+Error en representante Score Futbol (intento 5): (1062, "Duplicate entry 'Score Futbol' for key 'representante.representante_unique'")
+Falló representante Score Futbol tras 5 intentos.
+Error en representante SEG - Sports Entertainment Group (intento 4): (1062, "Duplicate entry 'SEG - Sports Entertainment Group' for key 'representante.representante_unique'")
+Error en representante RySManagement (intento 5): (1062, "Duplicate entry 'RySManagement' for key 'representante.representante_unique'")
+Falló representante RySManagement tras 5 intentos.
+Error en representante DV7 Management (intento 5): (1062, "Duplicate entry 'DV7 Management' for key 'representante.representante_unique'")
+Falló representante DV7 Management tras 5 intentos.
+Error en representante CAA Stellar (intento 5): (1062, "Duplicate entry 'CAA Stellar' for key 'representante.representante_unique'")
+Falló representante CAA Stellar tras 5 intentos.
+Error en representante Pablo Martínez & Chesco Asesoría Deportiva SL (intento 5): (1062, "Duplicate entry 'Pablo Martínez & Chesco Asesoría Deportiva SL' for key 'representante.representante_unique'")
+Falló representante Pablo Martínez & Chesco Asesoría Deportiva SL tras 5 intentos.
+Error en representante Un1que Football (intento 5): (1062, "Duplicate entry 'Un1que Football' for key 'representante.representante_unique'")
+Falló representante Un1que Football tras 5 intentos.
+Error en representante Antbar Sports Spain (intento 5): (1062, "Duplicate entry 'Antbar Sports Spain' for key 'representante.representante_unique'")
+Falló representante Antbar Sports Spain tras 5 intentos.
+Error en representante Antonio López Management (intento 5): (1062, "Duplicate entry 'Antonio López Management' for key 'representante.representante_unique'")
+Falló representante Antonio López Management tras 5 intentos.
+Error en representante GUZ&GUAL FA (intento 5): (1062, "Duplicate entry 'GUZ&GUAL FA' for key 'representante.representante_unique'")
+Falló representante GUZ&GUAL FA tras 5 intentos.
+Error en representante Special Talent Group (intento 5): (1062, "Duplicate entry 'Special Talent Group' for key 'representante.representante_unique'")
+Falló representante Special Talent Group tras 5 intentos.
+Error en representante Best of You (intento 5): (1062, "Duplicate entry 'Best of You' for key 'representante.representante_unique'")
+Falló representante Best of You tras 5 intentos.
+Error en representante Ipi Sports and Management 14, SL (intento 5): (1062, "Duplicate entry 'Ipi Sports and Management 14, SL' for key 'representante.representante_unique'")
+Falló representante Ipi Sports and Management 14, SL tras 5 intentos.
+Error en representante SCM Sports Agency (intento 5): (1062, "Duplicate entry 'SCM Sports Agency' for key 'representante.representante_unique'")
+Falló representante SCM Sports Agency tras 5 intentos.
+Error en representante SEG - Sports Entertainment Group (intento 5): (1062, "Duplicate entry 'SEG - Sports Entertainment Group' for key 'representante.representante_unique'")
+Falló representante SEG - Sports Entertainment Group tras 5 intentos.
+Error en representante MRH Football Agency (intento 5): (1062, "Duplicate entry 'MRH Football Agency' for key 'representante.representante_unique'")
+Falló representante MRH Football Agency tras 5 intentos.
+Se produjeron 18 fallos en la inserción de representantes.
+Se produjeron 52 fallos en la inserción de jugadores y sus historicos.
+
+-------------------------------------------------------------------------------------------------
+Jugadores scrapeados e insertados: 49
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Representantes scrapeados e insertados: 23
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Inserción de jornada finalizada
+-------------------------------------------------------------------------------------------------
+
+Tiempo total de ejecución: 7 minutos y 5.72 segundos

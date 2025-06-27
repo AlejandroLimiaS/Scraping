@@ -1,0 +1,103 @@
+
+-------------------------------------------------------------------------------------------------
+Scraping de partidos de la jornada
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Partidos de la jornada intento 1. Partidos restantes: 20
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeados datos de partido jugado: 4428812, 0-0
+Scrapeados datos de partido jugado: 4428807, 0-0
+Scrapeados datos de partido jugado: 4428809, 2-0
+Scrapeados datos de partido jugado: 4428806, 0-2
+Scrapeados datos de partido jugado: 4428805, 2-1
+Scrapeados datos de partido jugado: 4428810, 3-1
+Scrapeados datos de partido jugado: 4428813, 1-2
+Scrapeados datos de partido jugado: 4428811, 1-2
+Scrapeados datos de partido jugado: 4428814, 3-1
+Scrapeados datos de partido jugado: 4428808, 1-0
+
+Procesando batch 1 de URLs
+Scrapeados datos de partido jugado: 4428151, 4-0
+Scrapeados datos de partido jugado: 4428155, 2-1
+Scrapeados datos de partido jugado: 4428157, 1-3
+Scrapeados datos de partido jugado: 4428153, 2-2
+Scrapeados datos de partido jugado: 4428152, 3-0
+Scrapeados datos de partido jugado: 4428149, 0-1
+Scrapeados datos de partido jugado: 4428156, 1-0
+Scrapeados datos de partido jugado: 4428154, 3-2
+Scrapeados datos de partido jugado: 4428150, 4-3
+Scrapeados datos de partido jugado: 4428158, 1-2
+
+-------------------------------------------------------------------------------------------------
+Scraping de partidos: datos de 20 partidos jugados distintos
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Estadísticas de scraping
+-------------------------------------------------------------------------------------------------
+
+Páginas únicas scrapeadas: 20
+
+Asyncio semaphore: 10
+
+Tamaño del chunk: 10
+
+Páginas fallidas: 19
+
+-------------------------------------------------------------------------------------------------
+Reintento 1
+-------------------------------------------------------------------------------------------------
+· URLFailReason.EMPTY | https://www.transfermarkt.es/yeclano-deportivo-_villarreal-cf-b/index/spielbericht/4428810 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/cultural-leonesa_barakaldo-cf/index/spielbericht/4428155 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/real-sociedad-b_sd-ponferradina/index/spielbericht/4428154 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/sd-amorebieta_rc-celta-fortuna/index/spielbericht/4428150 | Contenido vacío (<1000 caracteres)
+
+-------------------------------------------------------------------------------------------------
+Reintento 2
+-------------------------------------------------------------------------------------------------
+· URLFailReason.EMPTY | https://www.transfermarkt.es/yeclano-deportivo-_villarreal-cf-b/index/spielbericht/4428810 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/cultural-leonesa_barakaldo-cf/index/spielbericht/4428155 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/real-sociedad-b_sd-ponferradina/index/spielbericht/4428154 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/sd-amorebieta_rc-celta-fortuna/index/spielbericht/4428150 | Contenido vacío (<1000 caracteres)
+
+-------------------------------------------------------------------------------------------------
+Reintento 3
+-------------------------------------------------------------------------------------------------
+· URLFailReason.EMPTY | https://www.transfermarkt.es/yeclano-deportivo-_villarreal-cf-b/index/spielbericht/4428810 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/cultural-leonesa_barakaldo-cf/index/spielbericht/4428155 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/real-sociedad-b_sd-ponferradina/index/spielbericht/4428154 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/sd-amorebieta_rc-celta-fortuna/index/spielbericht/4428150 | Contenido vacío (<1000 caracteres)
+
+-------------------------------------------------------------------------------------------------
+Reintento 4
+-------------------------------------------------------------------------------------------------
+· URLFailReason.EMPTY | https://www.transfermarkt.es/cultural-leonesa_barakaldo-cf/index/spielbericht/4428155 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/real-sociedad-b_sd-ponferradina/index/spielbericht/4428154 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/sd-amorebieta_rc-celta-fortuna/index/spielbericht/4428150 | Contenido vacío (<1000 caracteres)
+
+-------------------------------------------------------------------------------------------------
+Reintento 5
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Reintento 6
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Reintento 7
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Fichero JSON
+-------------------------------------------------------------------------------------------------
+Fichero creado: c:\Users\alexl\OneDrive - Universidade de Santiago de Compostela\TFG\Scraping\extraccion\jornada\resultados\datos_partidos_jornada.json
+
+-------------------------------------------------------------------------------------------------
+Fichero JSON
+-------------------------------------------------------------------------------------------------
+Fichero creado: c:\Users\alexl\OneDrive - Universidade de Santiago de Compostela\TFG\Scraping\extraccion\jornada\resultados\26-06-25_12-24datos_partidos_jornada.json
+
+Tiempo total de ejecución: 6 minutos y 4.18 segundos

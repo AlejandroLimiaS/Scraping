@@ -1,0 +1,176 @@
+
+-------------------------------------------------------------------------------------------------
+Scraping de horarios de partidos siguiente jornada
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Horarios de la proxima jornada intento 1. Partidos restantes: 65
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeados horario de partido: 4435412
+Scrapeados horario de partido: 4435417
+Scrapeados horario de partido: 4435413
+Scrapeados horario de partido: 4435415
+Scrapeados horario de partido: 4435411
+Scrapeados horario de partido: 4435416
+Scrapeados horario de partido: 4435418
+Scrapeados horario de partido: 4435414
+Scrapeados horario de partido: 4435419
+Scrapeados horario de partido: 4428455
+
+Procesando batch 1 de URLs
+Scrapeados horario de partido: 4428456
+Scrapeados horario de partido: 4428462
+Scrapeados horario de partido: 4428459
+Scrapeados horario de partido: 4428458
+Scrapeados horario de partido: 4428463
+Scrapeados horario de partido: 4428457
+Scrapeados horario de partido: 4428464
+Scrapeados horario de partido: 4428461
+Scrapeados horario de partido: 4428460
+Scrapeados horario de partido: 4435439
+
+Procesando batch 2 de URLs
+Scrapeados horario de partido: 4435432
+Scrapeados horario de partido: 4435433
+Scrapeados horario de partido: 4435438
+Scrapeados horario de partido: 4435431
+Scrapeados horario de partido: 4435436
+Scrapeados horario de partido: 4435437
+Scrapeados horario de partido: 4435435
+Scrapeados horario de partido: 4435434
+Scrapeados horario de partido: 4428221
+Scrapeados horario de partido: 4428219
+
+Procesando batch 3 de URLs
+Scrapeados horario de partido: 4428222
+Scrapeados horario de partido: 4428224
+Scrapeados horario de partido: 4428226
+Scrapeados horario de partido: 4428227
+Scrapeados horario de partido: 4428228
+Scrapeados horario de partido: 4428220
+Scrapeados horario de partido: 4428223
+Scrapeados horario de partido: 4428225
+Scrapeados horario de partido: 4435392
+Scrapeados horario de partido: 4435390
+
+Procesando batch 4 de URLs
+Scrapeados horario de partido: 4435385
+Scrapeados horario de partido: 4435387
+Scrapeados horario de partido: 4435391
+Scrapeados horario de partido: 4435386
+Scrapeados horario de partido: 4435384
+Scrapeados horario de partido: 4435389
+Scrapeados horario de partido: 4435388
+Scrapeados horario de partido: 4429804
+Scrapeados horario de partido: 4429811
+Scrapeados horario de partido: 4429806
+
+Procesando batch 5 de URLs
+Scrapeados horario de partido: 4429812
+Scrapeados horario de partido: 4429807
+Scrapeados horario de partido: 4429808
+Scrapeados horario de partido: 4429809
+Scrapeados horario de partido: 4429810
+Scrapeados horario de partido: 4429805
+Scrapeados horario de partido: 4435488
+Scrapeados horario de partido: 4435492
+Scrapeados horario de partido: 4435485
+Scrapeados horario de partido: 4435486
+
+Procesando batch 6 de URLs
+Scrapeados horario de partido: 4435493
+Scrapeados horario de partido: 4435490
+Scrapeados horario de partido: 4435489
+Scrapeados horario de partido: 4435487
+Scrapeados horario de partido: 4435491
+
+-------------------------------------------------------------------------------------------------
+Scraping de partidos: horarios de 65 partidos distintos
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Estadísticas de scraping
+-------------------------------------------------------------------------------------------------
+
+Páginas únicas scrapeadas: 65
+
+Asyncio semaphore: 10
+
+Tamaño del chunk: 10
+
+Páginas fallidas: 42
+
+-------------------------------------------------------------------------------------------------
+Reintento 1
+-------------------------------------------------------------------------------------------------
+· URLFailReason.EMPTY | https://www.transfermarkt.es/rcd-espanyol-b_ue-sant-andreu/index/spielbericht/4435433 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/cd-ibiza-islas-pitiusas_lleida-cf/index/spielbericht/4435431 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/cf-badalona-futur_ud-alzira/index/spielbericht/4435436 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/terrassa-fc_elche-ilicitano/index/spielbericht/4435437 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/valencia-mestalla_ue-olot/index/spielbericht/4435435 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/torrent-cf_ce-sabadell-fc/index/spielbericht/4435434 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/sd-amorebieta_gimnastica-segoviana-cf/index/spielbericht/4428221 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/cultural-leonesa_cd-lugo/index/spielbericht/4428219 | Contenido vacío (<1000 caracteres)
+
+-------------------------------------------------------------------------------------------------
+Reintento 2
+-------------------------------------------------------------------------------------------------
+· URLFailReason.EMPTY | https://www.transfermarkt.es/rcd-espanyol-b_ue-sant-andreu/index/spielbericht/4435433 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/cd-ibiza-islas-pitiusas_lleida-cf/index/spielbericht/4435431 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/cf-badalona-futur_ud-alzira/index/spielbericht/4435436 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/terrassa-fc_elche-ilicitano/index/spielbericht/4435437 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/valencia-mestalla_ue-olot/index/spielbericht/4435435 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/torrent-cf_ce-sabadell-fc/index/spielbericht/4435434 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/sd-amorebieta_gimnastica-segoviana-cf/index/spielbericht/4428221 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/cultural-leonesa_cd-lugo/index/spielbericht/4428219 | Contenido vacío (<1000 caracteres)
+
+-------------------------------------------------------------------------------------------------
+Reintento 3
+-------------------------------------------------------------------------------------------------
+· URLFailReason.EMPTY | https://www.transfermarkt.es/rcd-espanyol-b_ue-sant-andreu/index/spielbericht/4435433 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/cd-ibiza-islas-pitiusas_lleida-cf/index/spielbericht/4435431 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/cf-badalona-futur_ud-alzira/index/spielbericht/4435436 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/terrassa-fc_elche-ilicitano/index/spielbericht/4435437 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/valencia-mestalla_ue-olot/index/spielbericht/4435435 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/torrent-cf_ce-sabadell-fc/index/spielbericht/4435434 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/sd-amorebieta_gimnastica-segoviana-cf/index/spielbericht/4428221 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/cultural-leonesa_cd-lugo/index/spielbericht/4428219 | Contenido vacío (<1000 caracteres)
+
+-------------------------------------------------------------------------------------------------
+Reintento 4
+-------------------------------------------------------------------------------------------------
+· URLFailReason.EMPTY | https://www.transfermarkt.es/rcd-espanyol-b_ue-sant-andreu/index/spielbericht/4435433 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/cd-ibiza-islas-pitiusas_lleida-cf/index/spielbericht/4435431 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/cf-badalona-futur_ud-alzira/index/spielbericht/4435436 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/terrassa-fc_elche-ilicitano/index/spielbericht/4435437 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/valencia-mestalla_ue-olot/index/spielbericht/4435435 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/torrent-cf_ce-sabadell-fc/index/spielbericht/4435434 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/sd-amorebieta_gimnastica-segoviana-cf/index/spielbericht/4428221 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/cultural-leonesa_cd-lugo/index/spielbericht/4428219 | Contenido vacío (<1000 caracteres)
+
+-------------------------------------------------------------------------------------------------
+Reintento 5
+-------------------------------------------------------------------------------------------------
+· URLFailReason.EMPTY | https://www.transfermarkt.es/torrent-cf_ce-sabadell-fc/index/spielbericht/4435434 | Contenido vacío (<1000 caracteres)
+
+-------------------------------------------------------------------------------------------------
+Reintento 6
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Reintento 7
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Fichero JSON
+-------------------------------------------------------------------------------------------------
+Fichero creado: c:\Users\alexl\OneDrive - Universidade de Santiago de Compostela\TFG\Scraping\extraccion\previa\resultados\datos_horarios_jornada.json
+
+-------------------------------------------------------------------------------------------------
+Fichero JSON
+-------------------------------------------------------------------------------------------------
+Fichero creado: c:\Users\alexl\OneDrive - Universidade de Santiago de Compostela\TFG\Scraping\extraccion\previa\resultados\24-06-25_12-59datos_horarios_jornada.json
+
+Tiempo total de ejecución: 8 minutos y 16.69 segundos

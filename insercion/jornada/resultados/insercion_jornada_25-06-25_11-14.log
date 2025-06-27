@@ -1,0 +1,981 @@
+
+-------------------------------------------------------------------------------------------------
+Iniciando inserción de jornada
+-------------------------------------------------------------------------------------------------
+Todas las inserciones finalizaron correctamente.
+
+-------------------------------------------------------------------------------------------------
+Jugadores encontrados que no estaban en la Base: 228
+-------------------------------------------------------------------------------------------------
+Scrapeandolos y insertandolos en la base de datos...
+
+-------------------------------------------------------------------------------------------------
+Jugadores intento 1. Jugadores restantes: 228
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado jugador: Francisco García Murillo
+Scrapeado jugador: Pablo Sánchez Flores Casanova
+Scrapeado jugador: Roberto Moreno Bonilla
+Scrapeado jugador: Jesús Hernández Cazorla
+Scrapeado jugador: Iván Pérez Garcia
+Scrapeado jugador: Fernando Pina Aparicio
+Scrapeado jugador: Samuel Rodríguez Molina
+Scrapeado jugador: Joel Domínguez Rodríguez
+Scrapeado jugador: Jorge Ramón Pérez
+Scrapeado jugador: Gregorio Betancort Morales
+
+Procesando batch 1 de URLs
+Scrapeado jugador: Javier Melián Montero
+Scrapeado jugador: Carlos Jiménez de los Galanes Villar
+Scrapeado jugador: Yuriy Popovych Lidon
+Scrapeado jugador: Jorge Padilla Soler
+Scrapeado jugador: Martín Cascajo Orgaz
+Scrapeado jugador: Carlos Enrique Faya Rivero
+Scrapeado jugador: Ethyan Jesús González Morales
+Scrapeado jugador: Robert García Sacristán
+Scrapeado jugador: Roberto Núñez Mañas
+Scrapeado jugador: Jaime Amaro Puertas
+
+Procesando batch 2 de URLs
+Scrapeado jugador: Gabriel López Oviedo
+Scrapeado jugador: Fabián Roberto Luzzi Rangel
+Scrapeado jugador: Pablo Brea Fontans
+Scrapeado jugador: Diego Andrés Jiménez Montaño
+Scrapeado jugador: Alexander Szymanowski
+Scrapeado jugador: Ian Valentin Tejero Ríos
+Scrapeado jugador: Guillem Trilla Cortiñas
+Scrapeado jugador: Moises Parra Gutierrez
+Scrapeado jugador: Ricardo Enrique Mangana Barbera
+Scrapeado jugador: Daniel Cuevas Bragado
+
+Procesando batch 3 de URLs
+Scrapeado jugador: Ángel Sánchez Arévalo
+Scrapeado jugador: Manel Lozano Morillas
+Scrapeado jugador: Marc Anglès Sánchez
+Scrapeado jugador: Marc Fuster Aguayo
+Scrapeado jugador: Abubacarry Juwara
+Scrapeado jugador: Francisco Garí Serra
+Scrapeado jugador: Alagy Oliveira Diaw
+Scrapeado jugador: Juan Antonio Gallego Valdivia
+Scrapeado jugador: Mohamado Touray Touray
+Scrapeado jugador: Gerard Oliva Gorgori
+
+Procesando batch 4 de URLs
+Scrapeado jugador: Hassane Adamou Amadou
+Scrapeado jugador: Juan Alejandro Ojeda Gil
+Scrapeado jugador: Jorge Cortázar Blázquez
+Scrapeado jugador: Sergio González Magariño
+Scrapeado jugador: Djakaría Barro
+Scrapeado jugador: Carlos Inglada Crabbe
+Scrapeado jugador: Francisco Jesús Caturla Corpas
+Scrapeado jugador: Airam López Capacete
+Scrapeado jugador: Musa Isah
+Scrapeado jugador: Daniel Parra Bové
+
+Procesando batch 5 de URLs
+Scrapeado jugador: Jean-Paul Pierre Emmanuel Marc N'Djoli
+Scrapeado jugador: Lucca Giordano Giuntini Santiago
+Scrapeado jugador: Edgar Martínez López
+Scrapeado jugador: Jawed Abd El Resak Boumeddane
+Scrapeado jugador: Mario Robledo Meco
+Scrapeado jugador: Miguel Borja Colubi
+Scrapeado jugador: José Carlos Sempere Martínez
+Scrapeado jugador: Owen Bosch López
+Scrapeado jugador: Luis Romero Descals
+Scrapeado jugador: Arnau Forés Minguet
+
+Procesando batch 6 de URLs
+Scrapeado jugador: Marti Puigbert del Arco
+Scrapeado jugador: David López Herrera
+Scrapeado jugador: Albert Núñez Benet
+Scrapeado jugador: Luis Navarro Genis
+Scrapeado jugador: Juan Antonio Sánchez Curiel
+Scrapeado jugador: Junior
+Scrapeado jugador: Iker Rekagorri Dudagoitia
+Scrapeado jugador: Peru Candaudap Yaniz
+Scrapeado jugador: Yannick Pedrosa Morán
+Scrapeado jugador: Pablo Fernández Rubal
+
+Procesando batch 7 de URLs
+Scrapeado jugador: Adrián Mancebo Serrano
+Scrapeado jugador: Noel González Caballero
+Scrapeado jugador: Alexandru \u021aîrlea
+Scrapeado jugador: Arnau Sans Adern
+Scrapeado jugador: Teo Pozo Gil
+Scrapeado jugador: Santiago José Guzmán Ramirez
+Scrapeado jugador: Mohamed Ilyass Dahmouni Lahrach
+Scrapeado jugador: Fernando López González
+Scrapeado jugador: Miguel Emilio Rodríguez Macías
+Scrapeado jugador: Miguel Conde Piñeiro
+
+Procesando batch 8 de URLs
+Scrapeado jugador: Maroan Sannadi
+Scrapeado jugador: Eric Gamen Morales
+Scrapeado jugador: David Osipov
+Scrapeado jugador: Gaizka Alboniga-Menor González
+Scrapeado jugador: Carlos Boga Sauqué
+Scrapeado jugador: Assane Ndiaye Dione
+Scrapeado jugador: Carlos Cordero Pérez
+Scrapeado jugador: Diego Almeida Crespo
+Scrapeado jugador: Adrián García Benito
+Scrapeado jugador: Miguel Parmentier García
+
+Procesando batch 9 de URLs
+Scrapeado jugador: Hugo Gutiérrez Parra
+Scrapeado jugador: Alberto Dadie Izaguirre
+Scrapeado jugador: Unai Hernández Lorenzo
+Scrapeado jugador: Pedro Rodríguez Iglesias
+Scrapeado jugador: Quim Junyent Casanova
+Scrapeado jugador: Javier Moreno Arrones Gil
+Scrapeado jugador: Diego Gómez Pérez
+Scrapeado jugador: Miguel Ángel Abad Rubio
+Scrapeado jugador: Daniel Estévez Gómez
+Scrapeado jugador: Ñete
+
+Procesando batch 10 de URLs
+Scrapeado jugador: Daniel Sánchez Tena
+Scrapeado jugador: Manuel Abeal Seijas
+Scrapeado jugador: Mario Musy Hernández
+Scrapeado jugador: Gustavo Carmona De Ita
+Scrapeado jugador: Michael Villajos Expósito
+Scrapeado jugador: Imanol González Guerra
+Scrapeado jugador: Adrián Pascual Lobato
+Scrapeado jugador: Juan Carlos Murcia Nicolás
+Scrapeado jugador: Mariano Villafáfila Heras
+Scrapeado jugador: Marcos Fernández Alvarez
+
+Procesando batch 11 de URLs
+Scrapeado jugador: Rodrigo Ramos Álvarez
+Scrapeado jugador: Cristian García Solís
+Scrapeado jugador: Gonzalo Ardura González
+Scrapeado jugador: Jacques Armand Thierry Bayo Mben
+Scrapeado jugador: Nicolás Chenu Rodríguez
+Scrapeado jugador: Álvaro Fernández Fernández
+Scrapeado jugador: Roberto Sierra Gálvez
+Scrapeado jugador: Eduardo Bedia Peláez
+Scrapeado jugador: Óscar Maza Fernández
+Scrapeado jugador: Carlos Cocian Balan
+
+Procesando batch 12 de URLs
+Scrapeado jugador: Álvaro Alvira García
+Scrapeado jugador: Iker Bilbao Rodríguez
+Scrapeado jugador: Andrés Pinillos Rojo
+Scrapeado jugador: Luis Jiménez Librada
+Scrapeado jugador: Jorge Olarte Sáenz
+Scrapeado jugador: Aaron Cámara López
+Scrapeado jugador: Naim Hamoudi Molinero
+Scrapeado jugador: Alejandro Martínez Ranera
+Scrapeado jugador: Ramón López Olivan
+Scrapeado jugador: Juan Carlos Azón Marco
+
+Procesando batch 13 de URLs
+Scrapeado jugador: Kepa Vieites Blázquez
+Scrapeado jugador: Juan Manuel Hernández Molina
+Scrapeado jugador: Víctor Higuera Ramos
+Scrapeado jugador: Tompa Ákos Szabolcs
+Scrapeado jugador: Benjamin Akoto Asamoah
+Scrapeado jugador: Canario
+Scrapeado jugador: Johar Franco Mejía Moreno
+Scrapeado jugador: Israel García Moreno
+Scrapeado jugador: José Damián
+Scrapeado jugador: Jurgi Oteo Gómez
+
+Procesando batch 14 de URLs
+Scrapeado jugador: Marc Prat Serrano
+Scrapeado jugador: Luis Salvador Alomar Aguilera
+Scrapeado jugador: Pelayo Morilla Cabal
+Scrapeado jugador: Jorge Gómez Silgo
+Scrapeado jugador: Rubén Montero Fernández
+Scrapeado jugador: Émilien Makagni
+Scrapeado jugador: Rodri
+Scrapeado jugador: Javier Lara Grande
+Scrapeado jugador: Héctor Hurtado Martín
+Scrapeado jugador: Sergio Rodelas Pintor
+
+Procesando batch 15 de URLs
+Scrapeado jugador: Serigne Faye
+Scrapeado jugador: Íker García Chico
+Scrapeado jugador: Adrián Valenzuela Estévez
+Scrapeado jugador: Robin Charles Hughes Lafarge
+Scrapeado jugador: Carri
+Scrapeado jugador: José Ángel Pérez Rincón
+Scrapeado jugador: Alberto Martín Romo García Adámez
+Scrapeado jugador: José Antonio González Estrada
+Scrapeado jugador: Francisco José Serrano Santos
+Scrapeado jugador: Alejandro Cantera Sandoval
+
+Procesando batch 16 de URLs
+Scrapeado jugador: Manuel González Baeza
+Scrapeado jugador: Rodrigo Gea Vázquez
+Scrapeado jugador: Borja Jiménez Macías
+Scrapeado jugador: Alejandro del Río Montero
+Scrapeado jugador: Sergio López Matellán
+Scrapeado jugador: Lisardo Antequera Sánchez
+Scrapeado jugador: Tomás Inglés Navarro
+Scrapeado jugador: Alusine Koroma
+Scrapeado jugador: Andrew Quintana Castilho
+Scrapeado jugador: Adrián Morales Varela
+
+Procesando batch 17 de URLs
+Scrapeado jugador: Hugo Gilabert Rabasco
+Scrapeado jugador: José Manuel Vidal Relinque
+Scrapeado jugador: Ismael Martín Moreno
+Scrapeado jugador: Lovro Gubijan
+Scrapeado jugador: Mario Pérez Suárez
+Scrapeado jugador: Julio Algar Torres
+Scrapeado jugador: Domingo Pujante Beltrán
+Scrapeado jugador: Feliciano Martínez Chuecos
+Scrapeado jugador: Sergio Cortado Vicente
+Scrapeado jugador: Adrián Pérez Osorio
+
+Procesando batch 18 de URLs
+Scrapeado jugador: Diego Valdivia Reina
+Scrapeado jugador: Akito Mukai
+Scrapeado jugador: Julio Rodao Pérez
+Scrapeado jugador: Pablo Rodríguez Ramos
+Scrapeado jugador: Francisco de Borja Domingo Domingo
+Scrapeado jugador: Juan Alejo Riquelme Perea
+Scrapeado jugador: José Andrés Oliveira Moruno
+Scrapeado jugador: Dalton Enokpa
+Scrapeado jugador: Luis Miguel Morales Carnicero
+Scrapeado jugador: David Muñoz Torres
+
+Procesando batch 19 de URLs
+Scrapeado jugador: Álvaro Vega Suárez
+Scrapeado jugador: Fernando Valencia González
+Scrapeado jugador: Martín Manuel Calderón Gómez
+Scrapeado jugador: Óscar Vivares Cardona
+Scrapeado jugador: Paolo Alberto Pugliese
+Scrapeado jugador: Lancinet Kourouma Kourouma
+Scrapeado jugador: José Manuel García Naranjo
+Scrapeado jugador: Pau Cabanes de la Torre
+Scrapeado jugador: Gerard Hernández Romero
+Scrapeado jugador: Fabio Blanco Gómez
+
+Procesando batch 20 de URLs
+Scrapeado jugador: Marcos Mompeán López
+Scrapeado jugador: Jorge Galvañ Armengol
+Scrapeado jugador: Daniel Ryan Solsky
+Scrapeado jugador: Raúl Asencio del Rosario
+Scrapeado jugador: Keimer Andrés Sandoval Rodríguez
+Scrapeado jugador: Ángel Ortiz Monterrey
+Scrapeado jugador: Jesús Rodríguez Caraballo
+Scrapeado jugador: Miguel Cuevas Marin
+Scrapeado jugador: Ekaitz Jiménez Astigarraga
+Scrapeado jugador: Jeriel Nicolás de Santis Córdova
+
+Procesando batch 21 de URLs
+Scrapeado jugador: Marcos Pérez Reguilón
+Scrapeado jugador: Raúl Sánchez Sánchez
+Scrapeado jugador: Juan Muriana Martin
+Scrapeado jugador: Jaime Alejandro Robert Cabrero
+Scrapeado jugador: Mamor Niang
+Scrapeado jugador: Pablo Morgado Ripoll
+Scrapeado jugador: Javier Gómez Castroverde
+Scrapeado jugador: Mario Climent Plá
+Scrapeado jugador: Tiago Franclim Alves Leal
+Scrapeado jugador: Jack Beer
+
+Procesando batch 22 de URLs
+Scrapeado jugador: Alejandro Gálvez Jimena
+Scrapeado jugador: Iván Romero Vega
+Scrapeado jugador: Chemseddine Bekkouche
+Scrapeado jugador: Iker Villar Mendoza
+Scrapeado jugador: José Ángel Carrillo Casamayor
+Scrapeado jugador: Héctor Pérez Claros
+Scrapeado jugador: David Tirado Martínez
+Scrapeado jugador: Imanol Alonso Jiménez
+
+-------------------------------------------------------------------------------------------------
+Agentes intento 1. Agentes restantes: 97
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado agente: MESAS SPORT
+Scrapeado agente: FBM_SPORTS_AGENCY
+Scrapeado agente: Ivan Cristovinho
+Scrapeado agente: JV SPORTS
+Scrapeado agente: PRESSIONA SOCCER AGENCY
+Scrapeado agente: DANIEL RODRIGUEZ LOZANO
+Scrapeado agente: SimaSport Soccer
+Scrapeado agente: BOIM FOOTBALL BOUTIQUE
+Scrapeado agente: Goal Management
+Scrapeado agente: Agencia David Copito
+
+Procesando batch 1 de URLs
+Scrapeado agente: AS1
+Scrapeado agente: Balance International Group
+Scrapeado agente: Niagara Sur
+Scrapeado agente: RR-Soccer Management Agency
+Scrapeado agente: IBERSPORT
+Scrapeado agente: IGdreamsfootball
+Scrapeado agente: Tiki Taka Group
+Scrapeado agente: Sports&Life
+Scrapeado agente: LAAG SPORTS
+Scrapeado agente: Representar Mejor
+
+Procesando batch 2 de URLs
+Scrapeado agente: RuGonSoccer
+Scrapeado agente: BYPARGENTINA
+Scrapeado agente: JONATHAN SÁNCHEZ
+Scrapeado agente: SPORT MANAGEMENT TALENT BARCELONA S.L
+Scrapeado agente: Playpool
+Scrapeado agente: JIAgencyT
+Scrapeado agente: Vicente Ruá
+Scrapeado agente: CONTROL ORIENTADO
+Scrapeado agente: JCRsport Goalkeeper
+Scrapeado agente: NTA Sport Management
+
+Procesando batch 3 de URLs
+Scrapeado agente: FUTBOL21 AGENCY
+Scrapeado agente: Status Sport World S.L
+Scrapeado agente: Niagara Sports Company
+Scrapeado agente: INTAGTA
+Scrapeado agente: Futivpro
+Scrapeado agente: OKON Management
+Scrapeado agente: CAA Stellar
+Scrapeado agente: Gestifute
+Scrapeado agente: MDS Sports Management
+Scrapeado agente: SEG - Sports Entertainment Group
+
+Procesando batch 4 de URLs
+Scrapeado agente: EGGO Asesores Deportivos
+Scrapeado agente: Global Ases
+Scrapeado agente: Barcelona Football Management
+Scrapeado agente: YOU FIRST
+Scrapeado agente: Prosport Football Management
+Scrapeado agente: Rubén López Bueno
+Scrapeado agente: Eleven Stars Advisors Sports Company
+Scrapeado agente: IDUB GLOBAL
+Scrapeado agente: By and For Sport Management
+Scrapeado agente: LIAN Sports Group
+
+Procesando batch 5 de URLs
+Scrapeado agente: PARRI GROUP
+Scrapeado agente: MSSports
+Scrapeado agente: Wasserman
+Scrapeado agente: MRH Football Agency
+Scrapeado agente: 442LEGAL
+Scrapeado agente: MMIC Sport
+Scrapeado agente: Miguel Pedrajo
+Scrapeado agente: +Soccer International Agents
+Scrapeado agente: Soro Sports Agency
+Scrapeado agente: Kicker Representación & Intermediación
+
+Procesando batch 6 de URLs
+Scrapeado agente: Only Football
+Scrapeado agente: Emartsoccer
+Scrapeado agente: TF TRANSFER FOOTBALL MANAGEMENT
+Scrapeado agente: EM Sports Consulting
+Scrapeado agente: Pro Evolution Players s.l.
+Scrapeado agente: MagicPlayers
+Scrapeado agente: Acción Sport del Norte S.L.
+Scrapeado agente: GO FOOTBALL
+Scrapeado agente: LIN GROUP
+Scrapeado agente: 2SAgency
+
+Procesando batch 7 de URLs
+Scrapeado agente: Pedro Bravo - Consulting Planesa SL
+Scrapeado agente: 24ksocceragency
+Scrapeado agente: Aclama Agencia De Representacion SL
+Scrapeado agente: Antbar Sports Spain
+Scrapeado agente: Professional Football Agency
+Scrapeado agente: PA Management Global Soccer
+Scrapeado agente: 33 Sport
+Scrapeado agente: Love Players
+Scrapeado agente: PAQUITO TERRY SPORT S.L.U
+Scrapeado agente: InterStarDeporte
+
+Procesando batch 8 de URLs
+Scrapeado agente: KARAFCA
+Scrapeado agente: Van Riemsdijk Sports Agency
+Scrapeado agente: Premier Fútbol
+Scrapeado agente: LEADERBROCK Sports Talents
+Scrapeado agente: LEADERBROCK sports
+Scrapeado agente: DPO Sports
+Scrapeado agente: Top Athlete Management
+Scrapeado agente: Bahía Internacional
+Scrapeado agente: All Iron Sports
+Scrapeado agente: Fip Football
+
+Procesando batch 9 de URLs
+Scrapeado agente: Libero Advisory
+Scrapeado agente: FMD Scouting
+Scrapeado agente: RGFOOTBALL MANAGEMENT SL
+Scrapeado agente: Forward Sports Group USA
+Scrapeado agente: Viasport
+Scrapeado agente: CLASSICOO M Z I PLAYERS AGENT L.L.C
+Scrapeado agente: Nicola Malgeri
+
+-------------------------------------------------------------------------------------------------
+Historico jugadores intento 1. Jugadores restantes: 228
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado historico jugador: 512084
+Scrapeado historico jugador: 1276725
+Scrapeado historico jugador: 520012
+Scrapeado historico jugador: 1308626
+Scrapeado historico jugador: 1283948
+Scrapeado historico jugador: 598967
+Scrapeado historico jugador: 1309527
+Scrapeado historico jugador: 1013120
+Scrapeado historico jugador: 1309837
+Scrapeado historico jugador: 1284845
+
+Procesando batch 1 de URLs
+Scrapeado historico jugador: 784848
+Scrapeado historico jugador: 894060
+Scrapeado historico jugador: 1117105
+Scrapeado historico jugador: 726030
+Scrapeado historico jugador: 908295
+Scrapeado historico jugador: 661150
+Scrapeado historico jugador: 922420
+Scrapeado historico jugador: 1294855
+Scrapeado historico jugador: 255888
+Scrapeado historico jugador: 948270
+
+Procesando batch 2 de URLs
+Scrapeado historico jugador: 646370
+Scrapeado historico jugador: 736425
+Scrapeado historico jugador: 540475
+Scrapeado historico jugador: 786236
+Scrapeado historico jugador: 217728
+Scrapeado historico jugador: 1309811
+Scrapeado historico jugador: 1216529
+Scrapeado historico jugador: 963150
+Scrapeado historico jugador: 531344
+Scrapeado historico jugador: 512083
+
+Procesando batch 3 de URLs
+Scrapeado historico jugador: 677182
+Scrapeado historico jugador: 1149469
+Scrapeado historico jugador: 989396
+Scrapeado historico jugador: 989370
+Scrapeado historico jugador: 1235422
+Scrapeado historico jugador: 1003879
+Scrapeado historico jugador: 647172
+Scrapeado historico jugador: 603964
+Scrapeado historico jugador: 1309989
+Scrapeado historico jugador: 171439
+
+Procesando batch 4 de URLs
+Scrapeado historico jugador: 748037
+Scrapeado historico jugador: 736713
+Scrapeado historico jugador: 890628
+Scrapeado historico jugador: 901976
+Scrapeado historico jugador: 1036044
+Scrapeado historico jugador: 762611
+Scrapeado historico jugador: 685083
+Scrapeado historico jugador: 1189316
+Scrapeado historico jugador: 873978
+Scrapeado historico jugador: 632445
+
+Procesando batch 5 de URLs
+Scrapeado historico jugador: 843728
+Scrapeado historico jugador: 1307181
+Scrapeado historico jugador: 1309042
+Scrapeado historico jugador: 690885
+Scrapeado historico jugador: 1310056
+Scrapeado historico jugador: 1310054
+Scrapeado historico jugador: 1123599
+Scrapeado historico jugador: 1310053
+Scrapeado historico jugador: 1066210
+Scrapeado historico jugador: 1025207
+
+Procesando batch 6 de URLs
+Scrapeado historico jugador: 1310115
+Scrapeado historico jugador: 711963
+Scrapeado historico jugador: 928701
+Scrapeado historico jugador: 827570
+Scrapeado historico jugador: 474361
+Scrapeado historico jugador: 946270
+Scrapeado historico jugador: 1304987
+Scrapeado historico jugador: 1304988
+Scrapeado historico jugador: 1304989
+Scrapeado historico jugador: 1055561
+
+Procesando batch 7 de URLs
+Scrapeado historico jugador: 355316
+Scrapeado historico jugador: 1305783
+Scrapeado historico jugador: 319253
+Scrapeado historico jugador: 1060824
+Scrapeado historico jugador: 834760
+Scrapeado historico jugador: 1123333
+Scrapeado historico jugador: 892933
+Scrapeado historico jugador: 1064471
+Scrapeado historico jugador: 1087262
+Scrapeado historico jugador: 1244136
+
+Procesando batch 8 de URLs
+Scrapeado historico jugador: 1054934
+Scrapeado historico jugador: 1056955
+Scrapeado historico jugador: 1056961
+Scrapeado historico jugador: 1056967
+Scrapeado historico jugador: 1150680
+Scrapeado historico jugador: 963316
+Scrapeado historico jugador: 510369
+Scrapeado historico jugador: 636687
+Scrapeado historico jugador: 1307139
+Scrapeado historico jugador: 1306340
+
+Procesando batch 9 de URLs
+Scrapeado historico jugador: 1267115
+Scrapeado historico jugador: 711377
+Scrapeado historico jugador: 970633
+Scrapeado historico jugador: 1066205
+Scrapeado historico jugador: 962113
+Scrapeado historico jugador: 636360
+Scrapeado historico jugador: 941104
+Scrapeado historico jugador: 1226095
+Scrapeado historico jugador: 1309178
+Scrapeado historico jugador: 709586
+
+Procesando batch 10 de URLs
+Scrapeado historico jugador: 894448
+Scrapeado historico jugador: 1309500
+Scrapeado historico jugador: 552322
+Scrapeado historico jugador: 406658
+Scrapeado historico jugador: 594116
+Scrapeado historico jugador: 1309440
+Scrapeado historico jugador: 1065959
+Scrapeado historico jugador: 1210964
+Scrapeado historico jugador: 1310024
+Scrapeado historico jugador: 720852
+
+Procesando batch 11 de URLs
+Scrapeado historico jugador: 1178117
+Scrapeado historico jugador: 254324
+Scrapeado historico jugador: 852528
+Scrapeado historico jugador: 776061
+Scrapeado historico jugador: 915992
+Scrapeado historico jugador: 1064470
+Scrapeado historico jugador: 517895
+Scrapeado historico jugador: 74764
+Scrapeado historico jugador: 1225911
+Scrapeado historico jugador: 1310031
+
+Procesando batch 12 de URLs
+Scrapeado historico jugador: 888723
+Scrapeado historico jugador: 1185396
+Scrapeado historico jugador: 294341
+Scrapeado historico jugador: 634135
+Scrapeado historico jugador: 1005345
+Scrapeado historico jugador: 1136714
+Scrapeado historico jugador: 976323
+Scrapeado historico jugador: 505563
+Scrapeado historico jugador: 350461
+Scrapeado historico jugador: 557186
+
+Procesando batch 13 de URLs
+Scrapeado historico jugador: 704700
+Scrapeado historico jugador: 720522
+Scrapeado historico jugador: 1009940
+Scrapeado historico jugador: 1123195
+Scrapeado historico jugador: 281962
+Scrapeado historico jugador: 129514
+Scrapeado historico jugador: 936982
+Scrapeado historico jugador: 830680
+Scrapeado historico jugador: 1074235
+Scrapeado historico jugador: 247733
+
+Procesando batch 14 de URLs
+Scrapeado historico jugador: 718202
+Scrapeado historico jugador: 1172342
+Scrapeado historico jugador: 560600
+Scrapeado historico jugador: 1309987
+Scrapeado historico jugador: 948253
+Scrapeado historico jugador: 1071957
+Scrapeado historico jugador: 380952
+Scrapeado historico jugador: 119622
+Scrapeado historico jugador: 994234
+Scrapeado historico jugador: 1064103
+
+Procesando batch 15 de URLs
+Scrapeado historico jugador: 1087022
+Scrapeado historico jugador: 1305049
+Scrapeado historico jugador: 984112
+Scrapeado historico jugador: 170504
+Scrapeado historico jugador: 374147
+Scrapeado historico jugador: 1096011
+Scrapeado historico jugador: 210153
+Scrapeado historico jugador: 292604
+Scrapeado historico jugador: 309007
+Scrapeado historico jugador: 1240826
+
+Procesando batch 16 de URLs
+Scrapeado historico jugador: 635883
+Scrapeado historico jugador: 729315
+Scrapeado historico jugador: 380275
+Scrapeado historico jugador: 767110
+Scrapeado historico jugador: 836424
+Scrapeado historico jugador: 935243
+Scrapeado historico jugador: 993536
+Scrapeado historico jugador: 877610
+Scrapeado historico jugador: 1310070
+Scrapeado historico jugador: 941855
+
+Procesando batch 17 de URLs
+Scrapeado historico jugador: 1262392
+Scrapeado historico jugador: 1309441
+Scrapeado historico jugador: 1265358
+Scrapeado historico jugador: 997206
+Scrapeado historico jugador: 1246995
+Scrapeado historico jugador: 461242
+Scrapeado historico jugador: 643960
+Scrapeado historico jugador: 583552
+Scrapeado historico jugador: 1078438
+Scrapeado historico jugador: 720549
+
+Procesando batch 18 de URLs
+Scrapeado historico jugador: 1123204
+Scrapeado historico jugador: 500533
+Scrapeado historico jugador: 516699
+Scrapeado historico jugador: 703371
+Scrapeado historico jugador: 312870
+Scrapeado historico jugador: 785031
+Scrapeado historico jugador: 967624
+Scrapeado historico jugador: 1041531
+Scrapeado historico jugador: 1060459
+Scrapeado historico jugador: 895242
+
+Procesando batch 19 de URLs
+Scrapeado historico jugador: 198024
+Scrapeado historico jugador: 1300157
+Scrapeado historico jugador: 278404
+Scrapeado historico jugador: 1305193
+Scrapeado historico jugador: 1305196
+Scrapeado historico jugador: 974251
+Scrapeado historico jugador: 272679
+Scrapeado historico jugador: 1063553
+Scrapeado historico jugador: 741254
+Scrapeado historico jugador: 648909
+
+Procesando batch 20 de URLs
+Scrapeado historico jugador: 1305765
+Scrapeado historico jugador: 1138481
+Scrapeado historico jugador: 1279262
+Scrapeado historico jugador: 935245
+Scrapeado historico jugador: 1111697
+Scrapeado historico jugador: 933908
+Scrapeado historico jugador: 1190411
+Scrapeado historico jugador: 1127772
+Scrapeado historico jugador: 504505
+Scrapeado historico jugador: 657791
+
+Procesando batch 21 de URLs
+Scrapeado historico jugador: 1064605
+Scrapeado historico jugador: 1307725
+Scrapeado historico jugador: 1175741
+Scrapeado historico jugador: 1205498
+Scrapeado historico jugador: 715650
+Scrapeado historico jugador: 664872
+Scrapeado historico jugador: 598162
+Scrapeado historico jugador: 720526
+Scrapeado historico jugador: 1305750
+Scrapeado historico jugador: 998298
+
+Procesando batch 22 de URLs
+Scrapeado historico jugador: 128488
+Scrapeado historico jugador: 979310
+Scrapeado historico jugador: 719426
+Scrapeado historico jugador: 774165
+Scrapeado historico jugador: 308982
+Scrapeado historico jugador: 1305561
+Scrapeado historico jugador: 955372
+Scrapeado historico jugador: 892422
+
+-------------------------------------------------------------------------------------------------
+Valor mercado jugadores intento 1. Jugadores restantes: 228
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado grafico valores jugador: 512084
+Scrapeado grafico valores jugador: 1276725
+Scrapeado grafico valores jugador: 520012
+Scrapeado grafico valores jugador: 1308626
+Scrapeado grafico valores jugador: 1283948
+Scrapeado grafico valores jugador: 598967
+Scrapeado grafico valores jugador: 1309527
+Scrapeado grafico valores jugador: 1013120
+Scrapeado grafico valores jugador: 1309837
+Scrapeado grafico valores jugador: 1284845
+
+Procesando batch 1 de URLs
+Scrapeado grafico valores jugador: 784848
+Scrapeado grafico valores jugador: 894060
+Scrapeado grafico valores jugador: 1117105
+Scrapeado grafico valores jugador: 726030
+Scrapeado grafico valores jugador: 908295
+Scrapeado grafico valores jugador: 661150
+Scrapeado grafico valores jugador: 922420
+Scrapeado grafico valores jugador: 1294855
+Scrapeado grafico valores jugador: 255888
+Scrapeado grafico valores jugador: 948270
+
+Procesando batch 2 de URLs
+Scrapeado grafico valores jugador: 646370
+Scrapeado grafico valores jugador: 736425
+Scrapeado grafico valores jugador: 540475
+Scrapeado grafico valores jugador: 786236
+Scrapeado grafico valores jugador: 217728
+Scrapeado grafico valores jugador: 1309811
+Scrapeado grafico valores jugador: 1216529
+Scrapeado grafico valores jugador: 963150
+Scrapeado grafico valores jugador: 531344
+Scrapeado grafico valores jugador: 512083
+
+Procesando batch 3 de URLs
+Scrapeado grafico valores jugador: 677182
+Scrapeado grafico valores jugador: 1149469
+Scrapeado grafico valores jugador: 989396
+Scrapeado grafico valores jugador: 989370
+Scrapeado grafico valores jugador: 1235422
+Scrapeado grafico valores jugador: 1003879
+Scrapeado grafico valores jugador: 647172
+Scrapeado grafico valores jugador: 603964
+Scrapeado grafico valores jugador: 1309989
+Scrapeado grafico valores jugador: 171439
+
+Procesando batch 4 de URLs
+Scrapeado grafico valores jugador: 748037
+Scrapeado grafico valores jugador: 736713
+Scrapeado grafico valores jugador: 890628
+Scrapeado grafico valores jugador: 901976
+Scrapeado grafico valores jugador: 1036044
+Scrapeado grafico valores jugador: 762611
+Scrapeado grafico valores jugador: 685083
+Scrapeado grafico valores jugador: 1189316
+Scrapeado grafico valores jugador: 873978
+Scrapeado grafico valores jugador: 632445
+
+Procesando batch 5 de URLs
+Scrapeado grafico valores jugador: 843728
+Scrapeado grafico valores jugador: 1307181
+Scrapeado grafico valores jugador: 1309042
+Scrapeado grafico valores jugador: 690885
+Scrapeado grafico valores jugador: 1310056
+Scrapeado grafico valores jugador: 1310054
+Scrapeado grafico valores jugador: 1123599
+Scrapeado grafico valores jugador: 1310053
+Scrapeado grafico valores jugador: 1066210
+Scrapeado grafico valores jugador: 1025207
+
+Procesando batch 6 de URLs
+Scrapeado grafico valores jugador: 1310115
+Scrapeado grafico valores jugador: 711963
+Scrapeado grafico valores jugador: 928701
+Scrapeado grafico valores jugador: 827570
+Scrapeado grafico valores jugador: 474361
+Scrapeado grafico valores jugador: 946270
+Scrapeado grafico valores jugador: 1304987
+Scrapeado grafico valores jugador: 1304988
+Scrapeado grafico valores jugador: 1304989
+Scrapeado grafico valores jugador: 1055561
+
+Procesando batch 7 de URLs
+Scrapeado grafico valores jugador: 355316
+Scrapeado grafico valores jugador: 1305783
+Scrapeado grafico valores jugador: 319253
+Scrapeado grafico valores jugador: 1060824
+Scrapeado grafico valores jugador: 834760
+Scrapeado grafico valores jugador: 1123333
+Scrapeado grafico valores jugador: 892933
+Scrapeado grafico valores jugador: 1064471
+Scrapeado grafico valores jugador: 1087262
+Scrapeado grafico valores jugador: 1244136
+
+Procesando batch 8 de URLs
+Scrapeado grafico valores jugador: 1054934
+Scrapeado grafico valores jugador: 1056955
+Scrapeado grafico valores jugador: 1056961
+Scrapeado grafico valores jugador: 1056967
+Scrapeado grafico valores jugador: 1150680
+Scrapeado grafico valores jugador: 963316
+Scrapeado grafico valores jugador: 510369
+Scrapeado grafico valores jugador: 636687
+Scrapeado grafico valores jugador: 1307139
+Scrapeado grafico valores jugador: 1306340
+
+Procesando batch 9 de URLs
+Scrapeado grafico valores jugador: 1267115
+Scrapeado grafico valores jugador: 711377
+Scrapeado grafico valores jugador: 970633
+Scrapeado grafico valores jugador: 1066205
+Scrapeado grafico valores jugador: 962113
+Scrapeado grafico valores jugador: 636360
+Scrapeado grafico valores jugador: 941104
+Scrapeado grafico valores jugador: 1226095
+Scrapeado grafico valores jugador: 1309178
+Scrapeado grafico valores jugador: 709586
+
+Procesando batch 10 de URLs
+Scrapeado grafico valores jugador: 894448
+Scrapeado grafico valores jugador: 1309500
+Scrapeado grafico valores jugador: 552322
+Scrapeado grafico valores jugador: 406658
+Scrapeado grafico valores jugador: 594116
+Scrapeado grafico valores jugador: 1309440
+Scrapeado grafico valores jugador: 1065959
+Scrapeado grafico valores jugador: 1210964
+Scrapeado grafico valores jugador: 1310024
+Scrapeado grafico valores jugador: 720852
+
+Procesando batch 11 de URLs
+Scrapeado grafico valores jugador: 1178117
+Scrapeado grafico valores jugador: 254324
+Scrapeado grafico valores jugador: 852528
+Scrapeado grafico valores jugador: 776061
+Scrapeado grafico valores jugador: 915992
+Scrapeado grafico valores jugador: 1064470
+Scrapeado grafico valores jugador: 517895
+Scrapeado grafico valores jugador: 74764
+Scrapeado grafico valores jugador: 1225911
+Scrapeado grafico valores jugador: 1310031
+
+Procesando batch 12 de URLs
+Scrapeado grafico valores jugador: 888723
+Scrapeado grafico valores jugador: 1185396
+Scrapeado grafico valores jugador: 294341
+Scrapeado grafico valores jugador: 634135
+Scrapeado grafico valores jugador: 1005345
+Scrapeado grafico valores jugador: 1136714
+Scrapeado grafico valores jugador: 976323
+Scrapeado grafico valores jugador: 505563
+Scrapeado grafico valores jugador: 350461
+Scrapeado grafico valores jugador: 557186
+
+Procesando batch 13 de URLs
+Scrapeado grafico valores jugador: 704700
+Scrapeado grafico valores jugador: 720522
+Scrapeado grafico valores jugador: 1009940
+Scrapeado grafico valores jugador: 1123195
+Scrapeado grafico valores jugador: 281962
+Scrapeado grafico valores jugador: 129514
+Scrapeado grafico valores jugador: 936982
+Scrapeado grafico valores jugador: 830680
+Scrapeado grafico valores jugador: 1074235
+Scrapeado grafico valores jugador: 247733
+
+Procesando batch 14 de URLs
+Scrapeado grafico valores jugador: 718202
+Scrapeado grafico valores jugador: 1172342
+Scrapeado grafico valores jugador: 560600
+Scrapeado grafico valores jugador: 1309987
+Scrapeado grafico valores jugador: 948253
+Scrapeado grafico valores jugador: 1071957
+Scrapeado grafico valores jugador: 380952
+Scrapeado grafico valores jugador: 119622
+Scrapeado grafico valores jugador: 994234
+Scrapeado grafico valores jugador: 1064103
+
+Procesando batch 15 de URLs
+Scrapeado grafico valores jugador: 1087022
+Scrapeado grafico valores jugador: 1305049
+Scrapeado grafico valores jugador: 984112
+Scrapeado grafico valores jugador: 170504
+Scrapeado grafico valores jugador: 374147
+Scrapeado grafico valores jugador: 1096011
+Scrapeado grafico valores jugador: 210153
+Scrapeado grafico valores jugador: 292604
+Scrapeado grafico valores jugador: 309007
+Scrapeado grafico valores jugador: 1240826
+
+Procesando batch 16 de URLs
+Scrapeado grafico valores jugador: 635883
+Scrapeado grafico valores jugador: 729315
+Scrapeado grafico valores jugador: 380275
+Scrapeado grafico valores jugador: 767110
+Scrapeado grafico valores jugador: 836424
+Scrapeado grafico valores jugador: 935243
+Scrapeado grafico valores jugador: 993536
+Scrapeado grafico valores jugador: 877610
+Scrapeado grafico valores jugador: 1310070
+Scrapeado grafico valores jugador: 941855
+
+Procesando batch 17 de URLs
+Scrapeado grafico valores jugador: 1262392
+Scrapeado grafico valores jugador: 1309441
+Scrapeado grafico valores jugador: 1265358
+Scrapeado grafico valores jugador: 997206
+Scrapeado grafico valores jugador: 1246995
+Scrapeado grafico valores jugador: 461242
+Scrapeado grafico valores jugador: 643960
+Scrapeado grafico valores jugador: 583552
+Scrapeado grafico valores jugador: 1078438
+Scrapeado grafico valores jugador: 720549
+
+Procesando batch 18 de URLs
+Scrapeado grafico valores jugador: 1123204
+Scrapeado grafico valores jugador: 500533
+Scrapeado grafico valores jugador: 516699
+Scrapeado grafico valores jugador: 703371
+Scrapeado grafico valores jugador: 312870
+Scrapeado grafico valores jugador: 785031
+Scrapeado grafico valores jugador: 967624
+Scrapeado grafico valores jugador: 1041531
+Scrapeado grafico valores jugador: 1060459
+Scrapeado grafico valores jugador: 895242
+
+Procesando batch 19 de URLs
+Scrapeado grafico valores jugador: 198024
+Scrapeado grafico valores jugador: 1300157
+Scrapeado grafico valores jugador: 278404
+Scrapeado grafico valores jugador: 1305193
+Scrapeado grafico valores jugador: 1305196
+Scrapeado grafico valores jugador: 974251
+Scrapeado grafico valores jugador: 272679
+Scrapeado grafico valores jugador: 1063553
+Scrapeado grafico valores jugador: 741254
+Scrapeado grafico valores jugador: 648909
+
+Procesando batch 20 de URLs
+Scrapeado grafico valores jugador: 1305765
+Scrapeado grafico valores jugador: 1138481
+Scrapeado grafico valores jugador: 1279262
+Scrapeado grafico valores jugador: 935245
+Scrapeado grafico valores jugador: 1111697
+Scrapeado grafico valores jugador: 933908
+Scrapeado grafico valores jugador: 1190411
+Scrapeado grafico valores jugador: 1127772
+Scrapeado grafico valores jugador: 504505
+Scrapeado grafico valores jugador: 657791
+
+Procesando batch 21 de URLs
+Scrapeado grafico valores jugador: 1064605
+Scrapeado grafico valores jugador: 1307725
+Scrapeado grafico valores jugador: 1175741
+Scrapeado grafico valores jugador: 1205498
+Scrapeado grafico valores jugador: 715650
+Scrapeado grafico valores jugador: 664872
+Scrapeado grafico valores jugador: 598162
+Scrapeado grafico valores jugador: 720526
+Scrapeado grafico valores jugador: 1305750
+Scrapeado grafico valores jugador: 998298
+
+Procesando batch 22 de URLs
+Scrapeado grafico valores jugador: 128488
+Scrapeado grafico valores jugador: 979310
+Scrapeado grafico valores jugador: 719426
+Scrapeado grafico valores jugador: 774165
+Scrapeado grafico valores jugador: 308982
+Scrapeado grafico valores jugador: 1305561
+Scrapeado grafico valores jugador: 955372
+Scrapeado grafico valores jugador: 892422
+Todos los representantes se insertaron correctamente.
+Todos los jugadores se insertaron correctamente.
+
+-------------------------------------------------------------------------------------------------
+Jugadores scrapeados e insertados: 228
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Representantes scrapeados e insertados: 97
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Inserción de jornada finalizada
+-------------------------------------------------------------------------------------------------
+
+Tiempo total de ejecución: 49 minutos y 3.31 segundos

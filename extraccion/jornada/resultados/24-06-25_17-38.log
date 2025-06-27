@@ -1,0 +1,210 @@
+
+-------------------------------------------------------------------------------------------------
+Scraping de partidos de la jornada
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Partidos de la jornada intento 1. Partidos restantes: 65
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeados datos de partido jugado: 4428485, 2-3
+Scrapeados datos de partido jugado: 4428487, 2-0
+Scrapeados datos de partido jugado: 4428488, 1-3
+Scrapeados datos de partido jugado: 4428493, 1-1
+Scrapeados datos de partido jugado: 4428486, 2-2
+Scrapeados datos de partido jugado: 4428489, 2-2
+Scrapeados datos de partido jugado: 4428490, 0-1
+Scrapeados datos de partido jugado: 4428492, 1-1
+Scrapeados datos de partido jugado: 4428491, 0-2
+Scrapeados datos de partido jugado: 4428494, 2-0
+
+Procesando batch 1 de URLs
+Scrapeados datos de partido jugado: 4440701, 2-0
+Scrapeados datos de partido jugado: 4440704, 0-2
+Scrapeados datos de partido jugado: 4440708, 1-1
+Scrapeados datos de partido jugado: 4440709, 3-1
+Scrapeados datos de partido jugado: 4440705, 0-1
+Scrapeados datos de partido jugado: 4440707, 3-2
+Scrapeados datos de partido jugado: 4440702, 0-1
+Scrapeados datos de partido jugado: 4440703, 0-1
+Scrapeados datos de partido jugado: 4440706, 0-3
+Scrapeados datos de partido jugado: 4429835, 3-1
+
+Procesando batch 2 de URLs
+Scrapeados datos de partido jugado: 4429840, 3-3
+Scrapeados datos de partido jugado: 4429837, 2-1
+Scrapeados datos de partido jugado: 4429836, 0-0
+Scrapeados datos de partido jugado: 4429834, 1-2
+Scrapeados datos de partido jugado: 4429832, 0-1
+Scrapeados datos de partido jugado: 4429839, 4-0
+Scrapeados datos de partido jugado: 4429833, 1-1
+Scrapeados datos de partido jugado: 4429838, 2-2
+Scrapeados datos de partido jugado: 4437312, 1-2
+Scrapeados datos de partido jugado: 4437313, 0-0
+
+Procesando batch 3 de URLs
+Scrapeados datos de partido jugado: 4437315, 1-1
+Scrapeados datos de partido jugado: 4437317, 1-1
+Scrapeados datos de partido jugado: 4437318, 0-2
+Scrapeados datos de partido jugado: 4437311, 1-1
+Scrapeados datos de partido jugado: 4437316, 0-1
+Scrapeados datos de partido jugado: 4437319, 2-1
+Scrapeados datos de partido jugado: 4437314, 3-3
+Scrapeados datos de partido jugado: 4458615, 0-0
+Scrapeados datos de partido jugado: 4458609, 2-0
+Scrapeados datos de partido jugado: 4458613, 1-1
+
+Procesando batch 4 de URLs
+Scrapeados datos de partido jugado: 4458617, 2-0
+Scrapeados datos de partido jugado: 4458610, 1-0
+Scrapeados datos de partido jugado: 4458614, 0-0
+Scrapeados datos de partido jugado: 4458612, 3-1
+Scrapeados datos de partido jugado: 4458616, 0-0
+Scrapeados datos de partido jugado: 4458611, 3-1
+Scrapeados datos de partido jugado: 4428199, 0-0
+Scrapeados datos de partido jugado: 4428201, 0-1
+Scrapeados datos de partido jugado: 4428202, 1-1
+Scrapeados datos de partido jugado: 4428203, 1-0
+
+Procesando batch 5 de URLs
+Scrapeados datos de partido jugado: 4428208, 2-1
+Scrapeados datos de partido jugado: 4428206, 0-0
+Scrapeados datos de partido jugado: 4428200, 1-0
+Scrapeados datos de partido jugado: 4428207, 1-1
+Scrapeados datos de partido jugado: 4428204, 3-1
+Scrapeados datos de partido jugado: 4428205, 0-1
+Scrapeados datos de partido jugado: 4441100, 1-0
+Scrapeados datos de partido jugado: 4441103, 0-0
+Scrapeados datos de partido jugado: 4441099, 1-1
+Scrapeados datos de partido jugado: 4441097, 0-0
+
+Procesando batch 6 de URLs
+Scrapeados datos de partido jugado: 4441104, 5-1
+Scrapeados datos de partido jugado: 4441102, 2-2
+Scrapeados datos de partido jugado: 4441105, 2-0
+Scrapeados datos de partido jugado: 4441101, 1-2
+Scrapeados datos de partido jugado: 4441098, 0-2
+
+-------------------------------------------------------------------------------------------------
+Scraping de partidos: datos de 65 partidos jugados distintos
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Estadísticas de scraping
+-------------------------------------------------------------------------------------------------
+
+Páginas únicas scrapeadas: 65
+
+Asyncio semaphore: 10
+
+Tamaño del chunk: 10
+
+Páginas fallidas: 85
+
+-------------------------------------------------------------------------------------------------
+Reintento 1
+-------------------------------------------------------------------------------------------------
+· URLFailReason.EMPTY | https://www.transfermarkt.es/cd-alfaro_cd-tudelano/index/spielbericht/4440706 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/cd-estepona-fs_juventud-torremolinos-cf/index/spielbericht/4429840 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/cd-don-benito_aguilas-fc/index/spielbericht/4429837 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/deportiva-minera_real-balompedica-linense/index/spielbericht/4429836 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/ucam-murcia-cf_cadiz-cf-mirandilla/index/spielbericht/4429839 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/club-atletico-antoniano_recreativo-granada/index/spielbericht/4429833 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/xerez-deportivo-fc_orihuela-cf/index/spielbericht/4429838 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/ud-llanera_coruxo-fc/index/spielbericht/4437312 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/salamanca-cf-uds_real-aviles-industrial/index/spielbericht/4437313 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/cd-lugo_barakaldo-cf/index/spielbericht/4428206 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/cd-arenteiro_bilbao-athletic/index/spielbericht/4428200 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/real-union-club_sd-amorebieta/index/spielbericht/4428207 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/ca-osasuna-promesas_rc-celta-fortuna/index/spielbericht/4428204 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/zamora-cf_cultural-leonesa/index/spielbericht/4428205 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/ue-olot_ce-andratx/index/spielbericht/4441100 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/ce-sabadell-fc_cd-ibiza-islas-pitiusas/index/spielbericht/4441099 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/ue-cornella_cd-atletico-baleares/index/spielbericht/4441097 | Contenido vacío (<1000 caracteres)
+
+-------------------------------------------------------------------------------------------------
+Reintento 2
+-------------------------------------------------------------------------------------------------
+· URLFailReason.EMPTY | https://www.transfermarkt.es/cd-alfaro_cd-tudelano/index/spielbericht/4440706 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/cd-estepona-fs_juventud-torremolinos-cf/index/spielbericht/4429840 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/cd-don-benito_aguilas-fc/index/spielbericht/4429837 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/deportiva-minera_real-balompedica-linense/index/spielbericht/4429836 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/ucam-murcia-cf_cadiz-cf-mirandilla/index/spielbericht/4429839 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/club-atletico-antoniano_recreativo-granada/index/spielbericht/4429833 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/xerez-deportivo-fc_orihuela-cf/index/spielbericht/4429838 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/ud-llanera_coruxo-fc/index/spielbericht/4437312 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/salamanca-cf-uds_real-aviles-industrial/index/spielbericht/4437313 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/cd-lugo_barakaldo-cf/index/spielbericht/4428206 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/cd-arenteiro_bilbao-athletic/index/spielbericht/4428200 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/real-union-club_sd-amorebieta/index/spielbericht/4428207 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/ca-osasuna-promesas_rc-celta-fortuna/index/spielbericht/4428204 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/zamora-cf_cultural-leonesa/index/spielbericht/4428205 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/ue-olot_ce-andratx/index/spielbericht/4441100 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/ce-sabadell-fc_cd-ibiza-islas-pitiusas/index/spielbericht/4441099 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/ue-cornella_cd-atletico-baleares/index/spielbericht/4441097 | Contenido vacío (<1000 caracteres)
+
+-------------------------------------------------------------------------------------------------
+Reintento 3
+-------------------------------------------------------------------------------------------------
+· URLFailReason.EMPTY | https://www.transfermarkt.es/cd-alfaro_cd-tudelano/index/spielbericht/4440706 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/cd-estepona-fs_juventud-torremolinos-cf/index/spielbericht/4429840 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/cd-don-benito_aguilas-fc/index/spielbericht/4429837 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/deportiva-minera_real-balompedica-linense/index/spielbericht/4429836 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/ucam-murcia-cf_cadiz-cf-mirandilla/index/spielbericht/4429839 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/club-atletico-antoniano_recreativo-granada/index/spielbericht/4429833 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/xerez-deportivo-fc_orihuela-cf/index/spielbericht/4429838 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/ud-llanera_coruxo-fc/index/spielbericht/4437312 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/salamanca-cf-uds_real-aviles-industrial/index/spielbericht/4437313 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/cd-lugo_barakaldo-cf/index/spielbericht/4428206 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/cd-arenteiro_bilbao-athletic/index/spielbericht/4428200 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/real-union-club_sd-amorebieta/index/spielbericht/4428207 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/ca-osasuna-promesas_rc-celta-fortuna/index/spielbericht/4428204 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/zamora-cf_cultural-leonesa/index/spielbericht/4428205 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/ue-olot_ce-andratx/index/spielbericht/4441100 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/ce-sabadell-fc_cd-ibiza-islas-pitiusas/index/spielbericht/4441099 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/ue-cornella_cd-atletico-baleares/index/spielbericht/4441097 | Contenido vacío (<1000 caracteres)
+
+-------------------------------------------------------------------------------------------------
+Reintento 4
+-------------------------------------------------------------------------------------------------
+· URLFailReason.EMPTY | https://www.transfermarkt.es/cd-estepona-fs_juventud-torremolinos-cf/index/spielbericht/4429840 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/cd-don-benito_aguilas-fc/index/spielbericht/4429837 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/deportiva-minera_real-balompedica-linense/index/spielbericht/4429836 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/ucam-murcia-cf_cadiz-cf-mirandilla/index/spielbericht/4429839 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/club-atletico-antoniano_recreativo-granada/index/spielbericht/4429833 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/xerez-deportivo-fc_orihuela-cf/index/spielbericht/4429838 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/ud-llanera_coruxo-fc/index/spielbericht/4437312 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/salamanca-cf-uds_real-aviles-industrial/index/spielbericht/4437313 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/cd-lugo_barakaldo-cf/index/spielbericht/4428206 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/cd-arenteiro_bilbao-athletic/index/spielbericht/4428200 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/real-union-club_sd-amorebieta/index/spielbericht/4428207 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/ca-osasuna-promesas_rc-celta-fortuna/index/spielbericht/4428204 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/zamora-cf_cultural-leonesa/index/spielbericht/4428205 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/ue-olot_ce-andratx/index/spielbericht/4441100 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/ce-sabadell-fc_cd-ibiza-islas-pitiusas/index/spielbericht/4441099 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/ue-cornella_cd-atletico-baleares/index/spielbericht/4441097 | Contenido vacío (<1000 caracteres)
+
+-------------------------------------------------------------------------------------------------
+Reintento 5
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Reintento 6
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Reintento 7
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Fichero JSON
+-------------------------------------------------------------------------------------------------
+Fichero creado: c:\Users\alexl\OneDrive - Universidade de Santiago de Compostela\TFG\Scraping\extraccion\jornada\resultados\datos_partidos_jornada.json
+
+-------------------------------------------------------------------------------------------------
+Fichero JSON
+-------------------------------------------------------------------------------------------------
+Fichero creado: c:\Users\alexl\OneDrive - Universidade de Santiago de Compostela\TFG\Scraping\extraccion\jornada\resultados\24-06-25_17-38datos_partidos_jornada.json
+
+Tiempo total de ejecución: 10 minutos y 48.69 segundos

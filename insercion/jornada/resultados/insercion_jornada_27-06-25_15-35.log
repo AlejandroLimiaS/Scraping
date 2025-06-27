@@ -1,0 +1,115 @@
+
+-------------------------------------------------------------------------------------------------
+Iniciando inserción de jornada
+-------------------------------------------------------------------------------------------------
+Todas las inserciones finalizaron correctamente.
+
+-------------------------------------------------------------------------------------------------
+Jugadores encontrados que no estaban en la Base: 18
+-------------------------------------------------------------------------------------------------
+Scrapeandolos y insertandolos en la base de datos...
+
+-------------------------------------------------------------------------------------------------
+Jugadores intento 1. Jugadores restantes: 18
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado jugador: Christian David Hernández Silva
+Scrapeado jugador: Hugo Hernández Hernández
+Scrapeado jugador: Carlos Adonay Domínguez López
+Scrapeado jugador: Marcos Moraga Rodríguez
+Scrapeado jugador: Jon Martín Vicente
+Scrapeado jugador: Brice Ghussein
+Scrapeado jugador: Christian Godson
+Scrapeado jugador: Shaheen Sahid Georges Keenoo
+Scrapeado jugador: Samuel Fernández García
+Scrapeado jugador: Hugo Calvo Vadillo
+
+Procesando batch 1 de URLs
+Scrapeado jugador: Raúl Casielles García
+Scrapeado jugador: Iñaki Jordá Rodriguez
+Scrapeado jugador: Francisco Esteban Sánchez
+Scrapeado jugador: Gianluca Mancuso
+Scrapeado jugador: Antonio Martínez Bastida
+Scrapeado jugador: Unax Ayo Larrañaga
+Scrapeado jugador: Carlos Ortigosa Gallardo
+Scrapeado jugador: Alejandro Gomes Furtado
+
+-------------------------------------------------------------------------------------------------
+Agentes intento 1. Agentes restantes: 5
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado agente: IDUB GLOBAL
+Scrapeado agente: FJL Sports Management LLC
+Scrapeado agente: SimaSport Soccer
+Scrapeado agente: PHsport
+Scrapeado agente: Premier Fútbol
+
+-------------------------------------------------------------------------------------------------
+Historico jugadores intento 1. Jugadores restantes: 18
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado historico jugador: 1371209
+Scrapeado historico jugador: 1064539
+Scrapeado historico jugador: 1371210
+Scrapeado historico jugador: 1064657
+Scrapeado historico jugador: 1018938
+Scrapeado historico jugador: 1113272
+Scrapeado historico jugador: 1371150
+Scrapeado historico jugador: 1371186
+Scrapeado historico jugador: 1202626
+Scrapeado historico jugador: 1371187
+
+Procesando batch 1 de URLs
+Scrapeado historico jugador: 1371191
+Scrapeado historico jugador: 1369025
+Scrapeado historico jugador: 937954
+Scrapeado historico jugador: 401581
+Scrapeado historico jugador: 1186240
+Scrapeado historico jugador: 1354770
+Scrapeado historico jugador: 1371094
+Scrapeado historico jugador: 1371198
+
+-------------------------------------------------------------------------------------------------
+Valor mercado jugadores intento 1. Jugadores restantes: 18
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado grafico valores jugador: 1371209
+Scrapeado grafico valores jugador: 1064539
+Scrapeado grafico valores jugador: 1371210
+Scrapeado grafico valores jugador: 1064657
+Scrapeado grafico valores jugador: 1018938
+Scrapeado grafico valores jugador: 1113272
+Scrapeado grafico valores jugador: 1371150
+Scrapeado grafico valores jugador: 1371186
+Scrapeado grafico valores jugador: 1202626
+Scrapeado grafico valores jugador: 1371187
+
+Procesando batch 1 de URLs
+Scrapeado grafico valores jugador: 1371191
+Scrapeado grafico valores jugador: 1369025
+Scrapeado grafico valores jugador: 937954
+Scrapeado grafico valores jugador: 401581
+Scrapeado grafico valores jugador: 1186240
+Scrapeado grafico valores jugador: 1354770
+Scrapeado grafico valores jugador: 1371094
+Scrapeado grafico valores jugador: 1371198
+Todos los representantes se insertaron correctamente.
+Todos los jugadores se insertaron correctamente.
+
+-------------------------------------------------------------------------------------------------
+Jugadores scrapeados e insertados: 18
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Representantes scrapeados e insertados: 5
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Inserción de jornada finalizada
+-------------------------------------------------------------------------------------------------
+
+Tiempo total de ejecución: 1 minutos y 23.72 segundos

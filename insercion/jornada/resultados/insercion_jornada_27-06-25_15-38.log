@@ -1,0 +1,81 @@
+
+-------------------------------------------------------------------------------------------------
+Iniciando inserción de jornada
+-------------------------------------------------------------------------------------------------
+Todas las inserciones finalizaron correctamente.
+
+-------------------------------------------------------------------------------------------------
+Jugadores encontrados que no estaban en la Base: 10
+-------------------------------------------------------------------------------------------------
+Scrapeandolos y insertandolos en la base de datos...
+
+-------------------------------------------------------------------------------------------------
+Jugadores intento 1. Jugadores restantes: 10
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado jugador: Miguel Pérez García
+Scrapeado jugador: Guillem Barrés Ramos
+Scrapeado jugador: Manuel Pavón Colombo
+Scrapeado jugador: Houssam Kounia
+Scrapeado jugador: Owen Tega Udoh
+Scrapeado jugador: David Vergara Basalo
+Scrapeado jugador: José María de la Cierva Sánchez
+Scrapeado jugador: Jorge Saz Vicente
+Scrapeado jugador: Daniel Martínez Casado
+Scrapeado jugador: Marcos Aceituno Pliego
+
+-------------------------------------------------------------------------------------------------
+Agentes intento 1. Agentes restantes: 1
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado agente: IF FOOTBALL
+
+-------------------------------------------------------------------------------------------------
+Historico jugadores intento 1. Jugadores restantes: 10
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado historico jugador: 1194421
+Scrapeado historico jugador: 1370627
+Scrapeado historico jugador: 1371693
+Scrapeado historico jugador: 1180815
+Scrapeado historico jugador: 1300159
+Scrapeado historico jugador: 1373489
+Scrapeado historico jugador: 1396797
+Scrapeado historico jugador: 1376109
+Scrapeado historico jugador: 1373530
+Scrapeado historico jugador: 1064417
+
+-------------------------------------------------------------------------------------------------
+Valor mercado jugadores intento 1. Jugadores restantes: 10
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado grafico valores jugador: 1194421
+Scrapeado grafico valores jugador: 1370627
+Scrapeado grafico valores jugador: 1371693
+Scrapeado grafico valores jugador: 1180815
+Scrapeado grafico valores jugador: 1300159
+Scrapeado grafico valores jugador: 1373489
+Scrapeado grafico valores jugador: 1396797
+Scrapeado grafico valores jugador: 1376109
+Scrapeado grafico valores jugador: 1373530
+Scrapeado grafico valores jugador: 1064417
+Todos los representantes se insertaron correctamente.
+Todos los jugadores se insertaron correctamente.
+
+-------------------------------------------------------------------------------------------------
+Jugadores scrapeados e insertados: 10
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Representantes scrapeados e insertados: 1
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Inserción de jornada finalizada
+-------------------------------------------------------------------------------------------------
+
+Tiempo total de ejecución: 4 minutos y 37.52 segundos

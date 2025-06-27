@@ -1,0 +1,75 @@
+
+-------------------------------------------------------------------------------------------------
+Iniciando inserción de jornada
+-------------------------------------------------------------------------------------------------
+Partido 4430065 ya procesado anteriormente. Liga: 4, Jornada: 25, Local: 99, Visitante: 104
+Todas las inserciones finalizaron correctamente.
+
+-------------------------------------------------------------------------------------------------
+Jugadores encontrados que no estaban en la Base: 7
+-------------------------------------------------------------------------------------------------
+Scrapeandolos y insertandolos en la base de datos...
+
+-------------------------------------------------------------------------------------------------
+Jugadores intento 1. Jugadores restantes: 7
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado jugador: Cheikh Mbacké Sall
+Scrapeado jugador: Marcos Marian Manolache
+Scrapeado jugador: Unax Muniozguren Alonso
+Scrapeado jugador: Gonzalo Guzmán Alonso
+Scrapeado jugador: Diego Rodríguez Gallardo
+Scrapeado jugador: Beñat García Goñi
+Scrapeado jugador: Javier Olaizola Jiménez
+
+-------------------------------------------------------------------------------------------------
+Agentes intento 1. Agentes restantes: 3
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado agente: CSM Agency
+Scrapeado agente: RySManagement
+Scrapeado agente: LIAN Sports Group
+
+-------------------------------------------------------------------------------------------------
+Historico jugadores intento 1. Jugadores restantes: 7
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado historico jugador: 1396820
+Scrapeado historico jugador: 1259832
+Scrapeado historico jugador: 1385403
+Scrapeado historico jugador: 766553
+Scrapeado historico jugador: 766556
+Scrapeado historico jugador: 1179373
+Scrapeado historico jugador: 1385448
+
+-------------------------------------------------------------------------------------------------
+Valor mercado jugadores intento 1. Jugadores restantes: 7
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado grafico valores jugador: 1396820
+Scrapeado grafico valores jugador: 1259832
+Scrapeado grafico valores jugador: 1385403
+Scrapeado grafico valores jugador: 766553
+Scrapeado grafico valores jugador: 766556
+Scrapeado grafico valores jugador: 1179373
+Scrapeado grafico valores jugador: 1385448
+Todos los representantes se insertaron correctamente.
+Todos los jugadores se insertaron correctamente.
+
+-------------------------------------------------------------------------------------------------
+Jugadores scrapeados e insertados: 7
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Representantes scrapeados e insertados: 3
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Inserción de jornada finalizada
+-------------------------------------------------------------------------------------------------
+
+Tiempo total de ejecución: 1 minutos y 1.08 segundos

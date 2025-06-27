@@ -1,0 +1,60 @@
+
+-------------------------------------------------------------------------------------------------
+Iniciando inserción de ligas
+-------------------------------------------------------------------------------------------------
+Se han cargado 7 ligas.
+Se van a insertar 7 ligas en la base de datos.
+Error en liga E3G1 (intento 1): 'Connection' object has no attribute 'transaction'
+Error en liga E3G2 (intento 1): 'Connection' object has no attribute 'transaction'
+Error en liga E4G1 (intento 1): 'Connection' object has no attribute 'transaction'
+Error en liga E4G2 (intento 1): 'Connection' object has no attribute 'transaction'
+Error en liga E4G3 (intento 1): 'Connection' object has no attribute 'transaction'
+Error en liga E4G4 (intento 1): 'Connection' object has no attribute 'transaction'
+Error en liga E4G5 (intento 1): 'Connection' object has no attribute 'transaction'
+Error en liga E3G1 (intento 2): 'Connection' object has no attribute 'transaction'
+Error en liga E3G2 (intento 2): 'Connection' object has no attribute 'transaction'
+Error en liga E4G1 (intento 2): 'Connection' object has no attribute 'transaction'
+Error en liga E4G2 (intento 2): 'Connection' object has no attribute 'transaction'
+Error en liga E4G3 (intento 2): 'Connection' object has no attribute 'transaction'
+Error en liga E4G4 (intento 2): 'Connection' object has no attribute 'transaction'
+Error en liga E4G5 (intento 2): 'Connection' object has no attribute 'transaction'
+Error en liga E3G1 (intento 3): 'Connection' object has no attribute 'transaction'
+Error en liga E3G2 (intento 3): 'Connection' object has no attribute 'transaction'
+Error en liga E4G1 (intento 3): 'Connection' object has no attribute 'transaction'
+Error en liga E4G2 (intento 3): 'Connection' object has no attribute 'transaction'
+Error en liga E4G3 (intento 3): 'Connection' object has no attribute 'transaction'
+Error en liga E4G4 (intento 3): 'Connection' object has no attribute 'transaction'
+Error en liga E4G5 (intento 3): 'Connection' object has no attribute 'transaction'
+Error en liga E3G1 (intento 4): 'Connection' object has no attribute 'transaction'
+Error en liga E3G2 (intento 4): 'Connection' object has no attribute 'transaction'
+Error en liga E4G1 (intento 4): 'Connection' object has no attribute 'transaction'
+Error en liga E4G2 (intento 4): 'Connection' object has no attribute 'transaction'
+Error en liga E4G3 (intento 4): 'Connection' object has no attribute 'transaction'
+Error en liga E4G4 (intento 4): 'Connection' object has no attribute 'transaction'
+Error en liga E4G5 (intento 4): 'Connection' object has no attribute 'transaction'
+Error en liga E3G1 (intento 5): 'Connection' object has no attribute 'transaction'
+Falló liga E3G1 tras 5 intentos.
+Error en liga E3G2 (intento 5): 'Connection' object has no attribute 'transaction'
+Falló liga E3G2 tras 5 intentos.
+Error en liga E4G1 (intento 5): 'Connection' object has no attribute 'transaction'
+Falló liga E4G1 tras 5 intentos.
+Error en liga E4G2 (intento 5): 'Connection' object has no attribute 'transaction'
+Falló liga E4G2 tras 5 intentos.
+Error en liga E4G3 (intento 5): 'Connection' object has no attribute 'transaction'
+Falló liga E4G3 tras 5 intentos.
+Error en liga E4G4 (intento 5): 'Connection' object has no attribute 'transaction'
+Falló liga E4G4 tras 5 intentos.
+Error en liga E4G5 (intento 5): 'Connection' object has no attribute 'transaction'
+Falló liga E4G5 tras 5 intentos.
+
+-------------------------------------------------------------------------------------------------
+Finalizando inserción de ligas.
+-------------------------------------------------------------------------------------------------
+Se han producido 7 fallos al insertar ligas.
+Pool de conexión cerrado.
+
+-------------------------------------------------------------------------------------------------
+Inserción de ligas finalizada
+-------------------------------------------------------------------------------------------------
+
+Tiempo total de ejecución: 0 minutos y 0.14 segundos

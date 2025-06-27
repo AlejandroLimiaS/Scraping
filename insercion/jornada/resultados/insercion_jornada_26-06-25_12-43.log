@@ -1,0 +1,77 @@
+
+-------------------------------------------------------------------------------------------------
+Iniciando inserción de jornada
+-------------------------------------------------------------------------------------------------
+Todas las inserciones finalizaron correctamente.
+
+-------------------------------------------------------------------------------------------------
+Jugadores encontrados que no estaban en la Base: 8
+-------------------------------------------------------------------------------------------------
+Scrapeandolos y insertandolos en la base de datos...
+
+-------------------------------------------------------------------------------------------------
+Jugadores intento 1. Jugadores restantes: 8
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado jugador: Frank Germain Jonathan Miller
+Scrapeado jugador: Alejandro Fernández González
+Scrapeado jugador: Raúl Vilches González
+Scrapeado jugador: Daniel Triguero Gironés
+Scrapeado jugador: Cachorro
+Scrapeado jugador: Pablo Évora Ponce
+Scrapeado jugador: Kai Aparisi Toennessen
+Scrapeado jugador: Hugo López Cortés
+
+-------------------------------------------------------------------------------------------------
+Agentes intento 1. Agentes restantes: 3
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado agente: Elite Project Group Limited
+Scrapeado agente: RuGonSoccer
+Scrapeado agente: Niagara Sports Company
+
+-------------------------------------------------------------------------------------------------
+Historico jugadores intento 1. Jugadores restantes: 8
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado historico jugador: 1323788
+Scrapeado historico jugador: 1409540
+Scrapeado historico jugador: 1409551
+Scrapeado historico jugador: 1409552
+Scrapeado historico jugador: 1409550
+Scrapeado historico jugador: 1226523
+Scrapeado historico jugador: 1123710
+Scrapeado historico jugador: 1331450
+
+-------------------------------------------------------------------------------------------------
+Valor mercado jugadores intento 1. Jugadores restantes: 8
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado grafico valores jugador: 1323788
+Scrapeado grafico valores jugador: 1409540
+Scrapeado grafico valores jugador: 1409551
+Scrapeado grafico valores jugador: 1409552
+Scrapeado grafico valores jugador: 1409550
+Scrapeado grafico valores jugador: 1226523
+Scrapeado grafico valores jugador: 1123710
+Scrapeado grafico valores jugador: 1331450
+Todos los representantes se insertaron correctamente.
+Todos los jugadores se insertaron correctamente.
+
+-------------------------------------------------------------------------------------------------
+Jugadores scrapeados e insertados: 8
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Representantes scrapeados e insertados: 3
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Inserción de jornada finalizada
+-------------------------------------------------------------------------------------------------
+
+Tiempo total de ejecución: 0 minutos y 51.35 segundos

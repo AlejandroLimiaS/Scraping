@@ -1,0 +1,1042 @@
+[
+    {
+        "nombre": "FC Barcelona Atlètic",
+        "cod_club": "131",
+        "cod_equipo": "2464",
+        "localidad": "Barcelona España",
+        "primer_equipo": "FC Barcelona",
+        "liga": "Primera Federación - Grupo 1"
+    },
+    {
+        "nombre": "RC Celta Fortuna",
+        "cod_club": "940",
+        "cod_equipo": "8733",
+        "localidad": "Vigo España",
+        "primer_equipo": "RC Celta de Vigo",
+        "liga": "Primera Federación - Grupo 1"
+    },
+    {
+        "nombre": "Real Sociedad B",
+        "cod_club": "681",
+        "cod_equipo": "9899",
+        "localidad": "Donostia-San Sebastián España",
+        "primer_equipo": "Real Sociedad",
+        "liga": "Primera Federación - Grupo 1"
+    },
+    {
+        "nombre": "FC Andorra",
+        "cod_club": "10718",
+        "cod_equipo": "10718",
+        "localidad": "Andorra la Vella Andorra",
+        "primer_equipo": "FC Andorra",
+        "liga": "Primera Federación - Grupo 1"
+    },
+    {
+        "nombre": "SD Ponferradina",
+        "cod_club": "4032",
+        "cod_equipo": "4032",
+        "localidad": "Ponferrada España",
+        "primer_equipo": "SD Ponferradina",
+        "liga": "Primera Federación - Grupo 1"
+    },
+    {
+        "nombre": "Cultural Leonesa",
+        "cod_club": "4542",
+        "cod_equipo": "4542",
+        "localidad": "León España",
+        "primer_equipo": "Cultural Leonesa",
+        "liga": "Primera Federación - Grupo 1"
+    },
+    {
+        "nombre": "Bilbao Athletic",
+        "cod_club": "621",
+        "cod_equipo": "6688",
+        "localidad": "Bilbao-Bilbo España",
+        "primer_equipo": "Athletic Club",
+        "liga": "Primera Federación - Grupo 1"
+    },
+    {
+        "nombre": "Gimnàstic de Tarragona",
+        "cod_club": "5648",
+        "cod_equipo": "5648",
+        "localidad": "Tarragona España",
+        "primer_equipo": "Gimnàstic de Tarragona",
+        "liga": "Primera Federación - Grupo 1"
+    },
+    {
+        "nombre": "CA Osasuna Promesas",
+        "cod_club": "331",
+        "cod_equipo": "8516",
+        "localidad": "Pamplona España",
+        "primer_equipo": "CA Osasuna",
+        "liga": "Primera Federación - Grupo 1"
+    },
+    {
+        "nombre": "Ourense CF",
+        "cod_club": "55398",
+        "cod_equipo": "55398",
+        "localidad": "Orense España",
+        "primer_equipo": "Ourense CF",
+        "liga": "Primera Federación - Grupo 1"
+    },
+    {
+        "nombre": "Unionistas de Salamanca CF",
+        "cod_club": "52397",
+        "cod_equipo": "52397",
+        "localidad": "Salamanca España",
+        "primer_equipo": "Unionistas de Salamanca CF",
+        "liga": "Primera Federación - Grupo 1"
+    },
+    {
+        "nombre": "CD Lugo",
+        "cod_club": "11000",
+        "cod_equipo": "11000",
+        "localidad": "Lugo España",
+        "primer_equipo": "CD Lugo",
+        "liga": "Primera Federación - Grupo 1"
+    },
+    {
+        "nombre": "Zamora CF",
+        "cod_club": "10907",
+        "cod_equipo": "10907",
+        "localidad": "Zamora España",
+        "primer_equipo": "Zamora CF",
+        "liga": "Primera Federación - Grupo 1"
+    },
+    {
+        "nombre": "Real Unión Club",
+        "cod_club": "12405",
+        "cod_equipo": "12405",
+        "localidad": "Irun España",
+        "primer_equipo": "Real Unión Club",
+        "liga": "Primera Federación - Grupo 1"
+    },
+    {
+        "nombre": "Barakaldo CF",
+        "cod_club": "3708",
+        "cod_equipo": "3708",
+        "localidad": "Barakaldo España",
+        "primer_equipo": "Barakaldo CF",
+        "liga": "Primera Federación - Grupo 1"
+    },
+    {
+        "nombre": "CD Arenteiro",
+        "cod_club": "58946",
+        "cod_equipo": "58946",
+        "localidad": "O Carballiño España",
+        "primer_equipo": "CD Arenteiro",
+        "liga": "Primera Federación - Grupo 1"
+    },
+    {
+        "nombre": "Sestao River",
+        "cod_club": "13240",
+        "cod_equipo": "13240",
+        "localidad": "Sestao España",
+        "primer_equipo": "Sestao River",
+        "liga": "Primera Federación - Grupo 1"
+    },
+    {
+        "nombre": "SD Tarazona",
+        "cod_club": "41403",
+        "cod_equipo": "41403",
+        "localidad": "Tarazona España",
+        "primer_equipo": "SD Tarazona",
+        "liga": "Primera Federación - Grupo 1"
+    },
+    {
+        "nombre": "SD Amorebieta",
+        "cod_club": "16575",
+        "cod_equipo": "16575",
+        "localidad": "Amorebieta-Echano España",
+        "primer_equipo": "SD Amorebieta",
+        "liga": "Primera Federación - Grupo 1"
+    },
+    {
+        "nombre": "Gimnástica Segoviana CF",
+        "cod_club": "33306",
+        "cod_equipo": "33306",
+        "localidad": "-",
+        "primer_equipo": "Gimnástica Segoviana CF",
+        "liga": "Primera Federación - Grupo 1"
+    },
+    {
+        "nombre": "Real Madrid Castilla",
+        "cod_club": "418",
+        "cod_equipo": "6767",
+        "localidad": "Madrid España",
+        "primer_equipo": "Real Madrid CF",
+        "liga": "Primera Federación - Grupo 2"
+    },
+    {
+        "nombre": "Villarreal CF B",
+        "cod_club": "1050",
+        "cod_equipo": "11972",
+        "localidad": "Villarreal España",
+        "primer_equipo": "Villarreal CF",
+        "liga": "Primera Federación - Grupo 2"
+    },
+    {
+        "nombre": "Atlético de Madrid B",
+        "cod_club": "13",
+        "cod_equipo": "3679",
+        "localidad": "Madrid España",
+        "primer_equipo": "Atlético de Madrid",
+        "liga": "Primera Federación - Grupo 2"
+    },
+    {
+        "nombre": "Betis Deportivo Balompié",
+        "cod_club": "150",
+        "cod_equipo": "2865",
+        "localidad": "Sevilla España",
+        "primer_equipo": "Real Betis Balompié",
+        "liga": "Primera Federación - Grupo 2"
+    },
+    {
+        "nombre": "Sevilla Atlético",
+        "cod_club": "368",
+        "cod_equipo": "8519",
+        "localidad": "Sevilla España",
+        "primer_equipo": "Sevilla FC",
+        "liga": "Primera Federación - Grupo 2"
+    },
+    {
+        "nombre": "Real Murcia CF",
+        "cod_club": "171",
+        "cod_equipo": "171",
+        "localidad": "Murcia España",
+        "primer_equipo": "Real Murcia CF",
+        "liga": "Primera Federación - Grupo 2"
+    },
+    {
+        "nombre": "UD Ibiza",
+        "cod_club": "13241",
+        "cod_equipo": "13241",
+        "localidad": "-",
+        "primer_equipo": "UD Ibiza",
+        "liga": "Primera Federación - Grupo 2"
+    },
+    {
+        "nombre": "Marbella FC",
+        "cod_club": "12361",
+        "cod_equipo": "12361",
+        "localidad": "Marbella, Málaga España",
+        "primer_equipo": "Marbella FC",
+        "liga": "Primera Federación - Grupo 2"
+    },
+    {
+        "nombre": "Hércules CF",
+        "cod_club": "7971",
+        "cod_equipo": "7971",
+        "localidad": "Alicante España",
+        "primer_equipo": "Hércules CF",
+        "liga": "Primera Federación - Grupo 2"
+    },
+    {
+        "nombre": "Antequera CF",
+        "cod_club": "16022",
+        "cod_equipo": "16022",
+        "localidad": "Antequera España",
+        "primer_equipo": "Antequera CF",
+        "liga": "Primera Federación - Grupo 2"
+    },
+    {
+        "nombre": "AD Ceuta FC",
+        "cod_club": "8568",
+        "cod_equipo": "8568",
+        "localidad": "Ceuta España",
+        "primer_equipo": "AD Ceuta FC",
+        "liga": "Primera Federación - Grupo 2"
+    },
+    {
+        "nombre": "AD Alcorcón",
+        "cod_club": "11596",
+        "cod_equipo": "11596",
+        "localidad": "Alcorcón España",
+        "primer_equipo": "AD Alcorcón",
+        "liga": "Primera Federación - Grupo 2"
+    },
+    {
+        "nombre": "Mérida AD",
+        "cod_club": "46854",
+        "cod_equipo": "46854",
+        "localidad": "Mérida España",
+        "primer_equipo": "Mérida AD",
+        "liga": "Primera Federación - Grupo 2"
+    },
+    {
+        "nombre": "CF Intercity",
+        "cod_club": "67212",
+        "cod_equipo": "67212",
+        "localidad": "Alicante España",
+        "primer_equipo": "CF Intercity",
+        "liga": "Primera Federación - Grupo 2"
+    },
+    {
+        "nombre": "CD Alcoyano",
+        "cod_club": "11259",
+        "cod_equipo": "11259",
+        "localidad": "Alcoy España",
+        "primer_equipo": "CD Alcoyano",
+        "liga": "Primera Federación - Grupo 2"
+    },
+    {
+        "nombre": "Algeciras CF",
+        "cod_club": "3705",
+        "cod_equipo": "3705",
+        "localidad": "Algeciras España",
+        "primer_equipo": "Algeciras CF",
+        "liga": "Primera Federación - Grupo 2"
+    },
+    {
+        "nombre": "Recreativo de Huelva",
+        "cod_club": "2867",
+        "cod_equipo": "2867",
+        "localidad": "Huelva España",
+        "primer_equipo": "Recreativo de Huelva",
+        "liga": "Primera Federación - Grupo 2"
+    },
+    {
+        "nombre": "CF Fuenlabrada",
+        "cod_club": "16486",
+        "cod_equipo": "16486",
+        "localidad": "Fuenlabrada España",
+        "primer_equipo": "CF Fuenlabrada",
+        "liga": "Primera Federación - Grupo 2"
+    },
+    {
+        "nombre": "Atlético Sanluqueño CF",
+        "cod_club": "21322",
+        "cod_equipo": "21322",
+        "localidad": "Sanlúcar de Barrameda España",
+        "primer_equipo": "Atlético Sanluqueño CF",
+        "liga": "Primera Federación - Grupo 2"
+    },
+    {
+        "nombre": "Yeclano Deportivo",
+        "cod_club": "21337",
+        "cod_equipo": "21337",
+        "localidad": "Yecla España",
+        "primer_equipo": "Yeclano Deportivo",
+        "liga": "Primera Federación - Grupo 2"
+    },
+    {
+        "nombre": "Pontevedra CF",
+        "cod_club": "5650",
+        "cod_equipo": "5650",
+        "localidad": "Pontevedra España",
+        "primer_equipo": "Pontevedra CF",
+        "liga": "Segunda Federación - Grupo 1"
+    },
+    {
+        "nombre": "CD Numancia",
+        "cod_club": "2296",
+        "cod_equipo": "2296",
+        "localidad": "Soria España",
+        "primer_equipo": "CD Numancia",
+        "liga": "Segunda Federación - Grupo 1"
+    },
+    {
+        "nombre": "Real Avilés Industrial",
+        "cod_club": "20844",
+        "cod_equipo": "20844",
+        "localidad": "Avilés España",
+        "primer_equipo": "Real Avilés Industrial",
+        "liga": "Segunda Federación - Grupo 1"
+    },
+    {
+        "nombre": "SD Compostela",
+        "cod_club": "2855",
+        "cod_equipo": "2855",
+        "localidad": "Santiago de Compostela España",
+        "primer_equipo": "SD Compostela",
+        "liga": "Segunda Federación - Grupo 1"
+    },
+    {
+        "nombre": "Real Valladolid Promesas",
+        "cod_club": "366",
+        "cod_equipo": "7078",
+        "localidad": "Valladolid España",
+        "primer_equipo": "Real Valladolid CF",
+        "liga": "Segunda Federación - Grupo 1"
+    },
+    {
+        "nombre": "Rayo Cantabria",
+        "cod_club": "630",
+        "cod_equipo": "10980",
+        "localidad": "Santander España",
+        "primer_equipo": "Real Racing Club",
+        "liga": "Segunda Federación - Grupo 1"
+    },
+    {
+        "nombre": "Gimnástica de Torrelavega",
+        "cod_club": "12588",
+        "cod_equipo": "12588",
+        "localidad": "Torrelavega España",
+        "primer_equipo": "Gimnástica de Torrelavega",
+        "liga": "Segunda Federación - Grupo 1"
+    },
+    {
+        "nombre": "CD Guijuelo",
+        "cod_club": "11615",
+        "cod_equipo": "11615",
+        "localidad": "Guijuelo España",
+        "primer_equipo": "CD Guijuelo",
+        "liga": "Segunda Federación - Grupo 1"
+    },
+    {
+        "nombre": "Salamanca CF UDS",
+        "cod_club": "42039",
+        "cod_equipo": "42039",
+        "localidad": "Salamanca España",
+        "primer_equipo": "Salamanca CF UDS",
+        "liga": "Segunda Federación - Grupo 1"
+    },
+    {
+        "nombre": "RC Deportivo Fabril",
+        "cod_club": "897",
+        "cod_equipo": "11603",
+        "localidad": "La Coruña España",
+        "primer_equipo": "RC Deportivo de La Coruña",
+        "liga": "Segunda Federación - Grupo 1"
+    },
+    {
+        "nombre": "Coruxo FC",
+        "cod_club": "13227",
+        "cod_equipo": "13227",
+        "localidad": "Vigo España",
+        "primer_equipo": "Coruxo FC",
+        "liga": "Segunda Federación - Grupo 1"
+    },
+    {
+        "nombre": "Bergantiños FC",
+        "cod_club": "16055",
+        "cod_equipo": "16055",
+        "localidad": "Carballo España",
+        "primer_equipo": "Bergantiños FC",
+        "liga": "Segunda Federación - Grupo 1"
+    },
+    {
+        "nombre": "UP Langreo",
+        "cod_club": "16646",
+        "cod_equipo": "16646",
+        "localidad": "Langreo España",
+        "primer_equipo": "UP Langreo",
+        "liga": "Segunda Federación - Grupo 1"
+    },
+    {
+        "nombre": "Real Ávila CF",
+        "cod_club": "6212",
+        "cod_equipo": "6212",
+        "localidad": "-",
+        "primer_equipo": "Real Ávila CF",
+        "liga": "Segunda Federación - Grupo 1"
+    },
+    {
+        "nombre": "Marino de Luanco",
+        "cod_club": "11601",
+        "cod_equipo": "11601",
+        "localidad": "Gozón España",
+        "primer_equipo": "Marino de Luanco",
+        "liga": "Segunda Federación - Grupo 1"
+    },
+    {
+        "nombre": "UM Escobedo",
+        "cod_club": "41444",
+        "cod_equipo": "41444",
+        "localidad": "Escobedo de Camargo España",
+        "primer_equipo": "UM Escobedo",
+        "liga": "Segunda Federación - Grupo 1"
+    },
+    {
+        "nombre": "UD Llanera",
+        "cod_club": "55881",
+        "cod_equipo": "55881",
+        "localidad": "-",
+        "primer_equipo": "UD Llanera",
+        "liga": "Segunda Federación - Grupo 1"
+    },
+    {
+        "nombre": "CD Laredo",
+        "cod_club": "36285",
+        "cod_equipo": "36285",
+        "localidad": "Laredo España",
+        "primer_equipo": "CD Laredo",
+        "liga": "Segunda Federación - Grupo 1"
+    },
+    {
+        "nombre": "UD Logroñés",
+        "cod_club": "24420",
+        "cod_equipo": "24420",
+        "localidad": "Logroño España",
+        "primer_equipo": "UD Logroñés",
+        "liga": "Segunda Federación - Grupo 2"
+    },
+    {
+        "nombre": "Deportivo Alavés B",
+        "cod_club": "1108",
+        "cod_equipo": "8880",
+        "localidad": "Vitoria-Gasteiz España",
+        "primer_equipo": "Deportivo Alavés",
+        "liga": "Segunda Federación - Grupo 2"
+    },
+    {
+        "nombre": "RZ Deportivo Aragón",
+        "cod_club": "142",
+        "cod_equipo": "8384",
+        "localidad": "Zaragoza España",
+        "primer_equipo": "Real Zaragoza",
+        "liga": "Segunda Federación - Grupo 2"
+    },
+    {
+        "nombre": "Utebo FC",
+        "cod_club": "13244",
+        "cod_equipo": "13244",
+        "localidad": "Utebo España",
+        "primer_equipo": "Utebo FC",
+        "liga": "Segunda Federación - Grupo 2"
+    },
+    {
+        "nombre": "CD Tudelano",
+        "cod_club": "29271",
+        "cod_equipo": "29271",
+        "localidad": "Tudela-Tutera España",
+        "primer_equipo": "CD Tudelano",
+        "liga": "Segunda Federación - Grupo 2"
+    },
+    {
+        "nombre": "Gernika Club",
+        "cod_club": "11590",
+        "cod_equipo": "11590",
+        "localidad": "Gernika-Lumo España",
+        "primer_equipo": "Gernika Club",
+        "liga": "Segunda Federación - Grupo 2"
+    },
+    {
+        "nombre": "CD Calahorra",
+        "cod_club": "4030",
+        "cod_equipo": "4030",
+        "localidad": "Calahorra España",
+        "primer_equipo": "CD Calahorra",
+        "liga": "Segunda Federación - Grupo 2"
+    },
+    {
+        "nombre": "CD Teruel",
+        "cod_club": "19301",
+        "cod_equipo": "19301",
+        "localidad": "Teruel España",
+        "primer_equipo": "CD Teruel",
+        "liga": "Segunda Federación - Grupo 2"
+    },
+    {
+        "nombre": "Arenas Club",
+        "cod_club": "16122",
+        "cod_equipo": "16122",
+        "localidad": "Getxo España",
+        "primer_equipo": "Arenas Club",
+        "liga": "Segunda Federación - Grupo 2"
+    },
+    {
+        "nombre": "SD Logroñés",
+        "cod_club": "33303",
+        "cod_equipo": "33303",
+        "localidad": "Logroño España",
+        "primer_equipo": "SD Logroñés",
+        "liga": "Segunda Federación - Grupo 2"
+    },
+    {
+        "nombre": "UD Barbastro",
+        "cod_club": "16387",
+        "cod_equipo": "16387",
+        "localidad": "Barbastro España",
+        "primer_equipo": "UD Barbastro",
+        "liga": "Segunda Federación - Grupo 2"
+    },
+    {
+        "nombre": "SD Ejea",
+        "cod_club": "18693",
+        "cod_equipo": "18693",
+        "localidad": "Ejea de los Caballeros España",
+        "primer_equipo": "SD Ejea",
+        "liga": "Segunda Federación - Grupo 2"
+    },
+    {
+        "nombre": "SD Eibar B",
+        "cod_club": "1533",
+        "cod_equipo": "50186",
+        "localidad": "-",
+        "primer_equipo": "SD Eibar",
+        "liga": "Segunda Federación - Grupo 2"
+    },
+    {
+        "nombre": "CD Izarra",
+        "cod_club": "18690",
+        "cod_equipo": "18690",
+        "localidad": "Estella-Lizarra España",
+        "primer_equipo": "CD Izarra",
+        "liga": "Segunda Federación - Grupo 2"
+    },
+    {
+        "nombre": "Real Sociedad C",
+        "cod_club": "681",
+        "cod_equipo": "44822",
+        "localidad": "-",
+        "primer_equipo": "Real Sociedad",
+        "liga": "Segunda Federación - Grupo 2"
+    },
+    {
+        "nombre": "CD Subiza",
+        "cod_club": "331",
+        "cod_equipo": "77666",
+        "localidad": "Subiza España",
+        "primer_equipo": "CA Osasuna",
+        "liga": "Segunda Federación - Grupo 2"
+    },
+    {
+        "nombre": "CD Anguiano",
+        "cod_club": "41605",
+        "cod_equipo": "41605",
+        "localidad": "Anguiano España",
+        "primer_equipo": "CD Anguiano",
+        "liga": "Segunda Federación - Grupo 2"
+    },
+    {
+        "nombre": "CD Alfaro",
+        "cod_club": "16687",
+        "cod_equipo": "16687",
+        "localidad": "Alfaro España",
+        "primer_equipo": "CD Alfaro",
+        "liga": "Segunda Federación - Grupo 2"
+    },
+    {
+        "nombre": "Valencia Mestalla",
+        "cod_club": "1049",
+        "cod_equipo": "6182",
+        "localidad": "Valencia España",
+        "primer_equipo": "Valencia CF",
+        "liga": "Segunda Federación - Grupo 3"
+    },
+    {
+        "nombre": "CD Atlético Baleares",
+        "cod_club": "18687",
+        "cod_equipo": "18687",
+        "localidad": "Palma de Mallorca España",
+        "primer_equipo": "CD Atlético Baleares",
+        "liga": "Segunda Federación - Grupo 3"
+    },
+    {
+        "nombre": "Lleida CF",
+        "cod_club": "33593",
+        "cod_equipo": "33593",
+        "localidad": "Lleida España",
+        "primer_equipo": "Lleida CF",
+        "liga": "Segunda Federación - Grupo 3"
+    },
+    {
+        "nombre": "Terrassa FC",
+        "cod_club": "1881",
+        "cod_equipo": "1881",
+        "localidad": "Terrassa España",
+        "primer_equipo": "Terrassa FC",
+        "liga": "Segunda Federación - Grupo 3"
+    },
+    {
+        "nombre": "CE Sabadell FC",
+        "cod_club": "11422",
+        "cod_equipo": "11422",
+        "localidad": "Sabadell España",
+        "primer_equipo": "CE Sabadell FC",
+        "liga": "Segunda Federación - Grupo 3"
+    },
+    {
+        "nombre": "UE Sant Andreu",
+        "cod_club": "12697",
+        "cod_equipo": "12697",
+        "localidad": "Sant Andreu de Palomar España",
+        "primer_equipo": "UE Sant Andreu",
+        "liga": "Segunda Federación - Grupo 3"
+    },
+    {
+        "nombre": "RCD Espanyol B",
+        "cod_club": "714",
+        "cod_equipo": "10773",
+        "localidad": "Barcelona España",
+        "primer_equipo": "RCD Espanyol",
+        "liga": "Segunda Federación - Grupo 3"
+    },
+    {
+        "nombre": "UE Cornellà",
+        "cod_club": "16196",
+        "cod_equipo": "16196",
+        "localidad": "Cornellà de Llobregat España",
+        "primer_equipo": "UE Cornellà",
+        "liga": "Segunda Federación - Grupo 3"
+    },
+    {
+        "nombre": "CE Europa",
+        "cod_club": "20528",
+        "cod_equipo": "20528",
+        "localidad": "Barcelona España",
+        "primer_equipo": "CE Europa",
+        "liga": "Segunda Federación - Grupo 3"
+    },
+    {
+        "nombre": "Torrent CF",
+        "cod_club": "67509",
+        "cod_equipo": "67509",
+        "localidad": "Torrent España",
+        "primer_equipo": "Torrent CF",
+        "liga": "Segunda Federación - Grupo 3"
+    },
+    {
+        "nombre": "SCR Penya Deportiva",
+        "cod_club": "18669",
+        "cod_equipo": "18669",
+        "localidad": "Ibiza España",
+        "primer_equipo": "SCR Penya Deportiva",
+        "liga": "Segunda Federación - Grupo 3"
+    },
+    {
+        "nombre": "Elche Ilicitano",
+        "cod_club": "1531",
+        "cod_equipo": "12317",
+        "localidad": "Elche España",
+        "primer_equipo": "Elche CF",
+        "liga": "Segunda Federación - Grupo 3"
+    },
+    {
+        "nombre": "UD Alzira",
+        "cod_club": "16775",
+        "cod_equipo": "16775",
+        "localidad": "Alzira España",
+        "primer_equipo": "UD Alzira",
+        "liga": "Segunda Federación - Grupo 3"
+    },
+    {
+        "nombre": "UE Olot",
+        "cod_club": "38456",
+        "cod_equipo": "38456",
+        "localidad": "Olot España",
+        "primer_equipo": "UE Olot",
+        "liga": "Segunda Federación - Grupo 3"
+    },
+    {
+        "nombre": "RCD Mallorca B",
+        "cod_club": "237",
+        "cod_equipo": "8494",
+        "localidad": "Palma de Mallorca España",
+        "primer_equipo": "RCD Mallorca",
+        "liga": "Segunda Federación - Grupo 3"
+    },
+    {
+        "nombre": "CD Ibiza Islas Pitiusas",
+        "cod_club": "67751",
+        "cod_equipo": "67751",
+        "localidad": "Ibiza España",
+        "primer_equipo": "CD Ibiza Islas Pitiusas",
+        "liga": "Segunda Federación - Grupo 3"
+    },
+    {
+        "nombre": "CE Andratx",
+        "cod_club": "73876",
+        "cod_equipo": "73876",
+        "localidad": "Andratx España",
+        "primer_equipo": "CE Andratx",
+        "liga": "Segunda Federación - Grupo 3"
+    },
+    {
+        "nombre": "Som Maresme FC",
+        "cod_club": "111469",
+        "cod_equipo": "111469",
+        "localidad": "-",
+        "primer_equipo": "Som Maresme FC",
+        "liga": "Segunda Federación - Grupo 3"
+    },
+    {
+        "nombre": "UCAM Murcia CF",
+        "cod_club": "34148",
+        "cod_equipo": "34148",
+        "localidad": "Murcia España",
+        "primer_equipo": "UCAM Murcia CF",
+        "liga": "Segunda Federación - Grupo 4"
+    },
+    {
+        "nombre": "Águilas FC",
+        "cod_club": "49957",
+        "cod_equipo": "49957",
+        "localidad": "Águilas España",
+        "primer_equipo": "Águilas FC",
+        "liga": "Segunda Federación - Grupo 4"
+    },
+    {
+        "nombre": "FC La Unión Atlético",
+        "cod_club": "24452",
+        "cod_equipo": "24452",
+        "localidad": "Cartagena España",
+        "primer_equipo": "FC La Unión Atlético",
+        "liga": "Segunda Federación - Grupo 4"
+    },
+    {
+        "nombre": "Orihuela CF",
+        "cod_club": "4054",
+        "cod_equipo": "4054",
+        "localidad": "Orihuela España",
+        "primer_equipo": "Orihuela CF",
+        "liga": "Segunda Federación - Grupo 4"
+    },
+    {
+        "nombre": "San Fernando CD",
+        "cod_club": "12181",
+        "cod_equipo": "12181",
+        "localidad": "San Fernando España",
+        "primer_equipo": "San Fernando CD",
+        "liga": "Segunda Federación - Grupo 4"
+    },
+    {
+        "nombre": "CD Estepona FS",
+        "cod_club": "24445",
+        "cod_equipo": "24445",
+        "localidad": "Estepona España",
+        "primer_equipo": "CD Estepona FS",
+        "liga": "Segunda Federación - Grupo 4"
+    },
+    {
+        "nombre": "Real Balompédica Linense",
+        "cod_club": "12605",
+        "cod_equipo": "12605",
+        "localidad": "La Línea de la Concepción España",
+        "primer_equipo": "Real Balompédica Linense",
+        "liga": "Segunda Federación - Grupo 4"
+    },
+    {
+        "nombre": "Linares Deportivo",
+        "cod_club": "12351",
+        "cod_equipo": "12351",
+        "localidad": "Linares España",
+        "primer_equipo": "Linares Deportivo",
+        "liga": "Segunda Federación - Grupo 4"
+    },
+    {
+        "nombre": "Recreativo Granada",
+        "cod_club": "16795",
+        "cod_equipo": "21550",
+        "localidad": "Granada España",
+        "primer_equipo": "Granada CF",
+        "liga": "Segunda Federación - Grupo 4"
+    },
+    {
+        "nombre": "Deportiva Minera",
+        "cod_club": "44584",
+        "cod_equipo": "44584",
+        "localidad": "-",
+        "primer_equipo": "Deportiva Minera",
+        "liga": "Segunda Federación - Grupo 4"
+    },
+    {
+        "nombre": "Juventud Torremolinos CF",
+        "cod_club": "43454",
+        "cod_equipo": "43454",
+        "localidad": "Torremolinos España",
+        "primer_equipo": "Juventud Torremolinos CF",
+        "liga": "Segunda Federación - Grupo 4"
+    },
+    {
+        "nombre": "Cádiz CF Mirandilla",
+        "cod_club": "2687",
+        "cod_equipo": "11669",
+        "localidad": "Cádiz España",
+        "primer_equipo": "Cádiz CF",
+        "liga": "Segunda Federación - Grupo 4"
+    },
+    {
+        "nombre": "UD Almería B",
+        "cod_club": "3302",
+        "cod_equipo": "11986",
+        "localidad": "Almería España",
+        "primer_equipo": "UD Almería",
+        "liga": "Segunda Federación - Grupo 4"
+    },
+    {
+        "nombre": "Club Atlético Antoniano",
+        "cod_club": "42457",
+        "cod_equipo": "42457",
+        "localidad": "Lebrija España",
+        "primer_equipo": "Club Atlético Antoniano",
+        "liga": "Segunda Federación - Grupo 4"
+    },
+    {
+        "nombre": "Xerez Deportivo FC",
+        "cod_club": "44564",
+        "cod_equipo": "44564",
+        "localidad": "Jerez de la Frontera España",
+        "primer_equipo": "Xerez Deportivo FC",
+        "liga": "Segunda Federación - Grupo 4"
+    },
+    {
+        "nombre": "CF Villanovense",
+        "cod_club": "7052",
+        "cod_equipo": "7052",
+        "localidad": "Villanueva de la Serena España",
+        "primer_equipo": "CF Villanovense",
+        "liga": "Segunda Federación - Grupo 4"
+    },
+    {
+        "nombre": "Xerez CD",
+        "cod_club": "134",
+        "cod_equipo": "134",
+        "localidad": "Jerez de la Frontera España",
+        "primer_equipo": "Xerez CD",
+        "liga": "Segunda Federación - Grupo 4"
+    },
+    {
+        "nombre": "CD Don Benito",
+        "cod_club": "18443",
+        "cod_equipo": "18443",
+        "localidad": "Don Benito España",
+        "primer_equipo": "CD Don Benito",
+        "liga": "Segunda Federación - Grupo 4"
+    },
+    {
+        "nombre": "Getafe CF B",
+        "cod_club": "3709",
+        "cod_equipo": "8510",
+        "localidad": "Getafe España",
+        "primer_equipo": "Getafe CF",
+        "liga": "Segunda Federación - Grupo 5"
+    },
+    {
+        "nombre": "UD San Sebastián de los Reyes",
+        "cod_club": "11245",
+        "cod_equipo": "11245",
+        "localidad": "San Sebastián de los Reyes España",
+        "primer_equipo": "UD San Sebastián de los Reyes",
+        "liga": "Segunda Federación - Grupo 5"
+    },
+    {
+        "nombre": "CD Guadalajara",
+        "cod_club": "16576",
+        "cod_equipo": "16576",
+        "localidad": "Guadalajara España",
+        "primer_equipo": "CD Guadalajara",
+        "liga": "Segunda Federación - Grupo 5"
+    },
+    {
+        "nombre": "CP Cacereño",
+        "cod_club": "11602",
+        "cod_equipo": "11602",
+        "localidad": "Cáceres España",
+        "primer_equipo": "CP Cacereño",
+        "liga": "Segunda Federación - Grupo 5"
+    },
+    {
+        "nombre": "UD Melilla",
+        "cod_club": "16492",
+        "cod_equipo": "16492",
+        "localidad": "Melilla España",
+        "primer_equipo": "UD Melilla",
+        "liga": "Segunda Federación - Grupo 5"
+    },
+    {
+        "nombre": "CF Talavera de la Reina",
+        "cod_club": "47421",
+        "cod_equipo": "47421",
+        "localidad": "Talavera de la Reina España",
+        "primer_equipo": "CF Talavera de la Reina",
+        "liga": "Segunda Federación - Grupo 5"
+    },
+    {
+        "nombre": "CF Rayo Majadahonda",
+        "cod_club": "13702",
+        "cod_equipo": "13702",
+        "localidad": "-",
+        "primer_equipo": "CF Rayo Majadahonda",
+        "liga": "Segunda Federación - Grupo 5"
+    },
+    {
+        "nombre": "CD Tenerife B",
+        "cod_club": "648",
+        "cod_equipo": "11617",
+        "localidad": "Tenerife España",
+        "primer_equipo": "CD Tenerife",
+        "liga": "Segunda Federación - Grupo 5"
+    },
+    {
+        "nombre": "Real Madrid C",
+        "cod_club": "418",
+        "cod_equipo": "92878",
+        "localidad": "Madrid España",
+        "primer_equipo": "Real Madrid CF",
+        "liga": "Segunda Federación - Grupo 5"
+    },
+    {
+        "nombre": "CDA Navalcarnero",
+        "cod_club": "20921",
+        "cod_equipo": "20921",
+        "localidad": "Navalcarnero España",
+        "primer_equipo": "CDA Navalcarnero",
+        "liga": "Segunda Federación - Grupo 5"
+    },
+    {
+        "nombre": "AD Unión Adarve",
+        "cod_club": "21368",
+        "cod_equipo": "21368",
+        "localidad": "Madrid España",
+        "primer_equipo": "AD Unión Adarve",
+        "liga": "Segunda Federación - Grupo 5"
+    },
+    {
+        "nombre": "CD Illescas",
+        "cod_club": "41396",
+        "cod_equipo": "41396",
+        "localidad": "Illescas España",
+        "primer_equipo": "CD Illescas",
+        "liga": "Segunda Federación - Grupo 5"
+    },
+    {
+        "nombre": "CD Coria",
+        "cod_club": "50684",
+        "cod_equipo": "50684",
+        "localidad": "Coria España",
+        "primer_equipo": "CD Coria",
+        "liga": "Segunda Federación - Grupo 5"
+    },
+    {
+        "nombre": "UB Conquense",
+        "cod_club": "16602",
+        "cod_equipo": "16602",
+        "localidad": "Cuenca España",
+        "primer_equipo": "UB Conquense",
+        "liga": "Segunda Federación - Grupo 5"
+    },
+    {
+        "nombre": "CD Unión Sur Yaiza",
+        "cod_club": "20926",
+        "cod_equipo": "20926",
+        "localidad": "Yaiza España",
+        "primer_equipo": "CD Unión Sur Yaiza",
+        "liga": "Segunda Federación - Grupo 5"
+    },
+    {
+        "nombre": "Colonia Moscardó",
+        "cod_club": "17741",
+        "cod_equipo": "17741",
+        "localidad": "Usera España",
+        "primer_equipo": "Colonia Moscardó",
+        "liga": "Segunda Federación - Grupo 5"
+    },
+    {
+        "nombre": "CD Atlético Paso",
+        "cod_club": "68575",
+        "cod_equipo": "68575",
+        "localidad": "El Paso España",
+        "primer_equipo": "CD Atlético Paso",
+        "liga": "Segunda Federación - Grupo 5"
+    },
+    {
+        "nombre": "CD Móstoles URJC",
+        "cod_club": "21122",
+        "cod_equipo": "21122",
+        "localidad": "Móstoles España",
+        "primer_equipo": "CD Móstoles URJC",
+        "liga": "Segunda Federación - Grupo 5"
+    }
+]

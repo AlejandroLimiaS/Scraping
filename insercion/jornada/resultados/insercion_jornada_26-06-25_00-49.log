@@ -1,0 +1,80 @@
+
+-------------------------------------------------------------------------------------------------
+Iniciando inserción de jornada
+-------------------------------------------------------------------------------------------------
+Todas las inserciones finalizaron correctamente.
+
+-------------------------------------------------------------------------------------------------
+Jugadores encontrados que no estaban en la Base: 9
+-------------------------------------------------------------------------------------------------
+Scrapeandolos y insertandolos en la base de datos...
+
+-------------------------------------------------------------------------------------------------
+Jugadores intento 1. Jugadores restantes: 9
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado jugador: Camilo Piaggio
+Scrapeado jugador: Ángel del Águila Martín
+Scrapeado jugador: Héctor Vara Escalera
+Scrapeado jugador: Rodrigue Dipanda Ndongo Essono
+Scrapeado jugador: Sergio Martínez Montero
+Scrapeado jugador: Miguel Calatayud García
+Scrapeado jugador: José González Mora
+Scrapeado jugador: Sergi Barjuan Navarro
+Scrapeado jugador: Chata
+
+-------------------------------------------------------------------------------------------------
+Agentes intento 1. Agentes restantes: 3
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado agente: REVOLUTION Football Boutique
+Scrapeado agente: NSPORTS & bGROUP
+Scrapeado agente: MagicPlayers
+
+-------------------------------------------------------------------------------------------------
+Historico jugadores intento 1. Jugadores restantes: 9
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado historico jugador: 1394035
+Scrapeado historico jugador: 1394029
+Scrapeado historico jugador: 982831
+Scrapeado historico jugador: 1133939
+Scrapeado historico jugador: 1393961
+Scrapeado historico jugador: 1393997
+Scrapeado historico jugador: 1394022
+Scrapeado historico jugador: 1003934
+Scrapeado historico jugador: 767275
+
+-------------------------------------------------------------------------------------------------
+Valor mercado jugadores intento 1. Jugadores restantes: 9
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado grafico valores jugador: 1394035
+Scrapeado grafico valores jugador: 1394029
+Scrapeado grafico valores jugador: 982831
+Scrapeado grafico valores jugador: 1133939
+Scrapeado grafico valores jugador: 1393961
+Scrapeado grafico valores jugador: 1393997
+Scrapeado grafico valores jugador: 1394022
+Scrapeado grafico valores jugador: 1003934
+Scrapeado grafico valores jugador: 767275
+Todos los representantes se insertaron correctamente.
+Todos los jugadores se insertaron correctamente.
+
+-------------------------------------------------------------------------------------------------
+Jugadores scrapeados e insertados: 9
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Representantes scrapeados e insertados: 3
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Inserción de jornada finalizada
+-------------------------------------------------------------------------------------------------
+
+Tiempo total de ejecución: 1 minutos y 2.70 segundos

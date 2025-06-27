@@ -1,0 +1,1154 @@
+[
+    {
+        "nombre": "Johan Cruyff",
+        "localidad": "Sant Joan Despí España",
+        "direccion": "Camí del Mig, 5A 08970 Sant Joan Despí España",
+        "superficie": "Césped natural",
+        "dimensiones": "105m x 68m",
+        "aforo": 6000,
+        "cod_equipo": "2464"
+    },
+    {
+        "nombre": "Barreiro",
+        "localidad": "Vigo España",
+        "direccion": "Avenida de Ramón Nieto, 326 36214 Vigo España",
+        "superficie": "Césped natural",
+        "dimensiones": "101m x 66m",
+        "aforo": 1171,
+        "cod_equipo": "8733"
+    },
+    {
+        "nombre": "Instalaciones de Zubieta",
+        "localidad": "Zubieta (Guipúzcoa) España",
+        "direccion": "Paseo Arrapide, 52 20160 Zubieta (Guipúzcoa) España",
+        "superficie": "Césped natural",
+        "dimensiones": "105m x 68m",
+        "aforo": 2500,
+        "cod_equipo": "9899"
+    },
+    {
+        "nombre": "Estadi Nacional d'Andorra",
+        "localidad": "-",
+        "direccion": "-",
+        "superficie": "Césped artificial",
+        "dimensiones": "105m x 68m",
+        "aforo": 3306,
+        "cod_equipo": "10718"
+    },
+    {
+        "nombre": "El Toralín",
+        "localidad": "Ponferrada España",
+        "direccion": "C/ El Toralín, s/n 24400 Ponferrada España",
+        "superficie": "Césped natural",
+        "dimensiones": "105m x 70m",
+        "aforo": 8432,
+        "cod_equipo": "4032"
+    },
+    {
+        "nombre": "Reino de León",
+        "localidad": "León España",
+        "direccion": "Paseo Sáenz de Miera 24009 León España",
+        "superficie": "Césped natural",
+        "dimensiones": "105m x 68m",
+        "aforo": 13451,
+        "cod_equipo": "4542"
+    },
+    {
+        "nombre": "Instalaciones de Lezama",
+        "localidad": "Lezama España",
+        "direccion": "Barrio Garaioltza, 147 48196 Lezama España",
+        "superficie": "Césped natural",
+        "dimensiones": "-",
+        "aforo": 3250,
+        "cod_equipo": "6688"
+    },
+    {
+        "nombre": "Nou Estadi Costa Daurada",
+        "localidad": "Tarragona España",
+        "direccion": "Partida Budallera, s/n 43007 Tarragona España",
+        "superficie": "Césped natural",
+        "dimensiones": "103m x 67m",
+        "aforo": 14591,
+        "cod_equipo": "5648"
+    },
+    {
+        "nombre": "Instalaciones de Tajonar",
+        "localidad": "Tajonar España",
+        "direccion": "Paraje Beroa 31192 Tajonar España",
+        "superficie": "Césped natural",
+        "dimensiones": "105m x 68m",
+        "aforo": 4000,
+        "cod_equipo": "8516"
+    },
+    {
+        "nombre": "O Couto",
+        "localidad": "Ourense España",
+        "direccion": "Rúa do Serán, s/n 32002 Ourense España",
+        "superficie": "Césped natural",
+        "dimensiones": "105m x 68m",
+        "aforo": 5659,
+        "cod_equipo": "55398"
+    },
+    {
+        "nombre": "Reina Sofía",
+        "localidad": "Salamanca España",
+        "direccion": "Avenida Carlos I, s/n 37008 Salamanca España",
+        "superficie": "Césped natural",
+        "dimensiones": "105m x 68m",
+        "aforo": 4895,
+        "cod_equipo": "52397"
+    },
+    {
+        "nombre": "Anxo Carro",
+        "localidad": "Lugo España",
+        "direccion": "Avenida Dos Deportes s/n 27004 Lugo España",
+        "superficie": "Césped natural",
+        "dimensiones": "105m x 70m",
+        "aforo": 7070,
+        "cod_equipo": "11000"
+    },
+    {
+        "nombre": "Ruta de la Plata",
+        "localidad": "Zamora España",
+        "direccion": "Carretera de Salamanca, s/n 49028 Zamora España",
+        "superficie": "Césped natural",
+        "dimensiones": "104m x 70m",
+        "aforo": 7813,
+        "cod_equipo": "10907"
+    },
+    {
+        "nombre": "Stadium Gal",
+        "localidad": "Irún (Gipuzkoa) España",
+        "direccion": "Calle Patricio Arabolaza 2 20304 Irún (Gipuzkoa) España",
+        "superficie": "Césped natural",
+        "dimensiones": "100m x 65m",
+        "aforo": 6344,
+        "cod_equipo": "12405"
+    },
+    {
+        "nombre": "Nuevo Lasesarre",
+        "localidad": "Barakaldo España",
+        "direccion": "Paseo El Ferrocarril 48901 Barakaldo España",
+        "superficie": "Césped natural",
+        "dimensiones": "-",
+        "aforo": 7960,
+        "cod_equipo": "3708"
+    },
+    {
+        "nombre": "O Espiñedo",
+        "localidad": "O Carballiño España",
+        "direccion": "Rúa de Galicia, 47 32500 O Carballiño España",
+        "superficie": "Césped natural",
+        "dimensiones": "105m x 68m",
+        "aforo": 4500,
+        "cod_equipo": "58946"
+    },
+    {
+        "nombre": "Las Llanas",
+        "localidad": "Sestao España",
+        "direccion": "Alameda de Las Llanas, 10 48910 Sestao España",
+        "superficie": "Césped natural",
+        "dimensiones": "102m x 64m",
+        "aforo": 4367,
+        "cod_equipo": "13240"
+    },
+    {
+        "nombre": "Municipal de Tarazona",
+        "localidad": "Tarazona España",
+        "direccion": "Avda. de la Paz, s/n 50500 Tarazona España",
+        "superficie": "Césped artificial",
+        "dimensiones": "100m x 64m",
+        "aforo": 2500,
+        "cod_equipo": "41403"
+    },
+    {
+        "nombre": "Urritxe",
+        "localidad": "Amorebieta-Echano España",
+        "direccion": "Barrio de Urritxe 48340 Amorebieta-Echano España",
+        "superficie": "Césped natural",
+        "dimensiones": "-",
+        "aforo": 3000,
+        "cod_equipo": "16575"
+    },
+    {
+        "nombre": "La Albuera",
+        "localidad": "Segovia España",
+        "direccion": "Calle Los Tejedores, 48 40004 Segovia España",
+        "superficie": "Césped natural",
+        "dimensiones": "105m x 68m",
+        "aforo": 2500,
+        "cod_equipo": "33306"
+    },
+    {
+        "nombre": "Alfredo Di Stéfano",
+        "localidad": "Madrid España",
+        "direccion": "Camino Sintra 4 28042 Madrid España",
+        "superficie": "Césped natural",
+        "dimensiones": "105m x 68m",
+        "aforo": 9000,
+        "cod_equipo": "6767"
+    },
+    {
+        "nombre": "La Cerámica",
+        "localidad": "Villarreal España",
+        "direccion": "Blasco Ibáñez, 2 12540 Villarreal España",
+        "superficie": "Césped natural",
+        "dimensiones": "105m x 68m",
+        "aforo": 23500,
+        "cod_equipo": "11972"
+    },
+    {
+        "nombre": "Cerro del Espino",
+        "localidad": "Majadahonda España",
+        "direccion": "Carretera de Pozuelo, 59 28220 Majadahonda España",
+        "superficie": "Césped natural",
+        "dimensiones": "106m x 70m",
+        "aforo": 3376,
+        "cod_equipo": "3679"
+    },
+    {
+        "nombre": "Ciudad Deportiva Luis del Sol",
+        "localidad": "Sevilla España",
+        "direccion": "Av. de Italia, s/n 41012 Sevilla España",
+        "superficie": "Césped natural",
+        "dimensiones": "107m x 64m",
+        "aforo": 1300,
+        "cod_equipo": "2865"
+    },
+    {
+        "nombre": "Jesús Navas",
+        "localidad": "Sevilla España",
+        "direccion": "Carretera de Utrera Km 1 41005 Sevilla España",
+        "superficie": "Césped natural",
+        "dimensiones": "105m x 68m",
+        "aforo": 8000,
+        "cod_equipo": "8519"
+    },
+    {
+        "nombre": "Enrique Roca de Murcia",
+        "localidad": "Murcia España",
+        "direccion": "Avenida de la afición Del Real Murcia CF 30110 Murcia España",
+        "superficie": "Césped natural",
+        "dimensiones": "105m x 67m",
+        "aforo": 31179,
+        "cod_equipo": "171"
+    },
+    {
+        "nombre": "Palladium Can Misses",
+        "localidad": "Ibiza España",
+        "direccion": "Carrer Campanitx 07800 Ibiza España",
+        "superficie": "Césped natural",
+        "dimensiones": "105m x 68m",
+        "aforo": 6500,
+        "cod_equipo": "13241"
+    },
+    {
+        "nombre": "Municipal de Marbella",
+        "localidad": "Marbella España",
+        "direccion": "Avda. Ricardo Lucena Sola S/N 29603 Marbella España",
+        "superficie": "-",
+        "dimensiones": "-",
+        "aforo": 9000,
+        "cod_equipo": "12361"
+    },
+    {
+        "nombre": "José Rico Pérez",
+        "localidad": "Alicante España",
+        "direccion": "Calle Foguerer Jose Romeu Zarandieta 03005 Alicante España",
+        "superficie": "Césped natural",
+        "dimensiones": "105m x 68m",
+        "aforo": 30000,
+        "cod_equipo": "7971"
+    },
+    {
+        "nombre": "Nuevo El Maulí",
+        "localidad": "Antequera España",
+        "direccion": "Cl. Escultor Diego Márquez, 43 29200 Antequera España",
+        "superficie": "Césped natural",
+        "dimensiones": "-",
+        "aforo": 5000,
+        "cod_equipo": "16022"
+    },
+    {
+        "nombre": "Alfonso Murube",
+        "localidad": "Ceuta España",
+        "direccion": "Avenida de Otero S/N 51002 Ceuta España",
+        "superficie": "Césped artificial",
+        "dimensiones": "105m x 70m",
+        "aforo": 6500,
+        "cod_equipo": "8568"
+    },
+    {
+        "nombre": "Santo Domingo",
+        "localidad": "Alcorcón España",
+        "direccion": "Avenida Esteban Márquez, s/n 28922 Alcorcón España",
+        "superficie": "Césped natural",
+        "dimensiones": "105m x 68m",
+        "aforo": 5100,
+        "cod_equipo": "11596"
+    },
+    {
+        "nombre": "Romano José Fouto",
+        "localidad": "Mérida España",
+        "direccion": "Villafranca Barros, 2 06800 Mérida España",
+        "superficie": "Césped natural",
+        "dimensiones": "106m x 70m",
+        "aforo": 14537,
+        "cod_equipo": "46854"
+    },
+    {
+        "nombre": "Antonio Solana",
+        "localidad": "Alicante España",
+        "direccion": "-",
+        "superficie": "Césped natural",
+        "dimensiones": "100m x 60m",
+        "aforo": 2500,
+        "cod_equipo": "67212"
+    },
+    {
+        "nombre": "Gestaser El Collao",
+        "localidad": "Alcoy España",
+        "direccion": "Carrer Oliver s/n 03802 Alcoy España",
+        "superficie": "Césped natural",
+        "dimensiones": "102m x 63m",
+        "aforo": 4850,
+        "cod_equipo": "11259"
+    },
+    {
+        "nombre": "Nuevo Mirador",
+        "localidad": "Algeciras España",
+        "direccion": "Sector Pp Menacha Ejecutado, 29 11205 Algeciras España",
+        "superficie": "Césped natural",
+        "dimensiones": "105m x 70m",
+        "aforo": 7200,
+        "cod_equipo": "3705"
+    },
+    {
+        "nombre": "Nuevo Colombino",
+        "localidad": "Huelva España",
+        "direccion": "Avenida Francisco Montenegro 21001 Huelva España",
+        "superficie": "Césped natural",
+        "dimensiones": "105m x 69m",
+        "aforo": 21670,
+        "cod_equipo": "2867"
+    },
+    {
+        "nombre": "Fernando Torres",
+        "localidad": "Fuenlabrada España",
+        "direccion": "Camino del Molino, s/n 28942 Fuenlabrada España",
+        "superficie": "Césped natural",
+        "dimensiones": "104m x 65m",
+        "aforo": 6000,
+        "cod_equipo": "16486"
+    },
+    {
+        "nombre": "El Palmar",
+        "localidad": "Sanlúcar de Barrameda España",
+        "direccion": "Av. de puerto de Sta. Maria, 13 11540 Sanlúcar de Barrameda España",
+        "superficie": "Césped natural",
+        "dimensiones": "105m x 65m",
+        "aforo": 5000,
+        "cod_equipo": "21322"
+    },
+    {
+        "nombre": "La Constitución",
+        "localidad": "Yecla España",
+        "direccion": "Calle Cruz de Piedra 146 30510 Yecla España",
+        "superficie": "Césped natural",
+        "dimensiones": "101m x 61m",
+        "aforo": 4000,
+        "cod_equipo": "21337"
+    },
+    {
+        "nombre": "Pasarón",
+        "localidad": "Pontevedra España",
+        "direccion": "Luis Otero, s/n 36005  Pontevedra España",
+        "superficie": "Césped natural",
+        "dimensiones": "105m x 68m",
+        "aforo": 10500,
+        "cod_equipo": "5650"
+    },
+    {
+        "nombre": "Los Pajaritos",
+        "localidad": "Soria España",
+        "direccion": "Avenida Mariano Vicen 16-Bajo 42003 Soria España",
+        "superficie": "Césped natural",
+        "dimensiones": "101m x 68m",
+        "aforo": 8261,
+        "cod_equipo": "2296"
+    },
+    {
+        "nombre": "Román Suárez Puerta",
+        "localidad": "Avilés España",
+        "direccion": "Calle José Cueto, 25 33401 Avilés España",
+        "superficie": "Césped natural",
+        "dimensiones": "105m x 65m",
+        "aforo": 5400,
+        "cod_equipo": "20844"
+    },
+    {
+        "nombre": "Verónica Boquete de San Lázaro",
+        "localidad": "Santiago de Compostela España",
+        "direccion": "Avenida Fernando Casas Novoa, 20 15703 Santiago de Compostela España",
+        "superficie": "Césped natural",
+        "dimensiones": "105m x 65m",
+        "aforo": 12000,
+        "cod_equipo": "2855"
+    },
+    {
+        "nombre": "Anexos al José Zorrilla",
+        "localidad": "Valladolid España",
+        "direccion": "Avenida del Mundial 82, s/n 47014 Valladolid España",
+        "superficie": "Césped natural",
+        "dimensiones": "105m x 68m",
+        "aforo": 1482,
+        "cod_equipo": "7078"
+    },
+    {
+        "nombre": "Santi Gutiérrez Calle",
+        "localidad": "Santander España",
+        "direccion": "Avda. del Deporte, S/N 39012 Santander España",
+        "superficie": "Césped natural",
+        "dimensiones": "105m x 68m",
+        "aforo": 1000,
+        "cod_equipo": "10980"
+    },
+    {
+        "nombre": "El Malecón",
+        "localidad": "Torrelavega España",
+        "direccion": "Calle Manuel Pondal, s/n 39300 Torrelavega España",
+        "superficie": "-",
+        "dimensiones": "105m x 68m",
+        "aforo": 10000,
+        "cod_equipo": "12588"
+    },
+    {
+        "nombre": "Luis Ramos",
+        "localidad": "Guijuelo España",
+        "direccion": "Bajada de las Piscinas 1500 Guijuelo España",
+        "superficie": "Césped natural",
+        "dimensiones": "-",
+        "aforo": 1700,
+        "cod_equipo": "11615"
+    },
+    {
+        "nombre": "Helmántico",
+        "localidad": "Villares de la Reina (Salamanca) España",
+        "direccion": "Carretera de Zamora s/n 37184 Villares de la Reina (Salamanca) España",
+        "superficie": "Césped natural",
+        "dimensiones": "105m x 70m",
+        "aforo": 17341,
+        "cod_equipo": "42039"
+    },
+    {
+        "nombre": "Ciudad Deportiva de Abegondo",
+        "localidad": "Abegondo España",
+        "direccion": "Agra de Marces, s/n 15318 Abegondo España",
+        "superficie": "Césped natural",
+        "dimensiones": "105m x 65m",
+        "aforo": 1000,
+        "cod_equipo": "11603"
+    },
+    {
+        "nombre": "O Vao",
+        "localidad": "Coruxo España",
+        "direccion": "Estrada do Vao, 153 36331 Coruxo España",
+        "superficie": "Césped natural",
+        "dimensiones": "104m x 68m",
+        "aforo": 2000,
+        "cod_equipo": "13227"
+    },
+    {
+        "nombre": "As Eiroas",
+        "localidad": "Carballo España",
+        "direccion": "Rúa Bronce s/n 15100 Carballo España",
+        "superficie": "Césped artificial",
+        "dimensiones": "104m x 64m",
+        "aforo": 5000,
+        "cod_equipo": "16055"
+    },
+    {
+        "nombre": "Ganzábal",
+        "localidad": "Langreo España",
+        "direccion": "Calle Jovellanos, 21 33909 Langreo España",
+        "superficie": "Césped artificial",
+        "dimensiones": "104m x 68m",
+        "aforo": 4024,
+        "cod_equipo": "16646"
+    },
+    {
+        "nombre": "Estadio Municipal Adolfo Suárez",
+        "localidad": "Ávila España",
+        "direccion": "Carretera de Toledo 2 05002 Ávila España",
+        "superficie": "Césped natural",
+        "dimensiones": "105m x 70m",
+        "aforo": 6000,
+        "cod_equipo": "6212"
+    },
+    {
+        "nombre": "Miramar",
+        "localidad": "Luanco España",
+        "direccion": "Plaza Miramar, s/n 33440 Luanco España",
+        "superficie": "Césped natural",
+        "dimensiones": "103m x 65m",
+        "aforo": 3500,
+        "cod_equipo": "11601"
+    },
+    {
+        "nombre": "Eusebio Arce",
+        "localidad": "-",
+        "direccion": "-",
+        "superficie": "-",
+        "dimensiones": "-",
+        "aforo": 2000,
+        "cod_equipo": "41444"
+    },
+    {
+        "nombre": "Estadio Pepe Quimarán",
+        "localidad": "Posada de Llanera España",
+        "direccion": "Av. Prudencio González 33424 Posada de Llanera España",
+        "superficie": "Césped artificial",
+        "dimensiones": "90m x 56m",
+        "aforo": 1000,
+        "cod_equipo": "55881"
+    },
+    {
+        "nombre": "San Lorenzo",
+        "localidad": "Laredo, Cantabria España",
+        "direccion": "Calle El Pelegrín, 7 39770 Laredo, Cantabria España",
+        "superficie": "Césped natural",
+        "dimensiones": "104m x 62m",
+        "aforo": 2200,
+        "cod_equipo": "36285"
+    },
+    {
+        "nombre": "Las Gaunas",
+        "localidad": "Logroño España",
+        "direccion": "Avenida del Moncalvillo 1 26008 Logroño España",
+        "superficie": "Césped natural",
+        "dimensiones": "104m x 66m",
+        "aforo": 15902,
+        "cod_equipo": "24420"
+    },
+    {
+        "nombre": "Ciudad Deportiva El Glorioso",
+        "localidad": "-",
+        "direccion": "-",
+        "superficie": "-",
+        "dimensiones": "-",
+        "aforo": 1300,
+        "cod_equipo": "8880"
+    },
+    {
+        "nombre": "Ciudad Deportiva Real Zaragoza",
+        "localidad": "Zaragoza España",
+        "direccion": "-",
+        "superficie": "-",
+        "dimensiones": "-",
+        "aforo": 1000,
+        "cod_equipo": "8384"
+    },
+    {
+        "nombre": "Santa Ana",
+        "localidad": "Utebo España",
+        "direccion": "C/ Cuenca s/n 50180 Utebo España",
+        "superficie": "-",
+        "dimensiones": "100m x 63m",
+        "aforo": 5000,
+        "cod_equipo": "13244"
+    },
+    {
+        "nombre": "Ciudad de Tudela",
+        "localidad": "Tudela España",
+        "direccion": "Av. de las Merindades, s/n 31500 Tudela España",
+        "superficie": "Césped natural",
+        "dimensiones": "100m x 66m",
+        "aforo": 11000,
+        "cod_equipo": "29271"
+    },
+    {
+        "nombre": "Urbieta",
+        "localidad": "Gernika España",
+        "direccion": "Beheko, Ibarra Kalea 48300 Gernika España",
+        "superficie": "Césped artificial",
+        "dimensiones": "105m x 66m",
+        "aforo": 3000,
+        "cod_equipo": "11590"
+    },
+    {
+        "nombre": "La Planilla",
+        "localidad": "Calahorra España",
+        "direccion": "Av. Numancia, S.N 26500 Calahorra España",
+        "superficie": "Césped natural",
+        "dimensiones": "105m x 64m",
+        "aforo": 4500,
+        "cod_equipo": "4030"
+    },
+    {
+        "nombre": "Pinilla",
+        "localidad": "Teruel España",
+        "direccion": "C/ San Juan Bosco, 4 44002 Teruel España",
+        "superficie": "Césped natural",
+        "dimensiones": "103m x 65m",
+        "aforo": 5000,
+        "cod_equipo": "19301"
+    },
+    {
+        "nombre": "Gobela",
+        "localidad": "Getxo España",
+        "direccion": "Luis Lopez Oses Kalea, 1 48930 Getxo España",
+        "superficie": "Césped artificial",
+        "dimensiones": "105m x 68m",
+        "aforo": 1400,
+        "cod_equipo": "16122"
+    },
+    {
+        "nombre": "Las Gaunas",
+        "localidad": "Logroño España",
+        "direccion": "Avenida del Moncalvillo 1 26008 Logroño España",
+        "superficie": "Césped natural",
+        "dimensiones": "104m x 66m",
+        "aforo": 15902,
+        "cod_equipo": "33303"
+    },
+    {
+        "nombre": "Municipal de Barbastro",
+        "localidad": "Barbastro España",
+        "direccion": "Calle Obispo Abad y Lasierra, s/n 22300 Barbastro España",
+        "superficie": "Césped natural",
+        "dimensiones": "-",
+        "aforo": 5000,
+        "cod_equipo": "16387"
+    },
+    {
+        "nombre": "Nuevo Estadio Municipal",
+        "localidad": "Ejea de los Caballeros España",
+        "direccion": "Calle Prolongacion Bomberos, 2 50600 Ejea de los Caballeros España",
+        "superficie": "Césped artificial",
+        "dimensiones": "102m x 66m",
+        "aforo": 2249,
+        "cod_equipo": "18693"
+    },
+    {
+        "nombre": "Instalaciones de Unbe",
+        "localidad": "Eibar España",
+        "direccion": "-",
+        "superficie": "-",
+        "dimensiones": "-",
+        "aforo": 0,
+        "cod_equipo": "50186"
+    },
+    {
+        "nombre": "Merkatondoa",
+        "localidad": "Estella-Lizarra España",
+        "direccion": "NA-122, 88 31200 Estella-Lizarra España",
+        "superficie": "Césped artificial",
+        "dimensiones": "102m x 66m",
+        "aforo": 3500,
+        "cod_equipo": "18690"
+    },
+    {
+        "nombre": "Instalaciones de Zubieta",
+        "localidad": "Zubieta España",
+        "direccion": "Paseo Arrapide, 52 20160 Zubieta España",
+        "superficie": "Césped natural",
+        "dimensiones": "105m x 68m",
+        "aforo": 1000,
+        "cod_equipo": "44822"
+    },
+    {
+        "nombre": "Sotoboru",
+        "localidad": "-",
+        "direccion": "-",
+        "superficie": "-",
+        "dimensiones": "-",
+        "aforo": 1000,
+        "cod_equipo": "77666"
+    },
+    {
+        "nombre": "Estadio Municipal de Isla",
+        "localidad": "-",
+        "direccion": "-",
+        "superficie": "-",
+        "dimensiones": "-",
+        "aforo": 0,
+        "cod_equipo": "41605"
+    },
+    {
+        "nombre": "La Molineta",
+        "localidad": "-",
+        "direccion": "-",
+        "superficie": "-",
+        "dimensiones": "102m x 69m",
+        "aforo": 2500,
+        "cod_equipo": "16687"
+    },
+    {
+        "nombre": "Ciudad Deportiva de Paterna",
+        "localidad": "Paterna España",
+        "direccion": "-",
+        "superficie": "Césped natural",
+        "dimensiones": "105m x 68m",
+        "aforo": 3000,
+        "cod_equipo": "6182"
+    },
+    {
+        "nombre": "Balear",
+        "localidad": "Palma de Mallorca España",
+        "direccion": "Carrer de Sant Ignasi, 70 07007 Palma de Mallorca España",
+        "superficie": "Césped natural",
+        "dimensiones": "102m x 67m",
+        "aforo": 6500,
+        "cod_equipo": "18687"
+    },
+    {
+        "nombre": "Camp d'Esports de Lleida",
+        "localidad": "Lleida España",
+        "direccion": "Av. del Doctor Fleming s/n 25006 Lleida España",
+        "superficie": "Césped natural",
+        "dimensiones": "102m x 68m",
+        "aforo": 12500,
+        "cod_equipo": "33593"
+    },
+    {
+        "nombre": "Olímpic de Terrassa",
+        "localidad": "Terrassa España",
+        "direccion": "Carrer dels Jocs Olímpics, s/n 08225 Terrassa España",
+        "superficie": "-",
+        "dimensiones": "105m x 70m",
+        "aforo": 11500,
+        "cod_equipo": "1881"
+    },
+    {
+        "nombre": "Nova Creu Alta",
+        "localidad": "Sabadell España",
+        "direccion": "Plaça Olímpia, 1 08206 Sabadell España",
+        "superficie": "Césped natural",
+        "dimensiones": "103m x 70m",
+        "aforo": 11981,
+        "cod_equipo": "11422"
+    },
+    {
+        "nombre": "Narcís Sala",
+        "localidad": "Barcelona España",
+        "direccion": "-",
+        "superficie": "Césped artificial",
+        "dimensiones": "102m x 64m",
+        "aforo": 6557,
+        "cod_equipo": "12697"
+    },
+    {
+        "nombre": "Ciutat Esportiva Dani Jarque",
+        "localidad": "Sant Adrià de Besòs España",
+        "direccion": "Carretera de Mataró, 76-122 08930 Sant Adrià de Besòs España",
+        "superficie": "Césped natural",
+        "dimensiones": "107m x 68m",
+        "aforo": 1520,
+        "cod_equipo": "10773"
+    },
+    {
+        "nombre": "Nou Estadi Municipal de Cornellà",
+        "localidad": "Cornellà de Llobregat España",
+        "direccion": "Carrer del Sorral del Riu, s/n 08940 Cornellà de Llobregat España",
+        "superficie": "Césped artificial",
+        "dimensiones": "100m x 65m",
+        "aforo": 1500,
+        "cod_equipo": "16196"
+    },
+    {
+        "nombre": "Nou Sardenya",
+        "localidad": "Barcelona España",
+        "direccion": "Carrer de les Camèlies, 42B 08024 Barcelona España",
+        "superficie": "Césped artificial",
+        "dimensiones": "100m x 63m",
+        "aforo": 4000,
+        "cod_equipo": "20528"
+    },
+    {
+        "nombre": "San Gregorio",
+        "localidad": "Torrent España",
+        "direccion": "Av. Pérez Galdós s/n 46900 Torrent España",
+        "superficie": "Césped artificial",
+        "dimensiones": "100m x 61m",
+        "aforo": 5000,
+        "cod_equipo": "67509"
+    },
+    {
+        "nombre": "Municipal Santa Eulalia del Rio",
+        "localidad": "Santa Eulalia del Río España",
+        "direccion": "Sa Rota d'en Pere Cardona 07849 Santa Eulalia del Río España",
+        "superficie": "-",
+        "dimensiones": "-",
+        "aforo": 1500,
+        "cod_equipo": "18669"
+    },
+    {
+        "nombre": "Estadio Díez Iborra",
+        "localidad": "Elche España",
+        "direccion": "-",
+        "superficie": "Césped natural",
+        "dimensiones": "102m x 60m",
+        "aforo": 1500,
+        "cod_equipo": "12317"
+    },
+    {
+        "nombre": "Luis Suñer Picó",
+        "localidad": "Alzira España",
+        "direccion": "Carrer de la UD Alzira, 1 46600 Alzira España",
+        "superficie": "Césped natural",
+        "dimensiones": "107m x 66m",
+        "aforo": 5000,
+        "cod_equipo": "16775"
+    },
+    {
+        "nombre": "Municipal d’Olot",
+        "localidad": "Olot España",
+        "direccion": "-",
+        "superficie": "-",
+        "dimensiones": "101m x 60m",
+        "aforo": 3000,
+        "cod_equipo": "38456"
+    },
+    {
+        "nombre": "Ciudad Deportiva Antonio Asensio",
+        "localidad": "Palma de Mallorca España",
+        "direccion": "-",
+        "superficie": "-",
+        "dimensiones": "105m x 68m",
+        "aforo": 1200,
+        "cod_equipo": "8494"
+    },
+    {
+        "nombre": "Can Misses III",
+        "localidad": "Ibiza España",
+        "direccion": "C/ Campanitx, 26 07800 Ibiza España",
+        "superficie": "Césped natural",
+        "dimensiones": "105m x 68m",
+        "aforo": 1000,
+        "cod_equipo": "67751"
+    },
+    {
+        "nombre": "Municipal de Sa Plana- Andratx",
+        "localidad": "Andratx España",
+        "direccion": "Camí de Morella s/n 07150 Andratx España",
+        "superficie": "Césped artificial",
+        "dimensiones": "-",
+        "aforo": 600,
+        "cod_equipo": "73876"
+    },
+    {
+        "nombre": "ZEM Hipòlit Planàs",
+        "localidad": "Vic España",
+        "direccion": "c/ Mas d'Osona, s/n 08500 Vic España",
+        "superficie": "Césped artificial",
+        "dimensiones": "-",
+        "aforo": 4000,
+        "cod_equipo": "111469"
+    },
+    {
+        "nombre": "BeSoccer La Condomina",
+        "localidad": "Murcia España",
+        "direccion": "Ronda de Garay, s/n 30003 Murcia España",
+        "superficie": "Césped natural",
+        "dimensiones": "105m x 67m",
+        "aforo": 6500,
+        "cod_equipo": "34148"
+    },
+    {
+        "nombre": "El Rubial",
+        "localidad": "Águilas España",
+        "direccion": "Calle Electra, s/n 30880 Águilas España",
+        "superficie": "Césped natural",
+        "dimensiones": "95m x 65m",
+        "aforo": 4000,
+        "cod_equipo": "49957"
+    },
+    {
+        "nombre": "Municipal de La Unión",
+        "localidad": "La Unión España",
+        "direccion": "Plaza de los Sánchez, s/n 30360 La Unión España",
+        "superficie": "-",
+        "dimensiones": "-",
+        "aforo": 3000,
+        "cod_equipo": "24452"
+    },
+    {
+        "nombre": "Los Arcos",
+        "localidad": "Orihuela España",
+        "direccion": "-",
+        "superficie": "Césped natural",
+        "dimensiones": "103m x 66m",
+        "aforo": 4500,
+        "cod_equipo": "4054"
+    },
+    {
+        "nombre": "Iberoamericano Bahía Sur",
+        "localidad": "San Fernando España",
+        "direccion": "Calle Ferrocarril, 47 11100 San Fernando España",
+        "superficie": "Césped natural",
+        "dimensiones": "100m x 60m",
+        "aforo": 6471,
+        "cod_equipo": "12181"
+    },
+    {
+        "nombre": "Francisco Muñoz Pérez",
+        "localidad": "Estepona España",
+        "direccion": "-",
+        "superficie": "-",
+        "dimensiones": "-",
+        "aforo": 7300,
+        "cod_equipo": "24445"
+    },
+    {
+        "nombre": "Ciudad de La Línea",
+        "localidad": "La Línea de la Concepción España",
+        "direccion": "Av. Príncipe de Asturias, 230 11300 La Línea de la Concepción España",
+        "superficie": "Césped natural",
+        "dimensiones": "105m x 70m",
+        "aforo": 18500,
+        "cod_equipo": "12605"
+    },
+    {
+        "nombre": "Linarejos",
+        "localidad": "Linares España",
+        "direccion": "Av. Primero de Mayo, s/n 23700 Linares España",
+        "superficie": "Césped natural",
+        "dimensiones": "106m x 70m",
+        "aforo": 10000,
+        "cod_equipo": "12351"
+    },
+    {
+        "nombre": "Ciudad Deportiva Granada CF",
+        "localidad": "Granada España",
+        "direccion": "Crta. de Alfacar, s/n 18011 Granada España",
+        "superficie": "Césped natural",
+        "dimensiones": "-",
+        "aforo": 500,
+        "cod_equipo": "21550"
+    },
+    {
+        "nombre": "El Pozuelo",
+        "localidad": "Torremolinos España",
+        "direccion": "Calle Pedro Navarro Bruna, 6 29620 Torremolinos España",
+        "superficie": "Césped natural",
+        "dimensiones": "100m x 60m",
+        "aforo": 3000,
+        "cod_equipo": "43454"
+    },
+    {
+        "nombre": "Ciudad Deportiva Bahía de Cádiz",
+        "localidad": "Puerto Real España",
+        "direccion": "La Chacona, 130 11510 Puerto Real España",
+        "superficie": "Césped natural",
+        "dimensiones": "102m x 68m",
+        "aforo": 3500,
+        "cod_equipo": "11669"
+    },
+    {
+        "nombre": "Anexo al Estadio de los Juegos Mediterráneos",
+        "localidad": "Almería España",
+        "direccion": "Calle Alcalde Santiago Martínez Cabrejas, 5 04007 Almería España",
+        "superficie": "-",
+        "dimensiones": "103m x 67m",
+        "aforo": 350,
+        "cod_equipo": "11986"
+    },
+    {
+        "nombre": "Municipal de Lebrija",
+        "localidad": "-",
+        "direccion": "-",
+        "superficie": "-",
+        "dimensiones": "-",
+        "aforo": 3500,
+        "cod_equipo": "42457"
+    },
+    {
+        "nombre": "Chapín",
+        "localidad": "Jerez de la Frontera España",
+        "direccion": "Av. Rafa Verdú, s/n 11405 Jerez de la Frontera España",
+        "superficie": "Césped natural",
+        "dimensiones": "105m x 68m",
+        "aforo": 20523,
+        "cod_equipo": "44564"
+    },
+    {
+        "nombre": "Municipal Villanovense",
+        "localidad": "Villanueva de la Serena España",
+        "direccion": "Av. Juan Antonio Dorado Segura 06700 Villanueva de la Serena España",
+        "superficie": "Césped natural",
+        "dimensiones": "100m x 67m",
+        "aforo": 5000,
+        "cod_equipo": "7052"
+    },
+    {
+        "nombre": "Estadio Municipal de Chapín",
+        "localidad": "Jerez de la Frontera España",
+        "direccion": "Av. Rafa Verdú 11405 Jerez de la Frontera España",
+        "superficie": "Césped natural",
+        "dimensiones": "105m x 68m",
+        "aforo": 20523,
+        "cod_equipo": "134"
+    },
+    {
+        "nombre": "Vicente Sanz",
+        "localidad": "Don Benito España",
+        "direccion": "Avenida Alonso Martín, 10 06400 Don Benito España",
+        "superficie": "Césped natural",
+        "dimensiones": "100m x 69m",
+        "aforo": 2600,
+        "cod_equipo": "18443"
+    },
+    {
+        "nombre": "Ciudad Deportiva Fernando Santos de la Parra",
+        "localidad": "Getafe España",
+        "direccion": "Calle Teresa de Calcuta 28903 Getafe España",
+        "superficie": "Césped natural",
+        "dimensiones": "100m x 70m",
+        "aforo": 1500,
+        "cod_equipo": "8510"
+    },
+    {
+        "nombre": "Nuevo Matapiñonera",
+        "localidad": "San Sebastián de los Reyes España",
+        "direccion": "-",
+        "superficie": "Césped artificial",
+        "dimensiones": "-",
+        "aforo": 3000,
+        "cod_equipo": "11245"
+    },
+    {
+        "nombre": "Pedro Escartín",
+        "localidad": "Guadalajara España",
+        "direccion": "Calle Julián Besteiro, 14 19004 Guadalajara España",
+        "superficie": "Césped natural",
+        "dimensiones": "100m x 65m",
+        "aforo": 6000,
+        "cod_equipo": "16576"
+    },
+    {
+        "nombre": "Príncipe Felipe",
+        "localidad": "Cáceres España",
+        "direccion": "Carretera de Salamanca S/N 10010 Cáceres España",
+        "superficie": "Césped natural",
+        "dimensiones": "105m x 73m",
+        "aforo": 5972,
+        "cod_equipo": "11602"
+    },
+    {
+        "nombre": "Álvarez Claro",
+        "localidad": "Melilla España",
+        "direccion": "Calle Explanada de Camellos, s/n 52005 Melilla España",
+        "superficie": "Césped natural",
+        "dimensiones": "106m x 65m",
+        "aforo": 10000,
+        "cod_equipo": "16492"
+    },
+    {
+        "nombre": "El Prado",
+        "localidad": "Talavera de la Reina España",
+        "direccion": "Calle Felipe Sanz, s/n 45600 Talavera de la Reina España",
+        "superficie": "Césped natural",
+        "dimensiones": "107m x 74m",
+        "aforo": 4200,
+        "cod_equipo": "47421"
+    },
+    {
+        "nombre": "Cerro del Espino",
+        "localidad": "Majadahonda España",
+        "direccion": "C/ Moreras, s/n 28220 Majadahonda España",
+        "superficie": "Césped natural",
+        "dimensiones": "106m x 70m",
+        "aforo": 3865,
+        "cod_equipo": "13702"
+    },
+    {
+        "nombre": "Ciudad Deportiva Javier Pérez",
+        "localidad": "Santa Cruz de Tenerife España",
+        "direccion": "Calle San Francisco de Paula, 35 38296 Santa Cruz de Tenerife España",
+        "superficie": "Césped natural",
+        "dimensiones": "105m x 65m",
+        "aforo": 1000,
+        "cod_equipo": "11617"
+    },
+    {
+        "nombre": "Campo de Fútbol Orcasitas",
+        "localidad": "Madrid España",
+        "direccion": "Calle del Camino Viejo de Villaverde 34 28041 Madrid España",
+        "superficie": "Césped artificial",
+        "dimensiones": "-",
+        "aforo": 1000,
+        "cod_equipo": "92878"
+    },
+    {
+        "nombre": "Mariano González",
+        "localidad": "Navalcarnero España",
+        "direccion": "C/ Río Nalón s/n 28600 Navalcarnero España",
+        "superficie": "Césped artificial",
+        "dimensiones": "102m x 62m",
+        "aforo": 1500,
+        "cod_equipo": "20921"
+    },
+    {
+        "nombre": "CDM Vicente del Bosque",
+        "localidad": "Madrid España",
+        "direccion": "Av. Monforte de Lemos, 13 28029 Madrid España",
+        "superficie": "Césped artificial",
+        "dimensiones": "-",
+        "aforo": 2000,
+        "cod_equipo": "21368"
+    },
+    {
+        "nombre": "Municipal de Illescas",
+        "localidad": "Illescas España",
+        "direccion": "-",
+        "superficie": "-",
+        "dimensiones": "-",
+        "aforo": 1500,
+        "cod_equipo": "41396"
+    },
+    {
+        "nombre": "La Isla",
+        "localidad": "Coria España",
+        "direccion": "Carr. de Casillas de Coria 10800 Coria España",
+        "superficie": "Césped natural",
+        "dimensiones": "100m x 60m",
+        "aforo": 3000,
+        "cod_equipo": "50684"
+    },
+    {
+        "nombre": "La Fuensanta",
+        "localidad": "Cuenca España",
+        "direccion": "Avenida de los Alfares 16002 Cuenca España",
+        "superficie": "Césped natural",
+        "dimensiones": "105m x 68m",
+        "aforo": 3550,
+        "cod_equipo": "16602"
+    },
+    {
+        "nombre": "Estadio Román Valero",
+        "localidad": "-",
+        "direccion": "-",
+        "superficie": "-",
+        "dimensiones": "-",
+        "aforo": 0,
+        "cod_equipo": "17741"
+    },
+    {
+        "nombre": "Municipal de El Paso",
+        "localidad": "El Paso España",
+        "direccion": "Prol. Ronda, 14A 38750 El Paso España",
+        "superficie": "Césped artificial",
+        "dimensiones": "-",
+        "aforo": 3500,
+        "cod_equipo": "68575"
+    },
+    {
+        "nombre": "Estadio Municipal de El Soto",
+        "localidad": "Móstoles España",
+        "direccion": "Av. de Iker Casillas, s/n 28935 Móstoles España",
+        "superficie": "Césped natural",
+        "dimensiones": "105m x 68m",
+        "aforo": 5000,
+        "cod_equipo": "21122"
+    }
+]

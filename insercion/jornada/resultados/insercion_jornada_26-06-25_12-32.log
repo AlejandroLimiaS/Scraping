@@ -1,0 +1,72 @@
+
+-------------------------------------------------------------------------------------------------
+Iniciando inserción de jornada
+-------------------------------------------------------------------------------------------------
+Todas las inserciones finalizaron correctamente.
+
+-------------------------------------------------------------------------------------------------
+Jugadores encontrados que no estaban en la Base: 7
+-------------------------------------------------------------------------------------------------
+Scrapeandolos y insertandolos en la base de datos...
+
+-------------------------------------------------------------------------------------------------
+Jugadores intento 1. Jugadores restantes: 7
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado jugador: Emilio Gutiérrez Oteo
+Scrapeado jugador: Diego Carrión Tomás
+Scrapeado jugador: Borja Pérez Martínez
+Scrapeado jugador: Endika Larrea Sánchez
+Scrapeado jugador: Carlos Irineo Ortega Rodríguez
+Scrapeado jugador: Xavier Cidre Fernández
+Scrapeado jugador: Hugo Padín Garrido
+
+-------------------------------------------------------------------------------------------------
+Agentes intento 1. Agentes restantes: 1
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado agente: INVSPORT
+
+-------------------------------------------------------------------------------------------------
+Historico jugadores intento 1. Jugadores restantes: 7
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado historico jugador: 1407333
+Scrapeado historico jugador: 1407235
+Scrapeado historico jugador: 1407240
+Scrapeado historico jugador: 1407237
+Scrapeado historico jugador: 1260469
+Scrapeado historico jugador: 1407154
+Scrapeado historico jugador: 858026
+
+-------------------------------------------------------------------------------------------------
+Valor mercado jugadores intento 1. Jugadores restantes: 7
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado grafico valores jugador: 1407333
+Scrapeado grafico valores jugador: 1407235
+Scrapeado grafico valores jugador: 1407240
+Scrapeado grafico valores jugador: 1407237
+Scrapeado grafico valores jugador: 1260469
+Scrapeado grafico valores jugador: 1407154
+Scrapeado grafico valores jugador: 858026
+Todos los representantes se insertaron correctamente.
+Todos los jugadores se insertaron correctamente.
+
+-------------------------------------------------------------------------------------------------
+Jugadores scrapeados e insertados: 7
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Representantes scrapeados e insertados: 1
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Inserción de jornada finalizada
+-------------------------------------------------------------------------------------------------
+
+Tiempo total de ejecución: 0 minutos y 49.62 segundos

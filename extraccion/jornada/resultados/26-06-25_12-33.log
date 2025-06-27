@@ -1,0 +1,108 @@
+
+-------------------------------------------------------------------------------------------------
+Scraping de partidos de la jornada
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Partidos de la jornada intento 1. Partidos restantes: 20
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeados datos de partido jugado: 4428159, 1-1
+Scrapeados datos de partido jugado: 4428160, 2-0
+Scrapeados datos de partido jugado: 4428163, 0-0
+Scrapeados datos de partido jugado: 4428162, 1-2
+Scrapeados datos de partido jugado: 4428161, 1-2
+Scrapeados datos de partido jugado: 4428164, 2-1
+Scrapeados datos de partido jugado: 4428165, 2-1
+Scrapeados datos de partido jugado: 4428166, 0-3
+Scrapeados datos de partido jugado: 4428168, 2-2
+Scrapeados datos de partido jugado: 4428167, 1-1
+
+Procesando batch 1 de URLs
+Scrapeados datos de partido jugado: 4428816, 0-0
+Scrapeados datos de partido jugado: 4428818, 0-0
+Scrapeados datos de partido jugado: 4428821, 2-1
+Scrapeados datos de partido jugado: 4428822, 1-0
+Scrapeados datos de partido jugado: 4428820, 0-1
+Scrapeados datos de partido jugado: 4428817, 3-1
+Scrapeados datos de partido jugado: 4428823, 0-0
+Scrapeados datos de partido jugado: 4428815, 4-0
+Scrapeados datos de partido jugado: 4428819, 4-1
+Scrapeados datos de partido jugado: 4428824, 3-0
+
+-------------------------------------------------------------------------------------------------
+Scraping de partidos: datos de 20 partidos jugados distintos
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Estadísticas de scraping
+-------------------------------------------------------------------------------------------------
+
+Páginas únicas scrapeadas: 20
+
+Asyncio semaphore: 10
+
+Tamaño del chunk: 10
+
+Páginas fallidas: 25
+
+-------------------------------------------------------------------------------------------------
+Reintento 1
+-------------------------------------------------------------------------------------------------
+· URLFailReason.EMPTY | https://www.transfermarkt.es/cd-lugo_zamora-cf/index/spielbericht/4428160 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/unionistas-de-salamanca-cf_sd-tarazona/index/spielbericht/4428163 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/fc-andorra_sestao-river/index/spielbericht/4428162 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/rc-celta-fortuna_bilbao-athletic/index/spielbericht/4428165 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/real-union-club_ca-osasuna-promesas/index/spielbericht/4428167 | Contenido vacío (<1000 caracteres)
+
+-------------------------------------------------------------------------------------------------
+Reintento 2
+-------------------------------------------------------------------------------------------------
+· URLFailReason.EMPTY | https://www.transfermarkt.es/cd-lugo_zamora-cf/index/spielbericht/4428160 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/unionistas-de-salamanca-cf_sd-tarazona/index/spielbericht/4428163 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/fc-andorra_sestao-river/index/spielbericht/4428162 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/rc-celta-fortuna_bilbao-athletic/index/spielbericht/4428165 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/real-union-club_ca-osasuna-promesas/index/spielbericht/4428167 | Contenido vacío (<1000 caracteres)
+
+-------------------------------------------------------------------------------------------------
+Reintento 3
+-------------------------------------------------------------------------------------------------
+· URLFailReason.EMPTY | https://www.transfermarkt.es/cd-lugo_zamora-cf/index/spielbericht/4428160 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/unionistas-de-salamanca-cf_sd-tarazona/index/spielbericht/4428163 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/fc-andorra_sestao-river/index/spielbericht/4428162 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/rc-celta-fortuna_bilbao-athletic/index/spielbericht/4428165 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/real-union-club_ca-osasuna-promesas/index/spielbericht/4428167 | Contenido vacío (<1000 caracteres)
+
+-------------------------------------------------------------------------------------------------
+Reintento 4
+-------------------------------------------------------------------------------------------------
+· URLFailReason.EMPTY | https://www.transfermarkt.es/cd-lugo_zamora-cf/index/spielbericht/4428160 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/unionistas-de-salamanca-cf_sd-tarazona/index/spielbericht/4428163 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/fc-andorra_sestao-river/index/spielbericht/4428162 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/rc-celta-fortuna_bilbao-athletic/index/spielbericht/4428165 | Contenido vacío (<1000 caracteres)
+· URLFailReason.EMPTY | https://www.transfermarkt.es/real-union-club_ca-osasuna-promesas/index/spielbericht/4428167 | Contenido vacío (<1000 caracteres)
+
+-------------------------------------------------------------------------------------------------
+Reintento 5
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Reintento 6
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Reintento 7
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Fichero JSON
+-------------------------------------------------------------------------------------------------
+Fichero creado: c:\Users\alexl\OneDrive - Universidade de Santiago de Compostela\TFG\Scraping\extraccion\jornada\resultados\datos_partidos_jornada.json
+
+-------------------------------------------------------------------------------------------------
+Fichero JSON
+-------------------------------------------------------------------------------------------------
+Fichero creado: c:\Users\alexl\OneDrive - Universidade de Santiago de Compostela\TFG\Scraping\extraccion\jornada\resultados\26-06-25_12-33datos_partidos_jornada.json
+
+Tiempo total de ejecución: 4 minutos y 2.07 segundos

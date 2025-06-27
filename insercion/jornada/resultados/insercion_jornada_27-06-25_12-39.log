@@ -1,0 +1,144 @@
+
+-------------------------------------------------------------------------------------------------
+Iniciando inserción de jornada
+-------------------------------------------------------------------------------------------------
+Todas las inserciones finalizaron correctamente.
+
+-------------------------------------------------------------------------------------------------
+Jugadores encontrados que no estaban en la Base: 25
+-------------------------------------------------------------------------------------------------
+Scrapeandolos y insertandolos en la base de datos...
+
+-------------------------------------------------------------------------------------------------
+Jugadores intento 1. Jugadores restantes: 25
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado jugador: Víctor Esteban de la Torre
+Scrapeado jugador: Abdoulaye Balde Sabaly
+Scrapeado jugador: Alberto García Serra
+Scrapeado jugador: Musa Dambelleh Danso
+Scrapeado jugador: Javier Navarro Jiménez
+Scrapeado jugador: Carlos Muñoz Ortiz
+Scrapeado jugador: Óscar Mesa Pérez
+Scrapeado jugador: Mark Motilla Ferrer
+Scrapeado jugador: Alex Pérez Gómez
+Scrapeado jugador: Adrián Gutiérrez Garcia
+
+Procesando batch 1 de URLs
+Scrapeado jugador: Joan Javier Castaño Santana
+Scrapeado jugador: Joel Del Toro Fernández
+Scrapeado jugador: Pablo Lomas Prieto
+Scrapeado jugador: Daniel García Castellano
+Scrapeado jugador: Pablo Macías Calle
+Scrapeado jugador: Karlo Speljak
+Scrapeado jugador: Javier Barrera Vilariño
+Scrapeado jugador: Hugo Aragón Galán
+Scrapeado jugador: Pery
+Scrapeado jugador: Juan Cruz Cerrudo
+
+Procesando batch 2 de URLs
+Scrapeado jugador: Alejandro Hernández Meca
+Scrapeado jugador: David Fernández Palomares
+Scrapeado jugador: Jordi Ortega Lluch
+Scrapeado jugador: Álvaro Sánchez Oreja
+Scrapeado jugador: Abdoulaye Kara Kone
+
+-------------------------------------------------------------------------------------------------
+Agentes intento 1. Agentes restantes: 7
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado agente: Gesport Espizua SL
+Scrapeado agente: Best of You
+Scrapeado agente: JJ SPORT MANAGERS SL
+Scrapeado agente: ADM PRO SPORTS
+Scrapeado agente: Agencia David Copito
+Scrapeado agente: Grouz Solutions
+Scrapeado agente: InterStarDeporte
+
+-------------------------------------------------------------------------------------------------
+Historico jugadores intento 1. Jugadores restantes: 25
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado historico jugador: 1328035
+Scrapeado historico jugador: 1328034
+Scrapeado historico jugador: 1294302
+Scrapeado historico jugador: 1328075
+Scrapeado historico jugador: 1328089
+Scrapeado historico jugador: 1311100
+Scrapeado historico jugador: 1118987
+Scrapeado historico jugador: 1328033
+Scrapeado historico jugador: 1328065
+Scrapeado historico jugador: 1323152
+
+Procesando batch 1 de URLs
+Scrapeado historico jugador: 1064664
+Scrapeado historico jugador: 1327655
+Scrapeado historico jugador: 1106918
+Scrapeado historico jugador: 1323095
+Scrapeado historico jugador: 1323094
+Scrapeado historico jugador: 943464
+Scrapeado historico jugador: 1327656
+Scrapeado historico jugador: 1270465
+Scrapeado historico jugador: 929339
+Scrapeado historico jugador: 1041547
+
+Procesando batch 2 de URLs
+Scrapeado historico jugador: 1182570
+Scrapeado historico jugador: 1326213
+Scrapeado historico jugador: 666918
+Scrapeado historico jugador: 1328189
+Scrapeado historico jugador: 1233997
+
+-------------------------------------------------------------------------------------------------
+Valor mercado jugadores intento 1. Jugadores restantes: 25
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado grafico valores jugador: 1328035
+Scrapeado grafico valores jugador: 1328034
+Scrapeado grafico valores jugador: 1294302
+Scrapeado grafico valores jugador: 1328075
+Scrapeado grafico valores jugador: 1328089
+Scrapeado grafico valores jugador: 1311100
+Scrapeado grafico valores jugador: 1118987
+Scrapeado grafico valores jugador: 1328033
+Scrapeado grafico valores jugador: 1328065
+Scrapeado grafico valores jugador: 1323152
+
+Procesando batch 1 de URLs
+Scrapeado grafico valores jugador: 1064664
+Scrapeado grafico valores jugador: 1327655
+Scrapeado grafico valores jugador: 1106918
+Scrapeado grafico valores jugador: 1323095
+Scrapeado grafico valores jugador: 1323094
+Scrapeado grafico valores jugador: 943464
+Scrapeado grafico valores jugador: 1327656
+Scrapeado grafico valores jugador: 1270465
+Scrapeado grafico valores jugador: 929339
+Scrapeado grafico valores jugador: 1041547
+
+Procesando batch 2 de URLs
+Scrapeado grafico valores jugador: 1182570
+Scrapeado grafico valores jugador: 1326213
+Scrapeado grafico valores jugador: 666918
+Scrapeado grafico valores jugador: 1328189
+Scrapeado grafico valores jugador: 1233997
+Todos los representantes se insertaron correctamente.
+Se produjeron 5 fallos en la inserción de jugadores y sus historicos.
+
+-------------------------------------------------------------------------------------------------
+Jugadores scrapeados e insertados: 25
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Representantes scrapeados e insertados: 7
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Inserción de jornada finalizada
+-------------------------------------------------------------------------------------------------
+
+Tiempo total de ejecución: 3 minutos y 56.59 segundos

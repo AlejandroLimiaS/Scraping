@@ -1,0 +1,297 @@
+
+-------------------------------------------------------------------------------------------------
+Iniciando inserción de jornada
+-------------------------------------------------------------------------------------------------
+Todas las inserciones finalizaron correctamente.
+
+-------------------------------------------------------------------------------------------------
+Jugadores encontrados que no estaban en la Base: 40
+-------------------------------------------------------------------------------------------------
+Scrapeandolos y insertandolos en la base de datos...
+
+-------------------------------------------------------------------------------------------------
+Jugadores intento 1. Jugadores restantes: 40
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado jugador: Jaume Vidal Gibert
+Scrapeado jugador: Ricard Pulido Romera
+Scrapeado jugador: Simo Castillo Mussons
+Scrapeado jugador: Luis Madrigal Caro
+Scrapeado jugador: Carlos Guzmán Prados
+Scrapeado jugador: Christian Ferreres Laviada
+Scrapeado jugador: Israel González Salvador
+Scrapeado jugador: Francisco Manuel Cantal Sáez
+Scrapeado jugador: José David Salas Peralta
+Scrapeado jugador: Moussa Diakité
+
+Procesando batch 1 de URLs
+Scrapeado jugador: Pau Tejon Fauli
+Scrapeado jugador: Airam López Cabrera
+Scrapeado jugador: Jesús Mena Múgica
+Scrapeado jugador: Joel Ruiz Doblado
+Scrapeado jugador: Javier Jiménez Jiménez
+Scrapeado jugador: Yoel Crespo Freire
+Scrapeado jugador: Aritz Conde Albiol
+Scrapeado jugador: Héctor Fort García
+Scrapeado jugador: Eder Aller González
+Scrapeado jugador: Julián Steven Morales Marquinez
+
+Procesando batch 2 de URLs
+Scrapeado jugador: Adrián Rueda Colunga
+Scrapeado jugador: Abdulai Juma Bah
+Scrapeado jugador: Deiby Ochoa Ardila
+Scrapeado jugador: Pedro Méndez Larrucea
+Scrapeado jugador: David Marqués Novegil
+Scrapeado jugador: Iván García Lucena
+Scrapeado jugador: Alejandro Quesada Luengo
+Scrapeado jugador: Rayco Pérez González
+Scrapeado jugador: Pablo Mendoza Duro
+Scrapeado jugador: Javier Ripa Guillén
+
+Procesando batch 3 de URLs
+Scrapeado jugador: Aitor Albizu Barrena
+Scrapeado jugador: Álvaro Palacio Lázaro
+Scrapeado jugador: Sergio Berrar Marín
+Scrapeado jugador: Alejandro Laseca González
+Scrapeado jugador: Seydou Fall Lázaro
+Scrapeado jugador: Adrián Corral Alciturri
+Scrapeado jugador: Alberto Paredes Lorente
+Scrapeado jugador: Eladio Zorrilla Jiménez
+Scrapeado jugador: Arturo Molina Tornero
+Scrapeado jugador: Marc Ferrero Montaner
+
+-------------------------------------------------------------------------------------------------
+Agentes intento 1. Agentes restantes: 17
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado agente: JIAgencyT
+Scrapeado agente: RuGonSoccer
+Scrapeado agente: FOOTBALL TALENT MANAGEMENT
+Scrapeado agente: YOU FIRST
+Scrapeado agente: AS1
+Scrapeado agente: KARAFCA
+Scrapeado agente: FBM_SPORTS_AGENCY
+Scrapeado agente: JV SPORTS
+Scrapeado agente: AC Talent
+Scrapeado agente: Global Soccer Management
+
+Procesando batch 1 de URLs
+Scrapeado agente: RySManagement
+Scrapeado agente: +Soccer International Agents
+Scrapeado agente: FUTBOL21 AGENCY
+Scrapeado agente: LA PLAYERS
+Scrapeado agente: EGGO Asesores Deportivos
+Scrapeado agente: Antonio Tomas Gonzalez
+Scrapeado agente: Identity Sports Agency
+
+-------------------------------------------------------------------------------------------------
+Historico jugadores intento 1. Jugadores restantes: 40
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado historico jugador: 294348
+Scrapeado historico jugador: 834464
+Scrapeado historico jugador: 1317903
+Scrapeado historico jugador: 254045
+Scrapeado historico jugador: 685432
+Scrapeado historico jugador: 825186
+Scrapeado historico jugador: 959072
+Scrapeado historico jugador: 961953
+Scrapeado historico jugador: 786239
+Scrapeado historico jugador: 979235
+
+Procesando batch 1 de URLs
+Scrapeado historico jugador: 1317794
+Scrapeado historico jugador: 129149
+Scrapeado historico jugador: 372052
+Scrapeado historico jugador: 707561
+Scrapeado historico jugador: 1112309
+Scrapeado historico jugador: 1314668
+Scrapeado historico jugador: 1222475
+Scrapeado historico jugador: 937955
+Scrapeado historico jugador: 1066202
+Scrapeado historico jugador: 720036
+
+Procesando batch 2 de URLs
+Scrapeado historico jugador: 1284548
+Scrapeado historico jugador: 1121298
+Scrapeado historico jugador: 455345
+Scrapeado historico jugador: 1122455
+Scrapeado historico jugador: 1317787
+Scrapeado historico jugador: 1064589
+Scrapeado historico jugador: 296794
+Scrapeado historico jugador: 916053
+Scrapeado historico jugador: 1317785
+Scrapeado historico jugador: 1317647
+
+Procesando batch 3 de URLs
+Scrapeado historico jugador: 895486
+Scrapeado historico jugador: 1317798
+Scrapeado historico jugador: 1214084
+Scrapeado historico jugador: 1317797
+Scrapeado historico jugador: 1030554
+Scrapeado historico jugador: 708388
+Scrapeado historico jugador: 1175797
+Scrapeado historico jugador: 240849
+Scrapeado historico jugador: 337781
+Scrapeado historico jugador: 1194590
+
+-------------------------------------------------------------------------------------------------
+Valor mercado jugadores intento 1. Jugadores restantes: 40
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado grafico valores jugador: 294348
+Scrapeado grafico valores jugador: 834464
+Scrapeado grafico valores jugador: 1317903
+Scrapeado grafico valores jugador: 254045
+Scrapeado grafico valores jugador: 685432
+Scrapeado grafico valores jugador: 825186
+Scrapeado grafico valores jugador: 959072
+Scrapeado grafico valores jugador: 961953
+Scrapeado grafico valores jugador: 786239
+Scrapeado grafico valores jugador: 979235
+
+Procesando batch 1 de URLs
+Scrapeado grafico valores jugador: 1317794
+Scrapeado grafico valores jugador: 129149
+Scrapeado grafico valores jugador: 372052
+Scrapeado grafico valores jugador: 707561
+Scrapeado grafico valores jugador: 1112309
+Scrapeado grafico valores jugador: 1314668
+Scrapeado grafico valores jugador: 1222475
+Scrapeado grafico valores jugador: 937955
+Scrapeado grafico valores jugador: 1066202
+Scrapeado grafico valores jugador: 720036
+
+Procesando batch 2 de URLs
+Scrapeado grafico valores jugador: 1284548
+Scrapeado grafico valores jugador: 1121298
+Scrapeado grafico valores jugador: 455345
+Scrapeado grafico valores jugador: 1122455
+Scrapeado grafico valores jugador: 1317787
+Scrapeado grafico valores jugador: 1064589
+Scrapeado grafico valores jugador: 296794
+Scrapeado grafico valores jugador: 916053
+Scrapeado grafico valores jugador: 1317785
+Scrapeado grafico valores jugador: 1317647
+
+Procesando batch 3 de URLs
+Scrapeado grafico valores jugador: 895486
+Scrapeado grafico valores jugador: 1317798
+Scrapeado grafico valores jugador: 1214084
+Scrapeado grafico valores jugador: 1317797
+Scrapeado grafico valores jugador: 1030554
+Scrapeado grafico valores jugador: 708388
+Scrapeado grafico valores jugador: 1175797
+Scrapeado grafico valores jugador: 240849
+Scrapeado grafico valores jugador: 337781
+Scrapeado grafico valores jugador: 1194590
+Error en representante JIAgencyT (intento 1): (1062, "Duplicate entry 'JIAgencyT' for key 'representante.representante_unique'")
+Error en representante RuGonSoccer (intento 1): (1062, "Duplicate entry 'RuGonSoccer' for key 'representante.representante_unique'")
+Error en representante YOU FIRST (intento 1): (1062, "Duplicate entry 'YOU FIRST' for key 'representante.representante_unique'")
+Error en representante FOOTBALL TALENT MANAGEMENT (intento 1): (1062, "Duplicate entry 'FOOTBALL TALENT MANAGEMENT' for key 'representante.representante_unique'")
+Error en representante KARAFCA (intento 1): (1062, "Duplicate entry 'KARAFCA' for key 'representante.representante_unique'")
+Error en representante AS1 (intento 1): (1062, "Duplicate entry 'AS1' for key 'representante.representante_unique'")
+Error en representante FBM_SPORTS_AGENCY (intento 1): (1062, "Duplicate entry 'FBM_SPORTS_AGENCY' for key 'representante.representante_unique'")
+Error en representante AC Talent (intento 1): (1062, "Duplicate entry 'AC Talent' for key 'representante.representante_unique'")
+Error en representante JV SPORTS (intento 1): (1062, "Duplicate entry 'JV SPORTS' for key 'representante.representante_unique'")
+Error en representante RySManagement (intento 1): (1062, "Duplicate entry 'RySManagement' for key 'representante.representante_unique'")
+Error en representante +Soccer International Agents (intento 1): (1062, "Duplicate entry '+Soccer International Agents' for key 'representante.representante_unique'")
+Error en representante FUTBOL21 AGENCY (intento 1): (1062, "Duplicate entry 'FUTBOL21 AGENCY' for key 'representante.representante_unique'")
+Error en representante LA PLAYERS (intento 1): (1062, "Duplicate entry 'LA PLAYERS' for key 'representante.representante_unique'")
+Error en representante Identity Sports Agency (intento 1): (1062, "Duplicate entry 'Identity Sports Agency' for key 'representante.representante_unique'")
+Error en representante EGGO Asesores Deportivos (intento 1): (1062, "Duplicate entry 'EGGO Asesores Deportivos' for key 'representante.representante_unique'")
+Error en representante FOOTBALL TALENT MANAGEMENT (intento 2): (1062, "Duplicate entry 'FOOTBALL TALENT MANAGEMENT' for key 'representante.representante_unique'")
+Error en representante AS1 (intento 2): (1062, "Duplicate entry 'AS1' for key 'representante.representante_unique'")
+Error en representante YOU FIRST (intento 2): (1062, "Duplicate entry 'YOU FIRST' for key 'representante.representante_unique'")
+Error en representante KARAFCA (intento 2): (1062, "Duplicate entry 'KARAFCA' for key 'representante.representante_unique'")
+Error en representante RuGonSoccer (intento 2): (1062, "Duplicate entry 'RuGonSoccer' for key 'representante.representante_unique'")
+Error en representante JIAgencyT (intento 2): (1062, "Duplicate entry 'JIAgencyT' for key 'representante.representante_unique'")
+Error en representante JV SPORTS (intento 2): (1062, "Duplicate entry 'JV SPORTS' for key 'representante.representante_unique'")
+Error en representante FBM_SPORTS_AGENCY (intento 2): (1062, "Duplicate entry 'FBM_SPORTS_AGENCY' for key 'representante.representante_unique'")
+Error en representante AC Talent (intento 2): (1062, "Duplicate entry 'AC Talent' for key 'representante.representante_unique'")
+Error en representante RySManagement (intento 2): (1062, "Duplicate entry 'RySManagement' for key 'representante.representante_unique'")
+Error en representante LA PLAYERS (intento 2): (1062, "Duplicate entry 'LA PLAYERS' for key 'representante.representante_unique'")
+Error en representante +Soccer International Agents (intento 2): (1062, "Duplicate entry '+Soccer International Agents' for key 'representante.representante_unique'")
+Error en representante Identity Sports Agency (intento 2): (1062, "Duplicate entry 'Identity Sports Agency' for key 'representante.representante_unique'")
+Error en representante FUTBOL21 AGENCY (intento 2): (1062, "Duplicate entry 'FUTBOL21 AGENCY' for key 'representante.representante_unique'")
+Error en representante FOOTBALL TALENT MANAGEMENT (intento 3): (1062, "Duplicate entry 'FOOTBALL TALENT MANAGEMENT' for key 'representante.representante_unique'")
+Error en representante EGGO Asesores Deportivos (intento 2): (1062, "Duplicate entry 'EGGO Asesores Deportivos' for key 'representante.representante_unique'")
+Error en representante AS1 (intento 3): (1062, "Duplicate entry 'AS1' for key 'representante.representante_unique'")
+Error en representante JIAgencyT (intento 3): (1062, "Duplicate entry 'JIAgencyT' for key 'representante.representante_unique'")
+Error en representante YOU FIRST (intento 3): (1062, "Duplicate entry 'YOU FIRST' for key 'representante.representante_unique'")
+Error en representante RuGonSoccer (intento 3): (1062, "Duplicate entry 'RuGonSoccer' for key 'representante.representante_unique'")
+Error en representante JV SPORTS (intento 3): (1062, "Duplicate entry 'JV SPORTS' for key 'representante.representante_unique'")
+Error en representante KARAFCA (intento 3): (1062, "Duplicate entry 'KARAFCA' for key 'representante.representante_unique'")
+Error en representante FBM_SPORTS_AGENCY (intento 3): (1062, "Duplicate entry 'FBM_SPORTS_AGENCY' for key 'representante.representante_unique'")
+Error en representante LA PLAYERS (intento 3): (1062, "Duplicate entry 'LA PLAYERS' for key 'representante.representante_unique'")
+Error en representante +Soccer International Agents (intento 3): (1062, "Duplicate entry '+Soccer International Agents' for key 'representante.representante_unique'")
+Error en representante AC Talent (intento 3): (1062, "Duplicate entry 'AC Talent' for key 'representante.representante_unique'")
+Error en representante Identity Sports Agency (intento 3): (1062, "Duplicate entry 'Identity Sports Agency' for key 'representante.representante_unique'")
+Error en representante RySManagement (intento 3): (1062, "Duplicate entry 'RySManagement' for key 'representante.representante_unique'")
+Error en representante FUTBOL21 AGENCY (intento 3): (1062, "Duplicate entry 'FUTBOL21 AGENCY' for key 'representante.representante_unique'")
+Error en representante EGGO Asesores Deportivos (intento 3): (1062, "Duplicate entry 'EGGO Asesores Deportivos' for key 'representante.representante_unique'")
+Error en representante AS1 (intento 4): (1062, "Duplicate entry 'AS1' for key 'representante.representante_unique'")
+Error en representante JV SPORTS (intento 4): (1062, "Duplicate entry 'JV SPORTS' for key 'representante.representante_unique'")
+Error en representante JIAgencyT (intento 4): (1062, "Duplicate entry 'JIAgencyT' for key 'representante.representante_unique'")
+Error en representante FOOTBALL TALENT MANAGEMENT (intento 4): (1062, "Duplicate entry 'FOOTBALL TALENT MANAGEMENT' for key 'representante.representante_unique'")
+Error en representante YOU FIRST (intento 4): (1062, "Duplicate entry 'YOU FIRST' for key 'representante.representante_unique'")
+Error en representante KARAFCA (intento 4): (1062, "Duplicate entry 'KARAFCA' for key 'representante.representante_unique'")
+Error en representante RuGonSoccer (intento 4): (1062, "Duplicate entry 'RuGonSoccer' for key 'representante.representante_unique'")
+Error en representante +Soccer International Agents (intento 4): (1062, "Duplicate entry '+Soccer International Agents' for key 'representante.representante_unique'")
+Error en representante RySManagement (intento 4): (1062, "Duplicate entry 'RySManagement' for key 'representante.representante_unique'")
+Error en representante FBM_SPORTS_AGENCY (intento 4): (1062, "Duplicate entry 'FBM_SPORTS_AGENCY' for key 'representante.representante_unique'")
+Error en representante FUTBOL21 AGENCY (intento 4): (1062, "Duplicate entry 'FUTBOL21 AGENCY' for key 'representante.representante_unique'")
+Error en representante EGGO Asesores Deportivos (intento 4): (1062, "Duplicate entry 'EGGO Asesores Deportivos' for key 'representante.representante_unique'")
+Error en representante LA PLAYERS (intento 4): (1062, "Duplicate entry 'LA PLAYERS' for key 'representante.representante_unique'")
+Error en representante AC Talent (intento 4): (1062, "Duplicate entry 'AC Talent' for key 'representante.representante_unique'")
+Error en representante Identity Sports Agency (intento 4): (1062, "Duplicate entry 'Identity Sports Agency' for key 'representante.representante_unique'")
+Error en representante JIAgencyT (intento 5): (1062, "Duplicate entry 'JIAgencyT' for key 'representante.representante_unique'")
+Falló representante JIAgencyT tras 5 intentos.
+Error en representante JV SPORTS (intento 5): (1062, "Duplicate entry 'JV SPORTS' for key 'representante.representante_unique'")
+Falló representante JV SPORTS tras 5 intentos.
+Error en representante RuGonSoccer (intento 5): (1062, "Duplicate entry 'RuGonSoccer' for key 'representante.representante_unique'")
+Falló representante RuGonSoccer tras 5 intentos.
+Error en representante KARAFCA (intento 5): (1062, "Duplicate entry 'KARAFCA' for key 'representante.representante_unique'")
+Falló representante KARAFCA tras 5 intentos.
+Error en representante RySManagement (intento 5): (1062, "Duplicate entry 'RySManagement' for key 'representante.representante_unique'")
+Falló representante RySManagement tras 5 intentos.
+Error en representante FOOTBALL TALENT MANAGEMENT (intento 5): (1062, "Duplicate entry 'FOOTBALL TALENT MANAGEMENT' for key 'representante.representante_unique'")
+Falló representante FOOTBALL TALENT MANAGEMENT tras 5 intentos.
+Error en representante AS1 (intento 5): (1062, "Duplicate entry 'AS1' for key 'representante.representante_unique'")
+Falló representante AS1 tras 5 intentos.
+Error en representante FUTBOL21 AGENCY (intento 5): (1062, "Duplicate entry 'FUTBOL21 AGENCY' for key 'representante.representante_unique'")
+Falló representante FUTBOL21 AGENCY tras 5 intentos.
+Error en representante EGGO Asesores Deportivos (intento 5): (1062, "Duplicate entry 'EGGO Asesores Deportivos' for key 'representante.representante_unique'")
+Falló representante EGGO Asesores Deportivos tras 5 intentos.
+Error en representante Identity Sports Agency (intento 5): (1062, "Duplicate entry 'Identity Sports Agency' for key 'representante.representante_unique'")
+Falló representante Identity Sports Agency tras 5 intentos.
+Error en representante AC Talent (intento 5): (1062, "Duplicate entry 'AC Talent' for key 'representante.representante_unique'")
+Falló representante AC Talent tras 5 intentos.
+Error en representante LA PLAYERS (intento 5): (1062, "Duplicate entry 'LA PLAYERS' for key 'representante.representante_unique'")
+Falló representante LA PLAYERS tras 5 intentos.
+Error en representante +Soccer International Agents (intento 5): (1062, "Duplicate entry '+Soccer International Agents' for key 'representante.representante_unique'")
+Falló representante +Soccer International Agents tras 5 intentos.
+Error en representante FBM_SPORTS_AGENCY (intento 5): (1062, "Duplicate entry 'FBM_SPORTS_AGENCY' for key 'representante.representante_unique'")
+Falló representante FBM_SPORTS_AGENCY tras 5 intentos.
+Error en representante YOU FIRST (intento 5): (1062, "Duplicate entry 'YOU FIRST' for key 'representante.representante_unique'")
+Falló representante YOU FIRST tras 5 intentos.
+Se produjeron 15 fallos en la inserción de representantes.
+Se produjeron 43 fallos en la inserción de jugadores y sus historicos.
+
+-------------------------------------------------------------------------------------------------
+Jugadores scrapeados e insertados: 40
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Representantes scrapeados e insertados: 17
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Inserción de jornada finalizada
+-------------------------------------------------------------------------------------------------
+
+Tiempo total de ejecución: 6 minutos y 20.69 segundos

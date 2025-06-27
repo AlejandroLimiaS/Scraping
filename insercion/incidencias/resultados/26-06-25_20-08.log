@@ -1,0 +1,13 @@
+
+-------------------------------------------------------------------------------------------------
+Iniciando inserción de incidencias y actualización de valores de mercado.
+-------------------------------------------------------------------------------------------------
+Cargadas 26 incidencias desde JSON.
+Cargados 3014 valores de mercado.
+Incidencias con id_usuario NULL borradas correctamente.
+Todas las incidencias y valores de mercado se insertaron correctamente.
+
+-------------------------------------------------------------------------------------------------
+Finalizada inserción de incidencias y actualización de valores de mercado.
+-------------------------------------------------------------------------------------------------
+Finalizado en 0m 11.67s

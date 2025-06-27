@@ -1,0 +1,7 @@
+
+-------------------------------------------------------------------------------------------------
+Iniciando inserción de localidades gallegas
+-------------------------------------------------------------------------------------------------
+Error al crear el pool de conexión: (2003, "Can't connect to MySQL server on '185.253.155.137'")
+Error general en insertar localidades: (2003, "Can't connect to MySQL server on '185.253.155.137'")
+Finalizado en 0m 10.01s

@@ -1,0 +1,44 @@
+[
+    {
+        "cod_grupo": "E3G1",
+        "temporada": "2024/2025",
+        "division": "Primera Federación",
+        "grupo": "Grupo 1"
+    },
+    {
+        "cod_grupo": "E3G2",
+        "temporada": "2024/2025",
+        "division": "Primera Federación",
+        "grupo": "Grupo 2"
+    },
+    {
+        "cod_grupo": "E4G1",
+        "temporada": "2024/2025",
+        "division": "Segunda Federación",
+        "grupo": "Grupo 1"
+    },
+    {
+        "cod_grupo": "E4G2",
+        "temporada": "2024/2025",
+        "division": "Segunda Federación",
+        "grupo": "Grupo 2"
+    },
+    {
+        "cod_grupo": "E4G3",
+        "temporada": "2024/2025",
+        "division": "Segunda Federación",
+        "grupo": "Grupo 3"
+    },
+    {
+        "cod_grupo": "E4G4",
+        "temporada": "2024/2025",
+        "division": "Segunda Federación",
+        "grupo": "Grupo 4"
+    },
+    {
+        "cod_grupo": "E4G5",
+        "temporada": "2024/2025",
+        "division": "Segunda Federación",
+        "grupo": "Grupo 5"
+    }
+]

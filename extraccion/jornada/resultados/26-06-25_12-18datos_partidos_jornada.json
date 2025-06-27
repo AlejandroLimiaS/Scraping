@@ -1,0 +1,5981 @@
+[
+    {
+        "cod_partido": "4428135",
+        "goles_local": 2,
+        "goles_visitante": 0,
+        "cod_titulares_local": [
+            [
+                "238032",
+                "/andres-prieto/profil/spieler/238032"
+            ],
+            [
+                "716578",
+                "/german-novoa/profil/spieler/716578"
+            ],
+            [
+                "409273",
+                "/kevin-sibille/profil/spieler/409273"
+            ],
+            [
+                "340206",
+                "/andoni-lopez/profil/spieler/340206"
+            ],
+            [
+                "636113",
+                "/mario-jorrin/profil/spieler/636113"
+            ],
+            [
+                "540654",
+                "/marc-olivier-doue/profil/spieler/540654"
+            ],
+            [
+                "386668",
+                "/markel-lozano/profil/spieler/386668"
+            ],
+            [
+                "199324",
+                "/alvaro-bustos/profil/spieler/199324"
+            ],
+            [
+                "848514",
+                "/yeray-cabanzon/profil/spieler/848514"
+            ],
+            [
+                "628471",
+                "/jose-luis-cortes/profil/spieler/628471"
+            ],
+            [
+                "176067",
+                "/borja-valle/profil/spieler/176067"
+            ]
+        ],
+        "cod_titulares_visitante": [
+            [
+                "1056956",
+                "/mikel-santos/profil/spieler/1056956"
+            ],
+            [
+                "834488",
+                "/aimar-dunabeitia/profil/spieler/834488"
+            ],
+            [
+                "1189292",
+                "/ander-izagirre/profil/spieler/1189292"
+            ],
+            [
+                "905015",
+                "/jon-de-luis/profil/spieler/905015"
+            ],
+            [
+                "926766",
+                "/johaneko-louis-jean/profil/spieler/926766"
+            ],
+            [
+                "1179373",
+                "/benat-garcia/profil/spieler/1179373"
+            ],
+            [
+                "834491",
+                "/alejandro-rego/profil/spieler/834491"
+            ],
+            [
+                "709214",
+                "/benat-gerenabarrena/profil/spieler/709214"
+            ],
+            [
+                "1162017",
+                "/adrian-perez/profil/spieler/1162017"
+            ],
+            [
+                "1056971",
+                "/aingeru-olabarrieta/profil/spieler/1056971"
+            ],
+            [
+                "834754",
+                "/ibai-sanz/profil/spieler/834754"
+            ]
+        ],
+        "cod_suplentes_local": [
+            [
+                "713632",
+                "/angel-jimenez/profil/spieler/713632"
+            ],
+            [
+                "635521",
+                "/pablo-barredo/profil/spieler/635521"
+            ],
+            [
+                "531267",
+                "/david-andujar/profil/spieler/531267"
+            ],
+            [
+                "710009",
+                "/javi-lancho/profil/spieler/710009"
+            ],
+            [
+                "599263",
+                "/vicente-esquerdo/profil/spieler/599263"
+            ],
+            [
+                "242295",
+                "/alex-mula/profil/spieler/242295"
+            ],
+            [
+                "288460",
+                "/ernesto-gomez/profil/spieler/288460"
+            ],
+            [
+                "1166534",
+                "/alex-costa/profil/spieler/1166534"
+            ],
+            [
+                "940462",
+                "/pau-ferrer/profil/spieler/940462"
+            ]
+        ],
+        "cod_suplentes_visitante": [
+            [
+                "938722",
+                "/oier-gastesi/profil/spieler/938722"
+            ],
+            [
+                "938727",
+                "/eneko-ebro/profil/spieler/938727"
+            ],
+            [
+                "1151110",
+                "/javier-elias/profil/spieler/1151110"
+            ],
+            [
+                "1063597",
+                "/enaut-lete/profil/spieler/1063597"
+            ],
+            [
+                "633093",
+                "/eneko-aguilar/profil/spieler/633093"
+            ],
+            [
+                "938730",
+                "/ibon-sanchez/profil/spieler/938730"
+            ],
+            [
+                "834492",
+                "/iker-varela/profil/spieler/834492"
+            ],
+            [
+                "1120228",
+                "/endika-bujan/profil/spieler/1120228"
+            ],
+            [
+                "1056970",
+                "/asier-hierro/profil/spieler/1056970"
+            ]
+        ],
+        "cambios_local": [
+            {
+                "cod_entra": "940462",
+                "cod_fuera": "199324",
+                "minuto": 49,
+                "desc": "Lesión"
+            },
+            {
+                "cod_entra": "288460",
+                "cod_fuera": "176067",
+                "minuto": 72,
+                "desc": ""
+            },
+            {
+                "cod_entra": "599263",
+                "cod_fuera": "540654",
+                "minuto": 80,
+                "desc": ""
+            },
+            {
+                "cod_entra": "710009",
+                "cod_fuera": "636113",
+                "minuto": 80,
+                "desc": ""
+            },
+            {
+                "cod_entra": "1166534",
+                "cod_fuera": "628471",
+                "minuto": 80,
+                "desc": ""
+            }
+        ],
+        "cambios_visitante": [
+            {
+                "cod_entra": "938730",
+                "cod_fuera": "834488",
+                "minuto": 46,
+                "desc": ""
+            },
+            {
+                "cod_entra": "633093",
+                "cod_fuera": "1179373",
+                "minuto": 46,
+                "desc": "Sin más detalles"
+            },
+            {
+                "cod_entra": "834492",
+                "cod_fuera": "1162017",
+                "minuto": 61,
+                "desc": ""
+            },
+            {
+                "cod_entra": "1120228",
+                "cod_fuera": "1056971",
+                "minuto": 61,
+                "desc": ""
+            },
+            {
+                "cod_entra": "1056970",
+                "cod_fuera": "834754",
+                "minuto": 71,
+                "desc": ""
+            }
+        ],
+        "amonestaciones_local": [
+            {
+                "cod_amonestado": "716578",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 1
+            },
+            {
+                "cod_amonestado": "540654",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 80
+            }
+        ],
+        "amonestaciones_visitante": [
+            {
+                "cod_amonestado": "1179373",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 15
+            },
+            {
+                "cod_amonestado": "834492",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 71
+            },
+            {
+                "cod_amonestado": "709214",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 90
+            },
+            {
+                "cod_amonestado": "834491",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 90
+            }
+        ],
+        "goles_local_desc": [
+            {
+                "cod_goleador": "176067",
+                "resultado_gol": "1:0",
+                "desc": "8. gol de la temporada",
+                "minuto": 24,
+                "cod_asistente": null,
+                "desc_asist": null
+            },
+            {
+                "cod_goleador": "940462",
+                "resultado_gol": "2:0",
+                "desc": "3. gol de la temporada",
+                "minuto": 83,
+                "cod_asistente": "599263",
+                "desc_asist": "3° asistencia de la temporada"
+            }
+        ],
+        "goles_visitante_desc": [],
+        "fecha": "03/05/25  16:00",
+        "penaltis_fallados": []
+    },
+    {
+        "cod_partido": "4428137",
+        "goles_local": 0,
+        "goles_visitante": 0,
+        "cod_titulares_local": [
+            [
+                "1073051",
+                "/hector-oliva/profil/spieler/1073051"
+            ],
+            [
+                "447938",
+                "/abel-pascual/profil/spieler/447938"
+            ],
+            [
+                "789792",
+                "/sergi-molina/profil/spieler/789792"
+            ],
+            [
+                "197593",
+                "/chupo/profil/spieler/197593"
+            ],
+            [
+                "1057706",
+                "/marcel-cespedes/profil/spieler/1057706"
+            ],
+            [
+                "287194",
+                "/fernan-ferreiroa/profil/spieler/287194"
+            ],
+            [
+                "197581",
+                "/manu-olmedilla/profil/spieler/197581"
+            ],
+            [
+                "126365",
+                "/fernando-llorente/profil/spieler/126365"
+            ],
+            [
+                "634489",
+                "/miguel-berlanga/profil/spieler/634489"
+            ],
+            [
+                "750681",
+                "/joshua-farrell/profil/spieler/750681"
+            ],
+            [
+                "554814",
+                "/diego-gomez/profil/spieler/554814"
+            ]
+        ],
+        "cod_titulares_visitante": [
+            [
+                "668313",
+                "/aitor-fraga/profil/spieler/668313"
+            ],
+            [
+                "964190",
+                "/luken-beitia/profil/spieler/964190"
+            ],
+            [
+                "711381",
+                "/peru-rodriguez/profil/spieler/711381"
+            ],
+            [
+                "711380",
+                "/jon-balda/profil/spieler/711380"
+            ],
+            [
+                "1055860",
+                "/inaki-ruperez/profil/spieler/1055860"
+            ],
+            [
+                "1283968",
+                "/tomy-carbonell/profil/spieler/1283968"
+            ],
+            [
+                "721660",
+                "/mikel-rodriguez/profil/spieler/721660"
+            ],
+            [
+                "709215",
+                "/mikel-goti/profil/spieler/709215"
+            ],
+            [
+                "1201529",
+                "/lander-astiazaran/profil/spieler/1201529"
+            ],
+            [
+                "1201530",
+                "/alex-marchal/profil/spieler/1201530"
+            ],
+            [
+                "982007",
+                "/ekain-orobengoa/profil/spieler/982007"
+            ]
+        ],
+        "cod_suplentes_local": [
+            [
+                "1310531",
+                "/guillermo-san-felipe/profil/spieler/1310531"
+            ],
+            [
+                "1379217",
+                "/alejandro-postigo/profil/spieler/1379217"
+            ],
+            [
+                "58161",
+                "/pablo-carmona/profil/spieler/58161"
+            ],
+            [
+                "640985",
+                "/david-lopez/profil/spieler/640985"
+            ],
+            [
+                "1054571",
+                "/hugo-marcos/profil/spieler/1054571"
+            ],
+            [
+                "534697",
+                "/hugo-diaz/profil/spieler/534697"
+            ],
+            [
+                "535204",
+                "/juan-de-la-mata/profil/spieler/535204"
+            ],
+            [
+                "253878",
+                "/pedro-astray/profil/spieler/253878"
+            ],
+            [
+                "889630",
+                "/ignacio-tellechea/profil/spieler/889630"
+            ],
+            [
+                "597907",
+                "/javi-borrego/profil/spieler/597907"
+            ],
+            [
+                "1059365",
+                "/alex-maroto/profil/spieler/1059365"
+            ]
+        ],
+        "cod_suplentes_visitante": [
+            [
+                "1130913",
+                "/adrian-zango/profil/spieler/1130913"
+            ],
+            [
+                "961951",
+                "/eneko-astigarraga/profil/spieler/961951"
+            ],
+            [
+                "1136037",
+                "/iker-ropero/profil/spieler/1136037"
+            ],
+            [
+                "1062967",
+                "/jon-merino/profil/spieler/1062967"
+            ],
+            [
+                "1055874",
+                "/manex-gibelalde/profil/spieler/1055874"
+            ],
+            [
+                "979325",
+                "/alex-lebarbier/profil/spieler/979325"
+            ],
+            [
+                "979324",
+                "/eder-garcia/profil/spieler/979324"
+            ],
+            [
+                "1178816",
+                "/dario-ramirez/profil/spieler/1178816"
+            ],
+            [
+                "1214320",
+                "/sydney-osazuwa/profil/spieler/1214320"
+            ],
+            [
+                "1063598",
+                "/gorka-carrera/profil/spieler/1063598"
+            ]
+        ],
+        "cambios_local": [
+            {
+                "cod_entra": "1059365",
+                "cod_fuera": "634489",
+                "minuto": 29,
+                "desc": "Lesión"
+            },
+            {
+                "cod_entra": "597907",
+                "cod_fuera": "1057706",
+                "minuto": 67,
+                "desc": ""
+            },
+            {
+                "cod_entra": "534697",
+                "cod_fuera": "197581",
+                "minuto": 80,
+                "desc": ""
+            }
+        ],
+        "cambios_visitante": [
+            {
+                "cod_entra": "979324",
+                "cod_fuera": "1201529",
+                "minuto": 63,
+                "desc": "Sin más detalles"
+            },
+            {
+                "cod_entra": "1063598",
+                "cod_fuera": "982007",
+                "minuto": 73,
+                "desc": ""
+            },
+            {
+                "cod_entra": "1178816",
+                "cod_fuera": "1201530",
+                "minuto": 73,
+                "desc": ""
+            },
+            {
+                "cod_entra": "1214320",
+                "cod_fuera": "721660",
+                "minuto": 84,
+                "desc": ""
+            }
+        ],
+        "amonestaciones_local": [
+            {
+                "cod_amonestado": "447938",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 58
+            }
+        ],
+        "amonestaciones_visitante": [
+            {
+                "cod_amonestado": "1055860",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 79
+            }
+        ],
+        "goles_local_desc": [],
+        "goles_visitante_desc": [],
+        "fecha": "02/05/25  20:30",
+        "penaltis_fallados": []
+    },
+    {
+        "cod_partido": "4428129",
+        "goles_local": 1,
+        "goles_visitante": 1,
+        "cod_titulares_local": [
+            [
+                "510330",
+                "/diego-garcia/profil/spieler/510330"
+            ],
+            [
+                "627631",
+                "/iano-simao/profil/spieler/627631"
+            ],
+            [
+                "221312",
+                "/jordan-sanchez/profil/spieler/221312"
+            ],
+            [
+                "632931",
+                "/andres-borge/profil/spieler/632931"
+            ],
+            [
+                "249459",
+                "/tarsi-aguado/profil/spieler/249459"
+            ],
+            [
+                "636411",
+                "/mangel-prendes/profil/spieler/636411"
+            ],
+            [
+                "892059",
+                "/curro-rivelott/profil/spieler/892059"
+            ],
+            [
+                "547354",
+                "/pascu/profil/spieler/547354"
+            ],
+            [
+                "71918",
+                "/david-ferreiro/profil/spieler/71918"
+            ],
+            [
+                "466808",
+                "/jaume-cuellar/profil/spieler/466808"
+            ],
+            [
+                "699607",
+                "/enol-rodriguez/profil/spieler/699607"
+            ]
+        ],
+        "cod_titulares_visitante": [
+            [
+                "258825",
+                "/fermin-sobron/profil/spieler/258825"
+            ],
+            [
+                "709636",
+                "/bolo/profil/spieler/709636"
+            ],
+            [
+                "319541",
+                "/jose-carlos-ramirez/profil/spieler/319541"
+            ],
+            [
+                "490616",
+                "/sergio-nieto/profil/spieler/490616"
+            ],
+            [
+                "907013",
+                "/rufino-lucero/profil/spieler/907013"
+            ],
+            [
+                "126722",
+                "/edu-campabadal/profil/spieler/126722"
+            ],
+            [
+                "282000",
+                "/carlos-ramos/profil/spieler/282000"
+            ],
+            [
+                "348553",
+                "/pablo-claveria/profil/spieler/348553"
+            ],
+            [
+                "632904",
+                "/rafa-tresaco/profil/spieler/632904"
+            ],
+            [
+                "101733",
+                "/kike-marquez/profil/spieler/101733"
+            ],
+            [
+                "350001",
+                "/pito-camacho/profil/spieler/350001"
+            ]
+        ],
+        "cod_suplentes_local": [
+            [
+                "412042",
+                "/adri-lopez/profil/spieler/412042"
+            ],
+            [
+                "1155885",
+                "/manu-figueroa/profil/spieler/1155885"
+            ],
+            [
+                "461511",
+                "/yac-diori/profil/spieler/461511"
+            ],
+            [
+                "703362",
+                "/simon-luca-perez/profil/spieler/703362"
+            ],
+            [
+                "636118",
+                "/martin-solar/profil/spieler/636118"
+            ],
+            [
+                "128298",
+                "/adrian-cruz/profil/spieler/128298"
+            ],
+            [
+                "1061267",
+                "/sergi-esteban/profil/spieler/1061267"
+            ],
+            [
+                "230212",
+                "/luis-fernandez/profil/spieler/230212"
+            ]
+        ],
+        "cod_suplentes_visitante": [
+            [
+                "549069",
+                "/diego-altube/profil/spieler/549069"
+            ],
+            [
+                "274753",
+                "/carlos-gutierrez/profil/spieler/274753"
+            ],
+            [
+                "834736",
+                "/aleix-gorjon/profil/spieler/834736"
+            ],
+            [
+                "158844",
+                "/julen-castaneda/profil/spieler/158844"
+            ],
+            [
+                "960948",
+                "/eugene-frimpong/profil/spieler/960948"
+            ],
+            [
+                "1066093",
+                "/guillermo-macho/profil/spieler/1066093"
+            ],
+            [
+                "891922",
+                "/joel-priego/profil/spieler/891922"
+            ],
+            [
+                "437893",
+                "/alvaro-romero/profil/spieler/437893"
+            ],
+            [
+                "175906",
+                "/dani-hernandez/profil/spieler/175906"
+            ],
+            [
+                "1056096",
+                "/eghosa-bello/profil/spieler/1056096"
+            ],
+            [
+                "348552",
+                "/roni/profil/spieler/348552"
+            ]
+        ],
+        "cambios_local": [
+            {
+                "cod_entra": "461511",
+                "cod_fuera": "636411",
+                "minuto": 50,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "636118",
+                "cod_fuera": "249459",
+                "minuto": 70,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "703362",
+                "cod_fuera": "466808",
+                "minuto": 87,
+                "desc": "Táctica"
+            }
+        ],
+        "cambios_visitante": [
+            {
+                "cod_entra": "348552",
+                "cod_fuera": "126722",
+                "minuto": 59,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "960948",
+                "cod_fuera": "350001",
+                "minuto": 72,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "437893",
+                "cod_fuera": "282000",
+                "minuto": 84,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "1066093",
+                "cod_fuera": "101733",
+                "minuto": 84,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "891922",
+                "cod_fuera": "632904",
+                "minuto": 84,
+                "desc": "Táctica"
+            }
+        ],
+        "amonestaciones_local": [
+            {
+                "cod_amonestado": "221312",
+                "amarilla": false,
+                "roja": true,
+                "minuto": 85
+            }
+        ],
+        "amonestaciones_visitante": [
+            {
+                "cod_amonestado": "632904",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 38
+            }
+        ],
+        "goles_local_desc": [
+            {
+                "cod_goleador": "466808",
+                "resultado_gol": "1:0",
+                "desc": "2. gol de la temporada",
+                "minuto": 36,
+                "cod_asistente": "547354",
+                "desc_asist": "6° asistencia de la temporada"
+            }
+        ],
+        "goles_visitante_desc": [
+            {
+                "cod_goleador": "709636",
+                "resultado_gol": "1:1",
+                "desc": "1. gol de la temporada",
+                "minuto": 71,
+                "cod_asistente": "319541",
+                "desc_asist": "2° asistencia de la temporada"
+            }
+        ],
+        "fecha": "03/05/25  18:00",
+        "penaltis_fallados": []
+    },
+    {
+        "cod_partido": "4428138",
+        "goles_local": 0,
+        "goles_visitante": 4,
+        "cod_titulares_local": [
+            [
+                "282409",
+                "/marcos-lavin/profil/spieler/282409"
+            ],
+            [
+                "275028",
+                "/juan-rodriguez/profil/spieler/275028"
+            ],
+            [
+                "510960",
+                "/erik-ruiz/profil/spieler/510960"
+            ],
+            [
+                "625665",
+                "/ander-zoilo/profil/spieler/625665"
+            ],
+            [
+                "1137322",
+                "/alex-lizancos/profil/spieler/1137322"
+            ],
+            [
+                "942988",
+                "/yayo-gonzalez/profil/spieler/942988"
+            ],
+            [
+                "636392",
+                "/dani-vidal/profil/spieler/636392"
+            ],
+            [
+                "386659",
+                "/jon-ceberio/profil/spieler/386659"
+            ],
+            [
+                "626959",
+                "/jon-cabo/profil/spieler/626959"
+            ],
+            [
+                "1065763",
+                "/jorge-gonzalez/profil/spieler/1065763"
+            ],
+            [
+                "591094",
+                "/raul-hernandez/profil/spieler/591094"
+            ]
+        ],
+        "cod_titulares_visitante": [
+            [
+                "709955",
+                "/ander-astralaga/profil/spieler/709955"
+            ],
+            [
+                "924610",
+                "/alvaro-cortes/profil/spieler/924610"
+            ],
+            [
+                "938150",
+                "/alexis-olmedo/profil/spieler/938150"
+            ],
+            [
+                "1009765",
+                "/jofre-torrents/profil/spieler/1009765"
+            ],
+            [
+                "668272",
+                "/trilli/profil/spieler/668272"
+            ],
+            [
+                "1050120",
+                "/guille-fernandez/profil/spieler/1050120"
+            ],
+            [
+                "709966",
+                "/aleix-garrido/profil/spieler/709966"
+            ],
+            [
+                "568182",
+                "/raul-dacosta/profil/spieler/568182"
+            ],
+            [
+                "1301775",
+                "/jan-virgili/profil/spieler/1301775"
+            ],
+            [
+                "1066206",
+                "/toni-fernandez/profil/spieler/1066206"
+            ],
+            [
+                "716163",
+                "/ivan-cedric/profil/spieler/716163"
+            ]
+        ],
+        "cod_suplentes_local": [
+            [
+                "536659",
+                "/pablo-cacharron/profil/spieler/536659"
+            ],
+            [
+                "203775",
+                "/bernardo-cruz/profil/spieler/203775"
+            ],
+            [
+                "837084",
+                "/nathaniel-nicholas/profil/spieler/837084"
+            ],
+            [
+                "567522",
+                "/pedro-pereira/profil/spieler/567522"
+            ],
+            [
+                "668211",
+                "/marcos-sanchez/profil/spieler/668211"
+            ],
+            [
+                "971094",
+                "/alberto-vaquero/profil/spieler/971094"
+            ],
+            [
+                "646746",
+                "/roger-martinez/profil/spieler/646746"
+            ],
+            [
+                "1055561",
+                "/pablo-rubal/profil/spieler/1055561"
+            ],
+            [
+                "663664",
+                "/bryan-mendoza/profil/spieler/663664"
+            ],
+            [
+                "983525",
+                "/martin-ochoa/profil/spieler/983525"
+            ],
+            [
+                "496415",
+                "/nicolas-reniero/profil/spieler/496415"
+            ]
+        ],
+        "cod_suplentes_visitante": [
+            [
+                "938145",
+                "/aron-yaakobishvili/profil/spieler/938145"
+            ],
+            [
+                "962111",
+                "/andres-cuenca/profil/spieler/962111"
+            ],
+            [
+                "1051724",
+                "/david-oduro/profil/spieler/1051724"
+            ],
+            [
+                "938148",
+                "/landry-farre/profil/spieler/938148"
+            ],
+            [
+                "1018912",
+                "/xavi-espart/profil/spieler/1018912"
+            ],
+            [
+                "941115",
+                "/ruben-lopez/profil/spieler/941115"
+            ],
+            [
+                "897480",
+                "/noah-darvich/profil/spieler/897480"
+            ],
+            [
+                "668277",
+                "/alan-godoy/profil/spieler/668277"
+            ]
+        ],
+        "cambios_local": [
+            {
+                "cod_entra": "496415",
+                "cod_fuera": "1065763",
+                "minuto": 57,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "646746",
+                "cod_fuera": "636392",
+                "minuto": 57,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "663664",
+                "cod_fuera": "386659",
+                "minuto": 57,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "668211",
+                "cod_fuera": "275028",
+                "minuto": 81,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "983525",
+                "cod_fuera": "591094",
+                "minuto": 81,
+                "desc": "Táctica"
+            }
+        ],
+        "cambios_visitante": [
+            {
+                "cod_entra": "938148",
+                "cod_fuera": "668272",
+                "minuto": 46,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "941115",
+                "cod_fuera": "1050120",
+                "minuto": 62,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "897480",
+                "cod_fuera": "1301775",
+                "minuto": 78,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "1018912",
+                "cod_fuera": "709966",
+                "minuto": 78,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "962111",
+                "cod_fuera": "1009765",
+                "minuto": 83,
+                "desc": "Táctica"
+            }
+        ],
+        "amonestaciones_local": [
+            {
+                "cod_amonestado": "1065763",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 32
+            },
+            {
+                "cod_amonestado": "275028",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 51
+            },
+            {
+                "cod_amonestado": "496415",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 64
+            },
+            {
+                "cod_amonestado": "496415",
+                "amarilla": false,
+                "roja": true,
+                "minuto": 68
+            },
+            {
+                "cod_amonestado": "646746",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 81
+            }
+        ],
+        "amonestaciones_visitante": [
+            {
+                "cod_amonestado": "668272",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 40
+            },
+            {
+                "cod_amonestado": "709955",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 64
+            },
+            {
+                "cod_amonestado": "924610",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 68
+            }
+        ],
+        "goles_local_desc": [],
+        "goles_visitante_desc": [
+            {
+                "cod_goleador": "716163",
+                "resultado_gol": "0:1",
+                "desc": "7. gol de la temporada",
+                "minuto": 4,
+                "cod_asistente": null,
+                "desc_asist": null
+            },
+            {
+                "cod_goleador": "1301775",
+                "resultado_gol": "0:2",
+                "desc": "3. gol de la temporada",
+                "minuto": 65,
+                "cod_asistente": "716163",
+                "desc_asist": "5° asistencia de la temporada"
+            },
+            {
+                "cod_goleador": "1301775",
+                "resultado_gol": "0:3",
+                "desc": "4. gol de la temporada",
+                "minuto": 74,
+                "cod_asistente": null,
+                "desc_asist": null
+            },
+            {
+                "cod_goleador": "716163",
+                "resultado_gol": "0:4",
+                "desc": "8. gol de la temporada",
+                "minuto": 83,
+                "cod_asistente": null,
+                "desc_asist": null
+            }
+        ],
+        "fecha": "04/05/25  12:00",
+        "penaltis_fallados": []
+    },
+    {
+        "cod_partido": "4428134",
+        "goles_local": 1,
+        "goles_visitante": 0,
+        "cod_titulares_local": [
+            [
+                "296838",
+                "/raul-marqueta/profil/spieler/296838"
+            ],
+            [
+                "335226",
+                "/alex-zalaya/profil/spieler/335226"
+            ],
+            [
+                "557144",
+                "/miguel-prado/profil/spieler/557144"
+            ],
+            [
+                "537370",
+                "/fran-carmona/profil/spieler/537370"
+            ],
+            [
+                "715625",
+                "/hugo-sanz/profil/spieler/715625"
+            ],
+            [
+                "522200",
+                "/jerin-ramos/profil/spieler/522200"
+            ],
+            [
+                "719997",
+                "/alejandro-fidalgo/profil/spieler/719997"
+            ],
+            [
+                "891931",
+                "/jairo-noriega/profil/spieler/891931"
+            ],
+            [
+                "455254",
+                "/angel-sanchez/profil/spieler/455254"
+            ],
+            [
+                "565242",
+                "/jose-manuel-raigal/profil/spieler/565242"
+            ],
+            [
+                "1005309",
+                "/javier-carbonell/profil/spieler/1005309"
+            ]
+        ],
+        "cod_titulares_visitante": [
+            [
+                "193073",
+                "/miguel-banuz/profil/spieler/193073"
+            ],
+            [
+                "199375",
+                "/victor-ruiz/profil/spieler/199375"
+            ],
+            [
+                "291039",
+                "/quique-fornos/profil/spieler/291039"
+            ],
+            [
+                "718577",
+                "/alvaro-martinez/profil/spieler/718577"
+            ],
+            [
+                "1157610",
+                "/guzman-ortega/profil/spieler/1157610"
+            ],
+            [
+                "541646",
+                "/diego-barri/profil/spieler/541646"
+            ],
+            [
+                "379224",
+                "/kevin-presa/profil/spieler/379224"
+            ],
+            [
+                "127838",
+                "/sergi-maestre/profil/spieler/127838"
+            ],
+            [
+                "473402",
+                "/luis-chacon/profil/spieler/473402"
+            ],
+            [
+                "336103",
+                "/agustin-pastoriza/profil/spieler/336103"
+            ],
+            [
+                "593357",
+                "/manu-justo/profil/spieler/593357"
+            ]
+        ],
+        "cod_suplentes_local": [
+            [
+                "76606",
+                "/pato-guillen/profil/spieler/76606"
+            ],
+            [
+                "541063",
+                "/moises-rodriguez/profil/spieler/541063"
+            ],
+            [
+                "569871",
+                "/raul-prada/profil/spieler/569871"
+            ],
+            [
+                "325802",
+                "/fernando-andrada/profil/spieler/325802"
+            ],
+            [
+                "941103",
+                "/quique-teijo/profil/spieler/941103"
+            ],
+            [
+                "611198",
+                "/alex-blesa/profil/spieler/611198"
+            ],
+            [
+                "131359",
+                "/francesc-fullana/profil/spieler/131359"
+            ],
+            [
+                "475833",
+                "/juanma-bravo/profil/spieler/475833"
+            ],
+            [
+                "413477",
+                "/alex-gil/profil/spieler/413477"
+            ],
+            [
+                "399704",
+                "/alberto-gil/profil/spieler/399704"
+            ],
+            [
+                "358425",
+                "/gonzalo-di-renzo/profil/spieler/358425"
+            ]
+        ],
+        "cod_suplentes_visitante": [
+            [
+                "631378",
+                "/alejandro-fernandez/profil/spieler/631378"
+            ],
+            [
+                "852913",
+                "/rodri-suarez/profil/spieler/852913"
+            ],
+            [
+                "158792",
+                "/eneko-satrustegui/profil/spieler/158792"
+            ],
+            [
+                "631098",
+                "/lanchi/profil/spieler/631098"
+            ],
+            [
+                "195762",
+                "/victor-garcia/profil/spieler/195762"
+            ],
+            [
+                "1157607",
+                "/adrian-ruiz/profil/spieler/1157607"
+            ],
+            [
+                "627218",
+                "/txus-alba/profil/spieler/627218"
+            ],
+            [
+                "217145",
+                "/bicho/profil/spieler/217145"
+            ],
+            [
+                "380277",
+                "/santi-samanes/profil/spieler/380277"
+            ],
+            [
+                "324475",
+                "/carlos-calderon/profil/spieler/324475"
+            ],
+            [
+                "626960",
+                "/juan-artola/profil/spieler/626960"
+            ],
+            [
+                "645318",
+                "/anton-escobar/profil/spieler/645318"
+            ]
+        ],
+        "cambios_local": [
+            {
+                "cod_entra": "358425",
+                "cod_fuera": "1005309",
+                "minuto": 66,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "399704",
+                "cod_fuera": "455254",
+                "minuto": 66,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "131359",
+                "cod_fuera": "522200",
+                "minuto": 74,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "611198",
+                "cod_fuera": "891931",
+                "minuto": 79,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "475833",
+                "cod_fuera": "565242",
+                "minuto": 79,
+                "desc": "Táctica"
+            }
+        ],
+        "cambios_visitante": [
+            {
+                "cod_entra": "645318",
+                "cod_fuera": "541646",
+                "minuto": 62,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "217145",
+                "cod_fuera": "379224",
+                "minuto": 62,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "324475",
+                "cod_fuera": "336103",
+                "minuto": 71,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "627218",
+                "cod_fuera": "127838",
+                "minuto": 82,
+                "desc": "Táctica"
+            }
+        ],
+        "amonestaciones_local": [
+            {
+                "cod_amonestado": "537370",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 59
+            },
+            {
+                "cod_amonestado": "358425",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 70
+            },
+            {
+                "cod_amonestado": "131359",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 88
+            },
+            {
+                "cod_amonestado": "399704",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 90
+            }
+        ],
+        "amonestaciones_visitante": [
+            {
+                "cod_amonestado": "336103",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 24
+            },
+            {
+                "cod_amonestado": "541646",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 54
+            },
+            {
+                "cod_amonestado": "627218",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 90
+            }
+        ],
+        "goles_local_desc": [
+            {
+                "cod_goleador": "1005309",
+                "resultado_gol": "1:0",
+                "desc": "13. gol de la temporada",
+                "minuto": 9,
+                "cod_asistente": "891931",
+                "desc_asist": "3° asistencia de la temporada"
+            }
+        ],
+        "goles_visitante_desc": [],
+        "fecha": "03/05/25  19:00",
+        "penaltis_fallados": []
+    },
+    {
+        "cod_partido": "4428130",
+        "goles_local": 3,
+        "goles_visitante": 0,
+        "cod_titulares_local": [
+            [
+                "581640",
+                "/coke-carrillo/profil/spieler/581640"
+            ],
+            [
+                "996418",
+                "/pablo-meixus/profil/spieler/996418"
+            ],
+            [
+                "715622",
+                "/gael-alonso/profil/spieler/715622"
+            ],
+            [
+                "638124",
+                "/manu-fernandez/profil/spieler/638124"
+            ],
+            [
+                "933350",
+                "/tincho-conde/profil/spieler/933350"
+            ],
+            [
+                "940616",
+                "/ivan-garriel/profil/spieler/940616"
+            ],
+            [
+                "1244137",
+                "/pablo-gavian/profil/spieler/1244137"
+            ],
+            [
+                "892932",
+                "/miguel-roman/profil/spieler/892932"
+            ],
+            [
+                "1262787",
+                "/hugo-burcio/profil/spieler/1262787"
+            ],
+            [
+                "961085",
+                "/oscar-marcos/profil/spieler/961085"
+            ],
+            [
+                "707279",
+                "/hugo-gonzalez/profil/spieler/707279"
+            ]
+        ],
+        "cod_titulares_visitante": [
+            [
+                "890817",
+                "/dimitrios-stamatakis/profil/spieler/890817"
+            ],
+            [
+                "618808",
+                "/diego-espejo/profil/spieler/618808"
+            ],
+            [
+                "634118",
+                "/ibaider-garriz/profil/spieler/634118"
+            ],
+            [
+                "718195",
+                "/ismael-sierra/profil/spieler/718195"
+            ],
+            [
+                "611495",
+                "/toni-herrero/profil/spieler/611495"
+            ],
+            [
+                "634122",
+                "/diego-moreno/profil/spieler/634122"
+            ],
+            [
+                "941080",
+                "/jon-garcia/profil/spieler/941080"
+            ],
+            [
+                "634125",
+                "/xabi-huarte/profil/spieler/634125"
+            ],
+            [
+                "1038512",
+                "/asier-osambela/profil/spieler/1038512"
+            ],
+            [
+                "1230201",
+                "/sixtus-ogbuehi/profil/spieler/1230201"
+            ],
+            [
+                "1065441",
+                "/carlos-lumbreras/profil/spieler/1065441"
+            ]
+        ],
+        "cod_suplentes_local": [
+            [
+                "646741",
+                "/cesar-fernandez/profil/spieler/646741"
+            ],
+            [
+                "1178600",
+                "/jaime-vazquez/profil/spieler/1178600"
+            ],
+            [
+                "984599",
+                "/vicente/profil/spieler/984599"
+            ],
+            [
+                "586736",
+                "/joel-lopez/profil/spieler/586736"
+            ],
+            [
+                "935456",
+                "/sergio-diez/profil/spieler/935456"
+            ],
+            [
+                "1293040",
+                "/andres-antanon/profil/spieler/1293040"
+            ],
+            [
+                "1074670",
+                "/david-de-la-iglesia/profil/spieler/1074670"
+            ],
+            [
+                "1146045",
+                "/johan-guedes/profil/spieler/1146045"
+            ],
+            [
+                "1064465",
+                "/angel-arcos/profil/spieler/1064465"
+            ],
+            [
+                "1305668",
+                "/iago-barreiros/profil/spieler/1305668"
+            ],
+            [
+                "568155",
+                "/jordi-escobar/profil/spieler/568155"
+            ]
+        ],
+        "cod_suplentes_visitante": [
+            [
+                "929864",
+                "/rafa-fernandez/profil/spieler/929864"
+            ],
+            [
+                "710678",
+                "/christian-mutilva/profil/spieler/710678"
+            ],
+            [
+                "1065454",
+                "/unai-santos/profil/spieler/1065454"
+            ],
+            [
+                "1065268",
+                "/alex-jimenez/profil/spieler/1065268"
+            ],
+            [
+                "710675",
+                "/nowend-lorenzo/profil/spieler/710675"
+            ],
+            [
+                "908254",
+                "/dani-sancho/profil/spieler/908254"
+            ],
+            [
+                "1164330",
+                "/martin-pedroarena/profil/spieler/1164330"
+            ],
+            [
+                "928726",
+                "/roberto-arroyo/profil/spieler/928726"
+            ],
+            [
+                "926854",
+                "/noel-lopez/profil/spieler/926854"
+            ]
+        ],
+        "cambios_local": [
+            {
+                "cod_entra": "1074670",
+                "cod_fuera": "940616",
+                "minuto": 46,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "1064465",
+                "cod_fuera": "1262787",
+                "minuto": 46,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "1146045",
+                "cod_fuera": "707279",
+                "minuto": 80,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "935456",
+                "cod_fuera": "1244137",
+                "minuto": 80,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "1305668",
+                "cod_fuera": "961085",
+                "minuto": 90,
+                "desc": "Táctica"
+            }
+        ],
+        "cambios_visitante": [
+            {
+                "cod_entra": "928726",
+                "cod_fuera": "1038512",
+                "minuto": 72,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "1164330",
+                "cod_fuera": "1065441",
+                "minuto": 72,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "908254",
+                "cod_fuera": "941080",
+                "minuto": 78,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "926854",
+                "cod_fuera": "1230201",
+                "minuto": 78,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "1065454",
+                "cod_fuera": "634125",
+                "minuto": 82,
+                "desc": "Táctica"
+            }
+        ],
+        "amonestaciones_local": [
+            {
+                "cod_amonestado": "1262787",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 32
+            },
+            {
+                "cod_amonestado": "638124",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 64
+            },
+            {
+                "cod_amonestado": "1064465",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 86
+            }
+        ],
+        "amonestaciones_visitante": [
+            {
+                "cod_amonestado": "634125",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 34
+            },
+            {
+                "cod_amonestado": "1038512",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 37
+            },
+            {
+                "cod_amonestado": "634122",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 86
+            }
+        ],
+        "goles_local_desc": [
+            {
+                "cod_goleador": "892932",
+                "resultado_gol": "1:0",
+                "desc": "3. gol de la temporada",
+                "minuto": 67,
+                "cod_asistente": "707279",
+                "desc_asist": "3° asistencia de la temporada"
+            },
+            {
+                "cod_goleador": "892932",
+                "resultado_gol": "2:0",
+                "desc": "4. gol de la temporada",
+                "minuto": 82,
+                "cod_asistente": null,
+                "desc_asist": null
+            },
+            {
+                "cod_goleador": "1146045",
+                "resultado_gol": "3:0",
+                "desc": "3. gol de la temporada",
+                "minuto": 90,
+                "cod_asistente": "1064465",
+                "desc_asist": "1° asistencia de la temporada"
+            }
+        ],
+        "goles_visitante_desc": [],
+        "fecha": "04/05/25  19:30",
+        "penaltis_fallados": []
+    },
+    {
+        "cod_partido": "4428136",
+        "goles_local": 2,
+        "goles_visitante": 0,
+        "cod_titulares_local": [
+            [
+                "197132",
+                "/jon-tena/profil/spieler/197132"
+            ],
+            [
+                "888271",
+                "/markel-artetxe/profil/spieler/888271"
+            ],
+            [
+                "1120211",
+                "/aymane-jelbat/profil/spieler/1120211"
+            ],
+            [
+                "711370",
+                "/aritz-muguruza/profil/spieler/711370"
+            ],
+            [
+                "709182",
+                "/benat-de-jesus/profil/spieler/709182"
+            ],
+            [
+                "888290",
+                "/iker-pedernales/profil/spieler/888290"
+            ],
+            [
+                "455379",
+                "/julen-huidobro/profil/spieler/455379"
+            ],
+            [
+                "380602",
+                "/ekaitz-molina/profil/spieler/380602"
+            ],
+            [
+                "1013488",
+                "/urki-txoperena/profil/spieler/1013488"
+            ],
+            [
+                "893570",
+                "/adrian-revilla/profil/spieler/893570"
+            ],
+            [
+                "338288",
+                "/alex-valino/profil/spieler/338288"
+            ]
+        ],
+        "cod_titulares_visitante": [
+            [
+                "554859",
+                "/unai-marino/profil/spieler/554859"
+            ],
+            [
+                "330655",
+                "/jon-ander-amelibia/profil/spieler/330655"
+            ],
+            [
+                "536849",
+                "/alvaro-yuste/profil/spieler/536849"
+            ],
+            [
+                "709338",
+                "/sergio-camacho/profil/spieler/709338"
+            ],
+            [
+                "524003",
+                "/mikel-kortazar/profil/spieler/524003"
+            ],
+            [
+                "636303",
+                "/enol-coto/profil/spieler/636303"
+            ],
+            [
+                "1088323",
+                "/javi-sola/profil/spieler/1088323"
+            ],
+            [
+                "666954",
+                "/nassourou-ben-hamed/profil/spieler/666954"
+            ],
+            [
+                "442767",
+                "/inigo-munoz/profil/spieler/442767"
+            ],
+            [
+                "902146",
+                "/aimar-vicandi/profil/spieler/902146"
+            ],
+            [
+                "938695",
+                "/alvaro-marin/profil/spieler/938695"
+            ]
+        ],
+        "cod_suplentes_local": [
+            [
+                "625016",
+                "/unai-perez/profil/spieler/625016"
+            ],
+            [
+                "625046",
+                "/unai-naveira/profil/spieler/625046"
+            ],
+            [
+                "956517",
+                "/jesus-martinez/profil/spieler/956517"
+            ],
+            [
+                "338287",
+                "/antonio-salado/profil/spieler/338287"
+            ],
+            [
+                "483728",
+                "/bittor-isuskiza/profil/spieler/483728"
+            ],
+            [
+                "625048",
+                "/kepa-uriarte/profil/spieler/625048"
+            ],
+            [
+                "634543",
+                "/unai-bujan/profil/spieler/634543"
+            ],
+            [
+                "634110",
+                "/pablo-santiago/profil/spieler/634110"
+            ]
+        ],
+        "cod_suplentes_visitante": [
+            [
+                "1304988",
+                "/peru-candaudap/profil/spieler/1304988"
+            ],
+            [
+                "1397551",
+                "/jon-azkuna/profil/spieler/1397551"
+            ],
+            [
+                "197578",
+                "/javi-montoya/profil/spieler/197578"
+            ],
+            [
+                "286849",
+                "/jordi-calavera/profil/spieler/286849"
+            ],
+            [
+                "855875",
+                "/jose-masllorens/profil/spieler/855875"
+            ],
+            [
+                "453985",
+                "/aly-coulibaly/profil/spieler/453985"
+            ],
+            [
+                "998196",
+                "/mauro-bravo/profil/spieler/998196"
+            ],
+            [
+                "531376",
+                "/berto/profil/spieler/531376"
+            ],
+            [
+                "142027",
+                "/pablo-hervias/profil/spieler/142027"
+            ],
+            [
+                "831491",
+                "/dani-selma/profil/spieler/831491"
+            ]
+        ],
+        "cambios_local": [
+            {
+                "cod_entra": "956517",
+                "cod_fuera": "1013488",
+                "minuto": 68,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "634110",
+                "cod_fuera": "893570",
+                "minuto": 68,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "625046",
+                "cod_fuera": "380602",
+                "minuto": 90,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "634543",
+                "cod_fuera": "709182",
+                "minuto": 90,
+                "desc": "Táctica"
+            }
+        ],
+        "cambios_visitante": [
+            {
+                "cod_entra": "855875",
+                "cod_fuera": "938695",
+                "minuto": 31,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "831491",
+                "cod_fuera": "1088323",
+                "minuto": 31,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "286849",
+                "cod_fuera": "524003",
+                "minuto": 73,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "142027",
+                "cod_fuera": "636303",
+                "minuto": 73,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "453985",
+                "cod_fuera": "666954",
+                "minuto": 73,
+                "desc": "Táctica"
+            }
+        ],
+        "amonestaciones_local": [
+            {
+                "cod_amonestado": "711370",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 39
+            },
+            {
+                "cod_amonestado": "1013488",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 67
+            }
+        ],
+        "amonestaciones_visitante": [
+            {
+                "cod_amonestado": "524003",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 22
+            }
+        ],
+        "goles_local_desc": [
+            {
+                "cod_goleador": "380602",
+                "resultado_gol": "1:0",
+                "desc": "3. gol de la temporada",
+                "minuto": 28,
+                "cod_asistente": null,
+                "desc_asist": null
+            },
+            {
+                "cod_goleador": "338288",
+                "resultado_gol": "2:0",
+                "desc": "4. gol de la temporada",
+                "minuto": 59,
+                "cod_asistente": null,
+                "desc_asist": null
+            }
+        ],
+        "goles_visitante_desc": [],
+        "fecha": "03/05/25  20:00",
+        "penaltis_fallados": []
+    },
+    {
+        "cod_partido": "4428133",
+        "goles_local": 0,
+        "goles_visitante": 0,
+        "cod_titulares_local": [
+            [
+                "568183",
+                "/ivan-martinez/profil/spieler/568183"
+            ],
+            [
+                "67541",
+                "/ramiro-mayor/profil/spieler/67541"
+            ],
+            [
+                "634457",
+                "/imanol-baz/profil/spieler/634457"
+            ],
+            [
+                "705881",
+                "/mikel-serrano/profil/spieler/705881"
+            ],
+            [
+                "523166",
+                "/eudald-verges/profil/spieler/523166"
+            ],
+            [
+                "331356",
+                "/jordi-tur/profil/spieler/331356"
+            ],
+            [
+                "790879",
+                "/david-rabadan/profil/spieler/790879"
+            ],
+            [
+                "888182",
+                "/jorge-rastrojo/profil/spieler/888182"
+            ],
+            [
+                "455367",
+                "/ivan-moreno/profil/spieler/455367"
+            ],
+            [
+                "585536",
+                "/jonny-arriba/profil/spieler/585536"
+            ],
+            [
+                "226812",
+                "/gorka-santamaria/profil/spieler/226812"
+            ]
+        ],
+        "cod_titulares_visitante": [
+            [
+                "71570",
+                "/iago-herrerin/profil/spieler/71570"
+            ],
+            [
+                "834737",
+                "/adri-miranda/profil/spieler/834737"
+            ],
+            [
+                "381198",
+                "/gaizka-martinez/profil/spieler/381198"
+            ],
+            [
+                "938726",
+                "/miguel-barandalla/profil/spieler/938726"
+            ],
+            [
+                "212852",
+                "/markel-etxeberria/profil/spieler/212852"
+            ],
+            [
+                "338323",
+                "/gorka-garai/profil/spieler/338323"
+            ],
+            [
+                "263857",
+                "/adrian-gomez/profil/spieler/263857"
+            ],
+            [
+                "636147",
+                "/marcos-bustillo/profil/spieler/636147"
+            ],
+            [
+                "505512",
+                "/asier-cordoba/profil/spieler/505512"
+            ],
+            [
+                "297471",
+                "/leandro-martinez/profil/spieler/297471"
+            ],
+            [
+                "1124142",
+                "/diego-aznar/profil/spieler/1124142"
+            ]
+        ],
+        "cod_suplentes_local": [
+            [
+                "1006478",
+                "/marco-suarez/profil/spieler/1006478"
+            ],
+            [
+                "628494",
+                "/carlos-garcia/profil/spieler/628494"
+            ],
+            [
+                "736459",
+                "/fran-ortuno/profil/spieler/736459"
+            ],
+            [
+                "1019408",
+                "/inaki-gonzalez/profil/spieler/1019408"
+            ],
+            [
+                "399779",
+                "/chuca/profil/spieler/399779"
+            ],
+            [
+                "366931",
+                "/pau-martinez/profil/spieler/366931"
+            ],
+            [
+                "398165",
+                "/alvaro-gomez/profil/spieler/398165"
+            ],
+            [
+                "776741",
+                "/pablo-garcia/profil/spieler/776741"
+            ],
+            [
+                "451437",
+                "/dani-garcia/profil/spieler/451437"
+            ]
+        ],
+        "cod_suplentes_visitante": [
+            [
+                "906442",
+                "/javi-garrido/profil/spieler/906442"
+            ],
+            [
+                "503850",
+                "/jon-rojo/profil/spieler/503850"
+            ],
+            [
+                "718177",
+                "/joseda-alvarez/profil/spieler/718177"
+            ],
+            [
+                "341724",
+                "/relu/profil/spieler/341724"
+            ],
+            [
+                "598608",
+                "/sergi-garcia/profil/spieler/598608"
+            ],
+            [
+                "171167",
+                "/jairo-samperio/profil/spieler/171167"
+            ],
+            [
+                "388885",
+                "/alfred-planas/profil/spieler/388885"
+            ]
+        ],
+        "cambios_local": [
+            {
+                "cod_entra": "451437",
+                "cod_fuera": "888182",
+                "minuto": 12,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "1019408",
+                "cod_fuera": "585536",
+                "minuto": 63,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "399779",
+                "cod_fuera": "331356",
+                "minuto": 76,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "776741",
+                "cod_fuera": "226812",
+                "minuto": 76,
+                "desc": "Táctica"
+            }
+        ],
+        "cambios_visitante": [
+            {
+                "cod_entra": "171167",
+                "cod_fuera": "1124142",
+                "minuto": 60,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "718177",
+                "cod_fuera": "212852",
+                "minuto": 60,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "341724",
+                "cod_fuera": "338323",
+                "minuto": 74,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "388885",
+                "cod_fuera": "297471",
+                "minuto": 88,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "598608",
+                "cod_fuera": "505512",
+                "minuto": 88,
+                "desc": "Táctica"
+            }
+        ],
+        "amonestaciones_local": [
+            {
+                "cod_amonestado": "790879",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 40
+            },
+            {
+                "cod_amonestado": "705881",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 74
+            },
+            {
+                "cod_amonestado": "523166",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 78
+            }
+        ],
+        "amonestaciones_visitante": [
+            {
+                "cod_amonestado": "381198",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 14
+            },
+            {
+                "cod_amonestado": "636147",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 30
+            },
+            {
+                "cod_amonestado": "263857",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 33
+            },
+            {
+                "cod_amonestado": "263857",
+                "amarilla": true,
+                "roja": true,
+                "minuto": 84
+            }
+        ],
+        "goles_local_desc": [],
+        "goles_visitante_desc": [],
+        "fecha": "04/05/25  12:00",
+        "penaltis_fallados": []
+    },
+    {
+        "cod_partido": "4428132",
+        "goles_local": 1,
+        "goles_visitante": 0,
+        "cod_titulares_local": [
+            [
+                "262703",
+                "/nico-ratti/profil/spieler/262703"
+            ],
+            [
+                "373683",
+                "/diego-alende/profil/spieler/373683"
+            ],
+            [
+                "989115",
+                "/marc-bombardo/profil/spieler/989115"
+            ],
+            [
+                "331497",
+                "/marti-vila/profil/spieler/331497"
+            ],
+            [
+                "805479",
+                "/jesus-clemente/profil/spieler/805479"
+            ],
+            [
+                "282417",
+                "/sergio-molina/profil/spieler/282417"
+            ],
+            [
+                "628496",
+                "/dani-villahermosa/profil/spieler/628496"
+            ],
+            [
+                "622952",
+                "/alvaro-martin/profil/spieler/622952"
+            ],
+            [
+                "184885",
+                "/christos-almpanis/profil/spieler/184885"
+            ],
+            [
+                "561745",
+                "/lautaro-de-leon/profil/spieler/561745"
+            ],
+            [
+                "399357",
+                "/manu-nieto/profil/spieler/399357"
+            ]
+        ],
+        "cod_titulares_visitante": [
+            [
+                "566666",
+                "/dani-rebollo/profil/spieler/566666"
+            ],
+            [
+                "383114",
+                "/gorka-perez/profil/spieler/383114"
+            ],
+            [
+                "73215",
+                "/joan-oriol/profil/spieler/73215"
+            ],
+            [
+                "527964",
+                "/migue-leal/profil/spieler/527964"
+            ],
+            [
+                "450258",
+                "/ander-gorostidi/profil/spieler/450258"
+            ],
+            [
+                "632367",
+                "/oscar-sanz/profil/spieler/632367"
+            ],
+            [
+                "939266",
+                "/marc-montalvo/profil/spieler/939266"
+            ],
+            [
+                "304250",
+                "/david-concha/profil/spieler/304250"
+            ],
+            [
+                "341271",
+                "/victor-narro/profil/spieler/341271"
+            ],
+            [
+                "368582",
+                "/pablo-fernandez/profil/spieler/368582"
+            ],
+            [
+                "610336",
+                "/antonin/profil/spieler/610336"
+            ]
+        ],
+        "cod_suplentes_local": [
+            [
+                "8176",
+                "/oier-olazabal/profil/spieler/8176"
+            ],
+            [
+                "351539",
+                "/cesar-morgado/profil/spieler/351539"
+            ],
+            [
+                "351216",
+                "/manel-royo/profil/spieler/351216"
+            ],
+            [
+                "943868",
+                "/ivan-rodriguez/profil/spieler/943868"
+            ],
+            [
+                "961936",
+                "/pau-casadesus/profil/spieler/961936"
+            ],
+            [
+                "282721",
+                "/uri-busquets/profil/spieler/282721"
+            ],
+            [
+                "67542",
+                "/erik-moran/profil/spieler/67542"
+            ],
+            [
+                "156887",
+                "/alvaro-pena/profil/spieler/156887"
+            ],
+            [
+                "398183",
+                "/luismi-redondo/profil/spieler/398183"
+            ],
+            [
+                "692210",
+                "/josep-cerda/profil/spieler/692210"
+            ],
+            [
+                "636701",
+                "/juanda-fuentes/profil/spieler/636701"
+            ],
+            [
+                "1329432",
+                "/bilal-achhiba/profil/spieler/1329432"
+            ]
+        ],
+        "cod_suplentes_visitante": [
+            [
+                "280254",
+                "/alberto-varo/profil/spieler/280254"
+            ],
+            [
+                "627276",
+                "/antonio-leal/profil/spieler/627276"
+            ],
+            [
+                "1397080",
+                "/enric-pujol/profil/spieler/1397080"
+            ],
+            [
+                "164055",
+                "/david-junca/profil/spieler/164055"
+            ],
+            [
+                "724519",
+                "/pol-domingo/profil/spieler/724519"
+            ],
+            [
+                "63056",
+                "/roberto-torres/profil/spieler/63056"
+            ],
+            [
+                "176298",
+                "/marc-fernandez/profil/spieler/176298"
+            ],
+            [
+                "568196",
+                "/jaume-jardi/profil/spieler/568196"
+            ],
+            [
+                "669516",
+                "/alex-jimenez/profil/spieler/669516"
+            ]
+        ],
+        "cambios_local": [
+            {
+                "cod_entra": "692210",
+                "cod_fuera": "184885",
+                "minuto": 56,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "943868",
+                "cod_fuera": "331497",
+                "minuto": 56,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "156887",
+                "cod_fuera": "628496",
+                "minuto": 77,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "351539",
+                "cod_fuera": "373683",
+                "minuto": 77,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "398183",
+                "cod_fuera": "622952",
+                "minuto": 86,
+                "desc": "Táctica"
+            }
+        ],
+        "cambios_visitante": [
+            {
+                "cod_entra": "724519",
+                "cod_fuera": "527964",
+                "minuto": 61,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "568196",
+                "cod_fuera": "304250",
+                "minuto": 61,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "63056",
+                "cod_fuera": "341271",
+                "minuto": 62,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "176298",
+                "cod_fuera": "368582",
+                "minuto": 72,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "669516",
+                "cod_fuera": "383114",
+                "minuto": 80,
+                "desc": "Táctica"
+            }
+        ],
+        "amonestaciones_local": [
+            {
+                "cod_amonestado": "628496",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 60
+            },
+            {
+                "cod_amonestado": "622952",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 82
+            }
+        ],
+        "amonestaciones_visitante": [
+            {
+                "cod_amonestado": "632367",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 26
+            },
+            {
+                "cod_amonestado": "527964",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 58
+            },
+            {
+                "cod_amonestado": "724519",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 90
+            }
+        ],
+        "goles_local_desc": [
+            {
+                "cod_goleador": "399357",
+                "resultado_gol": "1:0",
+                "desc": "12. gol de la temporada",
+                "minuto": 73,
+                "cod_asistente": null,
+                "desc_asist": null
+            }
+        ],
+        "goles_visitante_desc": [],
+        "fecha": "04/05/25  15:30",
+        "penaltis_fallados": []
+    },
+    {
+        "cod_partido": "4428131",
+        "goles_local": 1,
+        "goles_visitante": 0,
+        "cod_titulares_local": [
+            [
+                "712181",
+                "/james-wright/profil/spieler/712181"
+            ],
+            [
+                "625882",
+                "/javi-dominguez/profil/spieler/625882"
+            ],
+            [
+                "403465",
+                "/inaki-olaortua/profil/spieler/403465"
+            ],
+            [
+                "396125",
+                "/jose-carlos-marquez/profil/spieler/396125"
+            ],
+            [
+                "455348",
+                "/victor-san-bartolome/profil/spieler/455348"
+            ],
+            [
+                "386667",
+                "/iker-bilbao/profil/spieler/386667"
+            ],
+            [
+                "681717",
+                "/ander-vidorreta/profil/spieler/681717"
+            ],
+            [
+                "223215",
+                "/quique-rivero/profil/spieler/223215"
+            ],
+            [
+                "629383",
+                "/dani-garrido/profil/spieler/629383"
+            ],
+            [
+                "531825",
+                "/sergio-benito/profil/spieler/531825"
+            ],
+            [
+                "445584",
+                "/koldo-obieta/profil/spieler/445584"
+            ]
+        ],
+        "cod_titulares_visitante": [
+            [
+                "634116",
+                "/yoel-ramirez/profil/spieler/634116"
+            ],
+            [
+                "147538",
+                "/marc-trilles/profil/spieler/147538"
+            ],
+            [
+                "627283",
+                "/vadik-murria/profil/spieler/627283"
+            ],
+            [
+                "561616",
+                "/chechu-martinez/profil/spieler/561616"
+            ],
+            [
+                "379632",
+                "/sergio-camus/profil/spieler/379632"
+            ],
+            [
+                "708531",
+                "/angel-lopez/profil/spieler/708531"
+            ],
+            [
+                "937710",
+                "/edward-cedeno/profil/spieler/937710"
+            ],
+            [
+                "718203",
+                "/manu-rico/profil/spieler/718203"
+            ],
+            [
+                "1128259",
+                "/luis-rivas/profil/spieler/1128259"
+            ],
+            [
+                "606498",
+                "/aguero/profil/spieler/606498"
+            ],
+            [
+                "597083",
+                "/adrian-fuentes/profil/spieler/597083"
+            ]
+        ],
+        "cod_suplentes_local": [
+            [
+                "1405408",
+                "/ander-fernandez/profil/spieler/1405408"
+            ],
+            [
+                "257813",
+                "/jon-irazusta/profil/spieler/257813"
+            ],
+            [
+                "707271",
+                "/charlie-perez/profil/spieler/707271"
+            ],
+            [
+                "1388781",
+                "/aimar-labaka/profil/spieler/1388781"
+            ],
+            [
+                "639387",
+                "/victor-eimil/profil/spieler/639387"
+            ],
+            [
+                "537759",
+                "/sergio-santos/profil/spieler/537759"
+            ],
+            [
+                "585854",
+                "/aitor-aranzabe/profil/spieler/585854"
+            ],
+            [
+                "510372",
+                "/berto-cayarga/profil/spieler/510372"
+            ],
+            [
+                "1113272",
+                "/brice-ghussein/profil/spieler/1113272"
+            ]
+        ],
+        "cod_suplentes_visitante": [
+            [
+                "531274",
+                "/diego-fuoli/profil/spieler/531274"
+            ],
+            [
+                "568152",
+                "/juan-rodriguez/profil/spieler/568152"
+            ],
+            [
+                "718038",
+                "/lluis-llacer/profil/spieler/718038"
+            ],
+            [
+                "1229942",
+                "/jorge-mencia/profil/spieler/1229942"
+            ],
+            [
+                "280275",
+                "/borja-romero/profil/spieler/280275"
+            ],
+            [
+                "525891",
+                "/jannick-buyla/profil/spieler/525891"
+            ],
+            [
+                "396145",
+                "/pepe-mena/profil/spieler/396145"
+            ],
+            [
+                "632481",
+                "/marc-alvarez/profil/spieler/632481"
+            ],
+            [
+                "590878",
+                "/javi-areso/profil/spieler/590878"
+            ],
+            [
+                "512075",
+                "/mikel-pradera/profil/spieler/512075"
+            ]
+        ],
+        "cambios_local": [
+            {
+                "cod_entra": "585854",
+                "cod_fuera": "455348",
+                "minuto": 61,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "510372",
+                "cod_fuera": "629383",
+                "minuto": 69,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "1113272",
+                "cod_fuera": "531825",
+                "minuto": 90,
+                "desc": "Táctica"
+            }
+        ],
+        "cambios_visitante": [
+            {
+                "cod_entra": "512075",
+                "cod_fuera": "1128259",
+                "minuto": 70,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "718038",
+                "cod_fuera": "561616",
+                "minuto": 70,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "590878",
+                "cod_fuera": "718203",
+                "minuto": 78,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "396145",
+                "cod_fuera": "606498",
+                "minuto": 78,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "280275",
+                "cod_fuera": "708531",
+                "minuto": 87,
+                "desc": "Táctica"
+            }
+        ],
+        "amonestaciones_local": [
+            {
+                "cod_amonestado": "257813",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 90
+            }
+        ],
+        "amonestaciones_visitante": [
+            {
+                "cod_amonestado": "718203",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 29
+            }
+        ],
+        "goles_local_desc": [
+            {
+                "cod_goleador": "531825",
+                "resultado_gol": "1:0",
+                "desc": "8. gol de la temporada",
+                "minuto": 82,
+                "cod_asistente": "510372",
+                "desc_asist": "3° asistencia de la temporada"
+            }
+        ],
+        "goles_visitante_desc": [],
+        "fecha": "03/05/25  18:00",
+        "penaltis_fallados": []
+    },
+    {
+        "cod_partido": "4428802",
+        "goles_local": 0,
+        "goles_visitante": 0,
+        "cod_titulares_local": [
+            [
+                "249210",
+                "/ruben-galvez/profil/spieler/249210"
+            ],
+            [
+                "142419",
+                "/raul-navas/profil/spieler/142419"
+            ],
+            [
+                "635307",
+                "/ruben-serrano/profil/spieler/635307"
+            ],
+            [
+                "1086008",
+                "/dani-romero/profil/spieler/1086008"
+            ],
+            [
+                "708900",
+                "/dani-perejon/profil/spieler/708900"
+            ],
+            [
+                "1061284",
+                "/alberto-vela/profil/spieler/1061284"
+            ],
+            [
+                "372050",
+                "/david-del-pozo/profil/spieler/372050"
+            ],
+            [
+                "512103",
+                "/luis-alcalde/profil/spieler/512103"
+            ],
+            [
+                "1136847",
+                "/paolo-romero/profil/spieler/1136847"
+            ],
+            [
+                "231980",
+                "/zelu/profil/spieler/231980"
+            ],
+            [
+                "238471",
+                "/caye-quintana/profil/spieler/238471"
+            ]
+        ],
+        "cod_titulares_visitante": [
+            [
+                "531491",
+                "/ramon-juan/profil/spieler/531491"
+            ],
+            [
+                "602156",
+                "/guillem-molina/profil/spieler/602156"
+            ],
+            [
+                "356196",
+                "/iago-indias/profil/spieler/356196"
+            ],
+            [
+                "242287",
+                "/javi-jimenez/profil/spieler/242287"
+            ],
+            [
+                "104234",
+                "/unai-medina/profil/spieler/104234"
+            ],
+            [
+                "223073",
+                "/eugeni/profil/spieler/223073"
+            ],
+            [
+                "242299",
+                "/roberto-olabe/profil/spieler/242299"
+            ],
+            [
+                "541920",
+                "/jesus-alvarez/profil/spieler/541920"
+            ],
+            [
+                "153427",
+                "/bebe/profil/spieler/153427"
+            ],
+            [
+                "210143",
+                "/alex-gallar/profil/spieler/210143"
+            ],
+            [
+                "587562",
+                "/antonio-zarzana/profil/spieler/587562"
+            ]
+        ],
+        "cod_suplentes_local": [
+            [
+                "615947",
+                "/guillermo-centurion/profil/spieler/615947"
+            ],
+            [
+                "720361",
+                "/ale-limon/profil/spieler/720361"
+            ],
+            [
+                "1177564",
+                "/carlos-becken/profil/spieler/1177564"
+            ],
+            [
+                "1268764",
+                "/davinchi/profil/spieler/1268764"
+            ],
+            [
+                "979310",
+                "/ivan-romero/profil/spieler/979310"
+            ],
+            [
+                "634290",
+                "/abraham-bahachille/profil/spieler/634290"
+            ],
+            [
+                "672953",
+                "/cesar-moreno/profil/spieler/672953"
+            ],
+            [
+                "288453",
+                "/antonio-dominguez/profil/spieler/288453"
+            ],
+            [
+                "286266",
+                "/david-soto/profil/spieler/286266"
+            ],
+            [
+                "1041547",
+                "/juan-cruz-cerrudo/profil/spieler/1041547"
+            ],
+            [
+                "795440",
+                "/sebastien-pineau/profil/spieler/795440"
+            ],
+            [
+                "633095",
+                "/sergi-armero/profil/spieler/633095"
+            ]
+        ],
+        "cod_suplentes_visitante": [
+            [
+                "422459",
+                "/javier-belman/profil/spieler/422459"
+            ],
+            [
+                "728379",
+                "/andriy-chekotun/profil/spieler/728379"
+            ],
+            [
+                "787154",
+                "/eric-monjonell/profil/spieler/787154"
+            ],
+            [
+                "147232",
+                "/alberto-escassi/profil/spieler/147232"
+            ],
+            [
+                "974272",
+                "/jose-albert/profil/spieler/974272"
+            ],
+            [
+                "866888",
+                "/jose-matos/profil/spieler/866888"
+            ],
+            [
+                "727578",
+                "/david-astals/profil/spieler/727578"
+            ],
+            [
+                "617073",
+                "/marc-domenech/profil/spieler/617073"
+            ],
+            [
+                "705815",
+                "/gori-gracia/profil/spieler/705815"
+            ],
+            [
+                "705401",
+                "/javi-lopez/profil/spieler/705401"
+            ],
+            [
+                "79352",
+                "/quique-gonzalez/profil/spieler/79352"
+            ],
+            [
+                "645924",
+                "/davo/profil/spieler/645924"
+            ]
+        ],
+        "cambios_local": [
+            {
+                "cod_entra": "795440",
+                "cod_fuera": "238471",
+                "minuto": 56,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "288453",
+                "cod_fuera": "231980",
+                "minuto": 67,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "286266",
+                "cod_fuera": "512103",
+                "minuto": 77,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "1268764",
+                "cod_fuera": "1086008",
+                "minuto": 77,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "979310",
+                "cod_fuera": "1061284",
+                "minuto": 77,
+                "desc": "Táctica"
+            }
+        ],
+        "cambios_visitante": [
+            {
+                "cod_entra": "705401",
+                "cod_fuera": "153427",
+                "minuto": 61,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "974272",
+                "cod_fuera": "587562",
+                "minuto": 61,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "645924",
+                "cod_fuera": "223073",
+                "minuto": 70,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "617073",
+                "cod_fuera": "210143",
+                "minuto": 70,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "705815",
+                "cod_fuera": "541920",
+                "minuto": 81,
+                "desc": "Táctica"
+            }
+        ],
+        "amonestaciones_local": [
+            {
+                "cod_amonestado": "231980",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 47
+            }
+        ],
+        "amonestaciones_visitante": [
+            {
+                "cod_amonestado": "242299",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 67
+            }
+        ],
+        "goles_local_desc": [],
+        "goles_visitante_desc": [],
+        "fecha": "04/05/25  12:00",
+        "penaltis_fallados": []
+    },
+    {
+        "cod_partido": "4428797",
+        "goles_local": 2,
+        "goles_visitante": 0,
+        "cod_titulares_local": [
+            [
+                "561702",
+                "/gaizka-ayesa/profil/spieler/561702"
+            ],
+            [
+                "715682",
+                "/javier-rentero/profil/spieler/715682"
+            ],
+            [
+                "636302",
+                "/jordi-pola/profil/spieler/636302"
+            ],
+            [
+                "1228715",
+                "/samu-rodriguez/profil/spieler/1228715"
+            ],
+            [
+                "708499",
+                "/juan-sebastian/profil/spieler/708499"
+            ],
+            [
+                "284855",
+                "/yael-ballesteros/profil/spieler/284855"
+            ],
+            [
+                "636693",
+                "/david-navarro/profil/spieler/636693"
+            ],
+            [
+                "853299",
+                "/rafa-llorente/profil/spieler/853299"
+            ],
+            [
+                "386150",
+                "/rayco-rodriguez/profil/spieler/386150"
+            ],
+            [
+                "708369",
+                "/esteban-aparicio/profil/spieler/708369"
+            ],
+            [
+                "1052859",
+                "/vladyslav-kopotun/profil/spieler/1052859"
+            ]
+        ],
+        "cod_titulares_visitante": [
+            [
+                "424371",
+                "/ivan-martinez/profil/spieler/424371"
+            ],
+            [
+                "662034",
+                "/gabriel-clemente/profil/spieler/662034"
+            ],
+            [
+                "881217",
+                "/antonio-sanchez/profil/spieler/881217"
+            ],
+            [
+                "1064126",
+                "/andres-lopez/profil/spieler/1064126"
+            ],
+            [
+                "610531",
+                "/mounir-errahaly/profil/spieler/610531"
+            ],
+            [
+                "472259",
+                "/victor-olmedo/profil/spieler/472259"
+            ],
+            [
+                "1006318",
+                "/juanje/profil/spieler/1006318"
+            ],
+            [
+                "622526",
+                "/daniel-satoca/profil/spieler/622526"
+            ],
+            [
+                "906397",
+                "/pau-perez/profil/spieler/906397"
+            ],
+            [
+                "481009",
+                "/teddy-sutherland/profil/spieler/481009"
+            ],
+            [
+                "998686",
+                "/jose-naranjo/profil/spieler/998686"
+            ]
+        ],
+        "cod_suplentes_local": [
+            [
+                "284880",
+                "/josele-martinez/profil/spieler/284880"
+            ],
+            [
+                "1067209",
+                "/angel-hernandez/profil/spieler/1067209"
+            ],
+            [
+                "537458",
+                "/joan-rojas/profil/spieler/537458"
+            ],
+            [
+                "927600",
+                "/stitch/profil/spieler/927600"
+            ],
+            [
+                "454626",
+                "/christian-manrique/profil/spieler/454626"
+            ],
+            [
+                "563135",
+                "/marc-lachevre/profil/spieler/563135"
+            ],
+            [
+                "333092",
+                "/josiel-nunez/profil/spieler/333092"
+            ],
+            [
+                "582717",
+                "/david-ramos/profil/spieler/582717"
+            ],
+            [
+                "628926",
+                "/miguel-capitas/profil/spieler/628926"
+            ],
+            [
+                "654414",
+                "/yanis-lhery/profil/spieler/654414"
+            ],
+            [
+                "1381054",
+                "/nicola-di-domenico/profil/spieler/1381054"
+            ]
+        ],
+        "cod_suplentes_visitante": [
+            [
+                "1161347",
+                "/borja-marti/profil/spieler/1161347"
+            ],
+            [
+                "446211",
+                "/morros/profil/spieler/446211"
+            ],
+            [
+                "536827",
+                "/alex-masogo/profil/spieler/536827"
+            ],
+            [
+                "635333",
+                "/serpeta/profil/spieler/635333"
+            ],
+            [
+                "534372",
+                "/javi-martin/profil/spieler/534372"
+            ],
+            [
+                "993344",
+                "/diego-de-pedro/profil/spieler/993344"
+            ],
+            [
+                "263862",
+                "/moha-traore/profil/spieler/263862"
+            ],
+            [
+                "718588",
+                "/raul-martinez/profil/spieler/718588"
+            ],
+            [
+                "842786",
+                "/javi-solsona/profil/spieler/842786"
+            ]
+        ],
+        "cambios_local": [
+            {
+                "cod_entra": "628926",
+                "cod_fuera": "853299",
+                "minuto": 62,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "582717",
+                "cod_fuera": "708369",
+                "minuto": 62,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "563135",
+                "cod_fuera": "636693",
+                "minuto": 85,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "537458",
+                "cod_fuera": "386150",
+                "minuto": 85,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "654414",
+                "cod_fuera": "1052859",
+                "minuto": 90,
+                "desc": "Táctica"
+            }
+        ],
+        "cambios_visitante": [
+            {
+                "cod_entra": "635333",
+                "cod_fuera": "998686",
+                "minuto": 46,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "842786",
+                "cod_fuera": "1064126",
+                "minuto": 46,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "534372",
+                "cod_fuera": "481009",
+                "minuto": 62,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "263862",
+                "cod_fuera": "906397",
+                "minuto": 76,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "718588",
+                "cod_fuera": "881217",
+                "minuto": 84,
+                "desc": "Táctica"
+            }
+        ],
+        "amonestaciones_local": [
+            {
+                "cod_amonestado": "636693",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 25
+            },
+            {
+                "cod_amonestado": "708369",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 49
+            },
+            {
+                "cod_amonestado": "1228715",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 86
+            },
+            {
+                "cod_amonestado": "537458",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 90
+            }
+        ],
+        "amonestaciones_visitante": [
+            {
+                "cod_amonestado": "1006318",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 29
+            },
+            {
+                "cod_amonestado": "472259",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 33
+            },
+            {
+                "cod_amonestado": "998686",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 44
+            },
+            {
+                "cod_amonestado": "993344",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 72
+            }
+        ],
+        "goles_local_desc": [
+            {
+                "cod_goleador": "284855",
+                "resultado_gol": "1:0",
+                "desc": "2. gol de la temporada",
+                "minuto": 30,
+                "cod_asistente": "386150",
+                "desc_asist": "7° asistencia de la temporada"
+            },
+            {
+                "cod_goleador": "1052859",
+                "resultado_gol": "2:0",
+                "desc": "Penalti",
+                "minuto": 82,
+                "cod_asistente": null,
+                "desc_asist": null
+            }
+        ],
+        "goles_visitante_desc": [],
+        "fecha": "03/05/25  18:00",
+        "penaltis_fallados": []
+    },
+    {
+        "cod_partido": "4428801",
+        "goles_local": 2,
+        "goles_visitante": 2,
+        "cod_titulares_local": [
+            [
+                "469737",
+                "/lucho-garcia/profil/spieler/469737"
+            ],
+            [
+                "152975",
+                "/aleix-coch/profil/spieler/152975"
+            ],
+            [
+                "499145",
+                "/arnau-gaixas/profil/spieler/499145"
+            ],
+            [
+                "270187",
+                "/tomas-sanchez/profil/spieler/270187"
+            ],
+            [
+                "882823",
+                "/dani-merchan/profil/spieler/882823"
+            ],
+            [
+                "247583",
+                "/paris-adot/profil/spieler/247583"
+            ],
+            [
+                "373353",
+                "/pablo-larrea/profil/spieler/373353"
+            ],
+            [
+                "961902",
+                "/neco-celorio/profil/spieler/961902"
+            ],
+            [
+                "556059",
+                "/marino-illescas/profil/spieler/556059"
+            ],
+            [
+                "875306",
+                "/alvaro-leiva/profil/spieler/875306"
+            ],
+            [
+                "627293",
+                "/manin-gonzaga/profil/spieler/627293"
+            ]
+        ],
+        "cod_titulares_visitante": [
+            [
+                "567504",
+                "/guilherme-fernandes/profil/spieler/567504"
+            ],
+            [
+                "917101",
+                "/rudy-kohon/profil/spieler/917101"
+            ],
+            [
+                "1034853",
+                "/nobel-mendy/profil/spieler/1034853"
+            ],
+            [
+                "709998",
+                "/lucas-alcazar/profil/spieler/709998"
+            ],
+            [
+                "933908",
+                "/angel-ortiz/profil/spieler/933908"
+            ],
+            [
+                "1054429",
+                "/carlos-guirao/profil/spieler/1054429"
+            ],
+            [
+                "1228383",
+                "/ismael-barea/profil/spieler/1228383"
+            ],
+            [
+                "1061283",
+                "/mateo-flores/profil/spieler/1061283"
+            ],
+            [
+                "961087",
+                "/pablo-garcia/profil/spieler/961087"
+            ],
+            [
+                "1222768",
+                "/joao-fersura/profil/spieler/1222768"
+            ],
+            [
+                "961948",
+                "/marcos-fernandez/profil/spieler/961948"
+            ]
+        ],
+        "cod_suplentes_local": [
+            [
+                "1227848",
+                "/mario-fernandez/profil/spieler/1227848"
+            ],
+            [
+                "838751",
+                "/iker-venteo/profil/spieler/838751"
+            ],
+            [
+                "1326213",
+                "/david-fernandez/profil/spieler/1326213"
+            ],
+            [
+                "631099",
+                "/lautaro-spatz/profil/spieler/631099"
+            ],
+            [
+                "1053207",
+                "/curro-dominguez/profil/spieler/1053207"
+            ],
+            [
+                "634598",
+                "/javi-alonso/profil/spieler/634598"
+            ],
+            [
+                "349873",
+                "/juan-hernandez/profil/spieler/349873"
+            ],
+            [
+                "1305562",
+                "/dani-recagno/profil/spieler/1305562"
+            ],
+            [
+                "446188",
+                "/rodrigo-escudero/profil/spieler/446188"
+            ]
+        ],
+        "cod_suplentes_visitante": [
+            [
+                "1061277",
+                "/german-garcia/profil/spieler/1061277"
+            ],
+            [
+                "961945",
+                "/felix-garreta/profil/spieler/961945"
+            ],
+            [
+                "362744",
+                "/elyaz-zidane/profil/spieler/362744"
+            ],
+            [
+                "971774",
+                "/xavi-pleguezuelo/profil/spieler/971774"
+            ],
+            [
+                "1018922",
+                "/oscar-masque/profil/spieler/1018922"
+            ],
+            [
+                "1122925",
+                "/sander-ballero/profil/spieler/1122925"
+            ],
+            [
+                "972730",
+                "/mawuli-mensah/profil/spieler/972730"
+            ],
+            [
+                "1064419",
+                "/usse-diao/profil/spieler/1064419"
+            ],
+            [
+                "895331",
+                "/dani-perez/profil/spieler/895331"
+            ],
+            [
+                "666971",
+                "/souleymane-faye/profil/spieler/666971"
+            ],
+            [
+                "1013774",
+                "/marciano-sanca/profil/spieler/1013774"
+            ],
+            [
+                "1120307",
+                "/destiny-ilahude/profil/spieler/1120307"
+            ]
+        ],
+        "cambios_local": [
+            {
+                "cod_entra": "349873",
+                "cod_fuera": "270187",
+                "minuto": 64,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "446188",
+                "cod_fuera": "627293",
+                "minuto": 74,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "631099",
+                "cod_fuera": "961902",
+                "minuto": 88,
+                "desc": "Táctica"
+            }
+        ],
+        "cambios_visitante": [
+            {
+                "cod_entra": "895331",
+                "cod_fuera": "1054429",
+                "minuto": 46,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "666971",
+                "cod_fuera": "1228383",
+                "minuto": 46,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "972730",
+                "cod_fuera": "1222768",
+                "minuto": 46,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "1120307",
+                "cod_fuera": "961948",
+                "minuto": 77,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "1018922",
+                "cod_fuera": "933908",
+                "minuto": 88,
+                "desc": "Táctica"
+            }
+        ],
+        "amonestaciones_local": [
+            {
+                "cod_amonestado": "875306",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 88
+            }
+        ],
+        "amonestaciones_visitante": [
+            {
+                "cod_amonestado": "961948",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 64
+            },
+            {
+                "cod_amonestado": "1034853",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 75
+            }
+        ],
+        "goles_local_desc": [
+            {
+                "cod_goleador": "152975",
+                "resultado_gol": "1:0",
+                "desc": "2. gol de la temporada",
+                "minuto": 10,
+                "cod_asistente": "556059",
+                "desc_asist": "5° asistencia de la temporada"
+            },
+            {
+                "cod_goleador": "446188",
+                "resultado_gol": "2:2",
+                "desc": "10. gol de la temporada",
+                "minuto": 75,
+                "cod_asistente": "961902",
+                "desc_asist": "4° asistencia de la temporada"
+            }
+        ],
+        "goles_visitante_desc": [
+            {
+                "cod_goleador": "961087",
+                "resultado_gol": "1:1",
+                "desc": "4. gol de la temporada",
+                "minuto": 53,
+                "cod_asistente": "933908",
+                "desc_asist": "3° asistencia de la temporada"
+            },
+            {
+                "cod_goleador": "961087",
+                "resultado_gol": "1:2",
+                "desc": "5. gol de la temporada",
+                "minuto": 57,
+                "cod_asistente": "666971",
+                "desc_asist": "4° asistencia de la temporada"
+            }
+        ],
+        "fecha": "02/05/25  20:30",
+        "penaltis_fallados": []
+    },
+    {
+        "cod_partido": "4428799",
+        "goles_local": 1,
+        "goles_visitante": 0,
+        "cod_titulares_local": [
+            [
+                "303248",
+                "/pedro-lopez/profil/spieler/303248"
+            ],
+            [
+                "625647",
+                "/yago-cantero/profil/spieler/625647"
+            ],
+            [
+                "664420",
+                "/albert-caparros/profil/spieler/664420"
+            ],
+            [
+                "225459",
+                "/carlos-hernandez/profil/spieler/225459"
+            ],
+            [
+                "521329",
+                "/carlos-redru/profil/spieler/521329"
+            ],
+            [
+                "613040",
+                "/youness-lachhab/profil/spieler/613040"
+            ],
+            [
+                "311696",
+                "/kuki-zalazar/profil/spieler/311696"
+            ],
+            [
+                "396339",
+                "/andy-escudero/profil/spieler/396339"
+            ],
+            [
+                "311266",
+                "/ruben-diez/profil/spieler/311266"
+            ],
+            [
+                "534377",
+                "/kialy-abdoul-kone/profil/spieler/534377"
+            ],
+            [
+                "117549",
+                "/rodri-rios/profil/spieler/117549"
+            ]
+        ],
+        "cod_titulares_visitante": [
+            [
+                "635318",
+                "/juanpa-palomares/profil/spieler/635318"
+            ],
+            [
+                "351204",
+                "/ismael-athuman/profil/spieler/351204"
+            ],
+            [
+                "396115",
+                "/eliseo-falcon/profil/spieler/396115"
+            ],
+            [
+                "209722",
+                "/manuel-bonaque/profil/spieler/209722"
+            ],
+            [
+                "142019",
+                "/pipe/profil/spieler/142019"
+            ],
+            [
+                "688747",
+                "/juanjo-sanchez/profil/spieler/688747"
+            ],
+            [
+                "821009",
+                "/raul-beneit/profil/spieler/821009"
+            ],
+            [
+                "296224",
+                "/pablo-ganet/profil/spieler/296224"
+            ],
+            [
+                "379530",
+                "/carlos-doncel/profil/spieler/379530"
+            ],
+            [
+                "808648",
+                "/alvaro-juan/profil/spieler/808648"
+            ],
+            [
+                "606160",
+                "/herculano-nabian/profil/spieler/606160"
+            ]
+        ],
+        "cod_suplentes_local": [
+            [
+                "341570",
+                "/guillermo-vallejo/profil/spieler/341570"
+            ],
+            [
+                "214770",
+                "/borja-lopez/profil/spieler/214770"
+            ],
+            [
+                "766580",
+                "/jacobo-guzman/profil/spieler/766580"
+            ],
+            [
+                "442802",
+                "/cristian-rodriguez/profil/spieler/442802"
+            ],
+            [
+                "979855",
+                "/victor-corral/profil/spieler/979855"
+            ],
+            [
+                "661135",
+                "/martin-bellotti/profil/spieler/661135"
+            ],
+            [
+                "636530",
+                "/jota-lopez/profil/spieler/636530"
+            ],
+            [
+                "842722",
+                "/juanpe-heredia/profil/spieler/842722"
+            ],
+            [
+                "59335",
+                "/dani-aquino/profil/spieler/59335"
+            ],
+            [
+                "766556",
+                "/diego-rodriguez/profil/spieler/766556"
+            ]
+        ],
+        "cod_suplentes_visitante": [
+            [
+                "935228",
+                "/dani-vicente/profil/spieler/935228"
+            ],
+            [
+                "720525",
+                "/iker-macia/profil/spieler/720525"
+            ],
+            [
+                "783890",
+                "/luis-pareja/profil/spieler/783890"
+            ],
+            [
+                "1038746",
+                "/mateo-prevedini/profil/spieler/1038746"
+            ],
+            [
+                "1052726",
+                "/edu-sanchez/profil/spieler/1052726"
+            ],
+            [
+                "902878",
+                "/busi/profil/spieler/902878"
+            ],
+            [
+                "396172",
+                "/miki-munoz/profil/spieler/396172"
+            ],
+            [
+                "931677",
+                "/miguel-carvalho/profil/spieler/931677"
+            ],
+            [
+                "355763",
+                "/liberto-beltran/profil/spieler/355763"
+            ],
+            [
+                "862686",
+                "/javi-eslava/profil/spieler/862686"
+            ]
+        ],
+        "cambios_local": [
+            {
+                "cod_entra": "59335",
+                "cod_fuera": "117549",
+                "minuto": 46,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "661135",
+                "cod_fuera": "396339",
+                "minuto": 67,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "979855",
+                "cod_fuera": "311266",
+                "minuto": 82,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "442802",
+                "cod_fuera": "311696",
+                "minuto": 90,
+                "desc": "Táctica"
+            }
+        ],
+        "cambios_visitante": [
+            {
+                "cod_entra": "862686",
+                "cod_fuera": "606160",
+                "minuto": 64,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "355763",
+                "cod_fuera": "351204",
+                "minuto": 64,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "783890",
+                "cod_fuera": "396115",
+                "minuto": 64,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "902878",
+                "cod_fuera": "821009",
+                "minuto": 77,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "1038746",
+                "cod_fuera": "209722",
+                "minuto": 81,
+                "desc": "Táctica"
+            }
+        ],
+        "amonestaciones_local": [
+            {
+                "cod_amonestado": "117549",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 40
+            },
+            {
+                "cod_amonestado": "664420",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 57
+            },
+            {
+                "cod_amonestado": "521329",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 59
+            }
+        ],
+        "amonestaciones_visitante": [
+            {
+                "cod_amonestado": "396115",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 33
+            },
+            {
+                "cod_amonestado": "606160",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 47
+            },
+            {
+                "cod_amonestado": "821009",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 68
+            },
+            {
+                "cod_amonestado": "862686",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 78
+            }
+        ],
+        "goles_local_desc": [
+            {
+                "cod_goleador": "534377",
+                "resultado_gol": "1:0",
+                "desc": "4. gol de la temporada",
+                "minuto": 35,
+                "cod_asistente": "117549",
+                "desc_asist": "2° asistencia de la temporada"
+            }
+        ],
+        "goles_visitante_desc": [],
+        "fecha": "03/05/25  16:00",
+        "penaltis_fallados": []
+    },
+    {
+        "cod_partido": "4428796",
+        "goles_local": 2,
+        "goles_visitante": 0,
+        "cod_titulares_local": [
+            [
+                "618801",
+                "/alejandro-iturbe/profil/spieler/618801"
+            ],
+            [
+                "638588",
+                "/martin-pascual/profil/spieler/638588"
+            ],
+            [
+                "1158985",
+                "/geronimo-spina/profil/spieler/1158985"
+            ],
+            [
+                "711628",
+                "/pablo-perez/profil/spieler/711628"
+            ],
+            [
+                "945753",
+                "/julio-diaz/profil/spieler/945753"
+            ],
+            [
+                "741253",
+                "/javier-bonar/profil/spieler/741253"
+            ],
+            [
+                "1054931",
+                "/selu-diallo/profil/spieler/1054931"
+            ],
+            [
+                "668177",
+                "/javi-serrano/profil/spieler/668177"
+            ],
+            [
+                "945500",
+                "/rayane-belaid/profil/spieler/945500"
+            ],
+            [
+                "1179482",
+                "/iker-luque/profil/spieler/1179482"
+            ],
+            [
+                "1060454",
+                "/omar-janneh/profil/spieler/1060454"
+            ]
+        ],
+        "cod_titulares_visitante": [
+            [
+                "355534",
+                "/lucas-diaz/profil/spieler/355534"
+            ],
+            [
+                "495600",
+                "/alvaro-garcia/profil/spieler/495600"
+            ],
+            [
+                "247366",
+                "/marcos-mauro/profil/spieler/247366"
+            ],
+            [
+                "583508",
+                "/david-alba/profil/spieler/583508"
+            ],
+            [
+                "716150",
+                "/alex-barbu/profil/spieler/716150"
+            ],
+            [
+                "667997",
+                "/bilal-ouacharaf/profil/spieler/667997"
+            ],
+            [
+                "358114",
+                "/ale-galindo/profil/spieler/358114"
+            ],
+            [
+                "632562",
+                "/abde-damar/profil/spieler/632562"
+            ],
+            [
+                "149483",
+                "/fer-ruiz/profil/spieler/149483"
+            ],
+            [
+                "336729",
+                "/cedric-omoigui/profil/spieler/336729"
+            ],
+            [
+                "733575",
+                "/ilies-faure/profil/spieler/733575"
+            ]
+        ],
+        "cod_suplentes_local": [
+            [
+                "895330",
+                "/salvi-esquivel/profil/spieler/895330"
+            ],
+            [
+                "945763",
+                "/dani-martinez/profil/spieler/945763"
+            ],
+            [
+                "614988",
+                "/ilias-kostis/profil/spieler/614988"
+            ],
+            [
+                "856136",
+                "/carlos-gimenez/profil/spieler/856136"
+            ],
+            [
+                "646735",
+                "/aitor-gismera/profil/spieler/646735"
+            ],
+            [
+                "845512",
+                "/joaquin-gonzalez/profil/spieler/845512"
+            ],
+            [
+                "1209287",
+                "/jano-monserrate/profil/spieler/1209287"
+            ],
+            [
+                "1018562",
+                "/jorge-rajado/profil/spieler/1018562"
+            ],
+            [
+                "898737",
+                "/ale-garcia/profil/spieler/898737"
+            ],
+            [
+                "720532",
+                "/diego-bri/profil/spieler/720532"
+            ],
+            [
+                "926849",
+                "/adrian-nino/profil/spieler/926849"
+            ],
+            [
+                "566036",
+                "/borja-garces/profil/spieler/566036"
+            ]
+        ],
+        "cod_suplentes_visitante": [
+            [
+                "1353913",
+                "/marcos-garcia/profil/spieler/1353913"
+            ],
+            [
+                "1175739",
+                "/mikel-gonzalez/profil/spieler/1175739"
+            ],
+            [
+                "1307725",
+                "/raul-sanchez/profil/spieler/1307725"
+            ],
+            [
+                "582698",
+                "/florentin-bloch/profil/spieler/582698"
+            ],
+            [
+                "286214",
+                "/alvaro-barbosa/profil/spieler/286214"
+            ],
+            [
+                "465316",
+                "/ismael-casas/profil/spieler/465316"
+            ],
+            [
+                "1233208",
+                "/jeevan-chang-sang/profil/spieler/1233208"
+            ],
+            [
+                "1205498",
+                "/jaime-robert/profil/spieler/1205498"
+            ],
+            [
+                "944124",
+                "/lass-sangare/profil/spieler/944124"
+            ],
+            [
+                "644906",
+                "/aaron-pinan/profil/spieler/644906"
+            ],
+            [
+                "881542",
+                "/nene/profil/spieler/881542"
+            ],
+            [
+                "789328",
+                "/manu-garrido/profil/spieler/789328"
+            ]
+        ],
+        "cambios_local": [
+            {
+                "cod_entra": "945763",
+                "cod_fuera": "945500",
+                "minuto": 67,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "845512",
+                "cod_fuera": "668177",
+                "minuto": 67,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "1209287",
+                "cod_fuera": "1179482",
+                "minuto": 77,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "926849",
+                "cod_fuera": "1060454",
+                "minuto": 77,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "720532",
+                "cod_fuera": "711628",
+                "minuto": 83,
+                "desc": "Táctica"
+            }
+        ],
+        "cambios_visitante": [
+            {
+                "cod_entra": "286214",
+                "cod_fuera": "247366",
+                "minuto": 46,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "789328",
+                "cod_fuera": "733575",
+                "minuto": 66,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "644906",
+                "cod_fuera": "336729",
+                "minuto": 78,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "1353913",
+                "cod_fuera": "632562",
+                "minuto": 78,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "465316",
+                "cod_fuera": "667997",
+                "minuto": 90,
+                "desc": "Táctica"
+            }
+        ],
+        "amonestaciones_local": [
+            {
+                "cod_amonestado": "711628",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 80
+            },
+            {
+                "cod_amonestado": "1054931",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 90
+            }
+        ],
+        "amonestaciones_visitante": [
+            {
+                "cod_amonestado": "733575",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 17
+            },
+            {
+                "cod_amonestado": "632562",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 52
+            },
+            {
+                "cod_amonestado": "358114",
+                "amarilla": false,
+                "roja": true,
+                "minuto": 88
+            }
+        ],
+        "goles_local_desc": [
+            {
+                "cod_goleador": "1060454",
+                "resultado_gol": "1:0",
+                "desc": "7. gol de la temporada",
+                "minuto": 13,
+                "cod_asistente": "638588",
+                "desc_asist": "1° asistencia de la temporada"
+            },
+            {
+                "cod_goleador": "945753",
+                "resultado_gol": "2:0",
+                "desc": "2. gol de la temporada",
+                "minuto": 65,
+                "cod_asistente": "711628",
+                "desc_asist": "3° asistencia de la temporada"
+            }
+        ],
+        "goles_visitante_desc": [],
+        "fecha": "04/05/25  12:00",
+        "penaltis_fallados": []
+    },
+    {
+        "cod_partido": "4428800",
+        "goles_local": 2,
+        "goles_visitante": 2,
+        "cod_titulares_local": [
+            [
+                "336733",
+                "/jero-lario/profil/spieler/336733"
+            ],
+            [
+                "632080",
+                "/franck-fomeyem/profil/spieler/632080"
+            ],
+            [
+                "278467",
+                "/ivan-perez/profil/spieler/278467"
+            ],
+            [
+                "719723",
+                "/juan-aspra/profil/spieler/719723"
+            ],
+            [
+                "960983",
+                "/agus-moreno/profil/spieler/960983"
+            ],
+            [
+                "331508",
+                "/guillem-jaime/profil/spieler/331508"
+            ],
+            [
+                "253238",
+                "/toni-arranz/profil/spieler/253238"
+            ],
+            [
+                "434660",
+                "/chema-nunez/profil/spieler/434660"
+            ],
+            [
+                "45567",
+                "/jonathan-biabiany/profil/spieler/45567"
+            ],
+            [
+                "166680",
+                "/pol-roige/profil/spieler/166680"
+            ],
+            [
+                "124560",
+                "/samuele-longo/profil/spieler/124560"
+            ]
+        ],
+        "cod_titulares_visitante": [
+            [
+                "766552",
+                "/alberto-flores/profil/spieler/766552"
+            ],
+            [
+                "766763",
+                "/sergio-martinez/profil/spieler/766763"
+            ],
+            [
+                "719999",
+                "/andres-castrin/profil/spieler/719999"
+            ],
+            [
+                "803003",
+                "/iker-munoz/profil/spieler/803003"
+            ],
+            [
+                "767229",
+                "/diego-hormigo/profil/spieler/767229"
+            ],
+            [
+                "711626",
+                "/dario-benavides/profil/spieler/711626"
+            ],
+            [
+                "718581",
+                "/lulo-dasilva/profil/spieler/718581"
+            ],
+            [
+                "935342",
+                "/alberto-collado/profil/spieler/935342"
+            ],
+            [
+                "1064105",
+                "/miguel-angel-sierra/profil/spieler/1064105"
+            ],
+            [
+                "682588",
+                "/mateo-mejia/profil/spieler/682588"
+            ],
+            [
+                "892926",
+                "/leandro-antonetti/profil/spieler/892926"
+            ]
+        ],
+        "cod_suplentes_local": [
+            [
+                "401910",
+                "/ivan-moreno/profil/spieler/401910"
+            ],
+            [
+                "1061332",
+                "/dani-alcover/profil/spieler/1061332"
+            ],
+            [
+                "628882",
+                "/luismi-luengo/profil/spieler/628882"
+            ],
+            [
+                "284454",
+                "/ivan-rodriguez/profil/spieler/284454"
+            ],
+            [
+                "531498",
+                "/alejandro-marcelo/profil/spieler/531498"
+            ],
+            [
+                "327650",
+                "/xemi-fernandez/profil/spieler/327650"
+            ],
+            [
+                "722280",
+                "/luismi-gutierrez/profil/spieler/722280"
+            ],
+            [
+                "1019380",
+                "/isaac-gonzalez/profil/spieler/1019380"
+            ],
+            [
+                "409472",
+                "/ousama-siddiki/profil/spieler/409472"
+            ],
+            [
+                "1151630",
+                "/alex-rubio/profil/spieler/1151630"
+            ],
+            [
+                "523999",
+                "/inaki-elejalde/profil/spieler/523999"
+            ]
+        ],
+        "cod_suplentes_visitante": [
+            [
+                "767255",
+                "/matias-arbol/profil/spieler/767255"
+            ],
+            [
+                "927821",
+                "/leo-mascaro/profil/spieler/927821"
+            ],
+            [
+                "1369612",
+                "/tomas-mendez/profil/spieler/1369612"
+            ],
+            [
+                "1060645",
+                "/robert-jalade/profil/spieler/1060645"
+            ],
+            [
+                "1236856",
+                "/nico-guillen/profil/spieler/1236856"
+            ],
+            [
+                "916014",
+                "/isra-dominguez/profil/spieler/916014"
+            ],
+            [
+                "941046",
+                "/juan-cortez/profil/spieler/941046"
+            ],
+            [
+                "934420",
+                "/ibra-sow/profil/spieler/934420"
+            ],
+            [
+                "1262288",
+                "/alexis-ciria/profil/spieler/1262288"
+            ],
+            [
+                "1064424",
+                "/manuel-di-massimo/profil/spieler/1064424"
+            ]
+        ],
+        "cambios_local": [
+            {
+                "cod_entra": "531498",
+                "cod_fuera": "719723",
+                "minuto": 60,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "722280",
+                "cod_fuera": "166680",
+                "minuto": 60,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "1019380",
+                "cod_fuera": "253238",
+                "minuto": 66,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "327650",
+                "cod_fuera": "331508",
+                "minuto": 76,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "1151630",
+                "cod_fuera": "124560",
+                "minuto": 76,
+                "desc": "Táctica"
+            }
+        ],
+        "cambios_visitante": [
+            {
+                "cod_entra": "916014",
+                "cod_fuera": "1064105",
+                "minuto": 66,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "1064424",
+                "cod_fuera": "935342",
+                "minuto": 70,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "1060645",
+                "cod_fuera": "682588",
+                "minuto": 81,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "934420",
+                "cod_fuera": "892926",
+                "minuto": 81,
+                "desc": "Táctica"
+            }
+        ],
+        "amonestaciones_local": [
+            {
+                "cod_amonestado": "124560",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 15
+            },
+            {
+                "cod_amonestado": "719723",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 17
+            },
+            {
+                "cod_amonestado": "166680",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 23
+            },
+            {
+                "cod_amonestado": "1151630",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 56
+            },
+            {
+                "cod_amonestado": "1019380",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 88
+            },
+            {
+                "cod_amonestado": "434660",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 88
+            },
+            {
+                "cod_amonestado": "531498",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 90
+            }
+        ],
+        "amonestaciones_visitante": [
+            {
+                "cod_amonestado": "711626",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 23
+            },
+            {
+                "cod_amonestado": "719999",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 29
+            },
+            {
+                "cod_amonestado": "718581",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 72
+            },
+            {
+                "cod_amonestado": "892926",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 78
+            },
+            {
+                "cod_amonestado": "941046",
+                "amarilla": false,
+                "roja": true,
+                "minuto": 79
+            },
+            {
+                "cod_amonestado": "1060645",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 89
+            }
+        ],
+        "goles_local_desc": [
+            {
+                "cod_goleador": "1151630",
+                "resultado_gol": "1:2",
+                "desc": "4. gol de la temporada",
+                "minuto": 90,
+                "cod_asistente": "434660",
+                "desc_asist": "10° asistencia de la temporada"
+            },
+            {
+                "cod_goleador": "632080",
+                "resultado_gol": "2:2",
+                "desc": "3. gol de la temporada",
+                "minuto": 90,
+                "cod_asistente": "45567",
+                "desc_asist": "6° asistencia de la temporada"
+            }
+        ],
+        "goles_visitante_desc": [
+            {
+                "cod_goleador": "803003",
+                "resultado_gol": "0:1",
+                "desc": "1. gol de la temporada",
+                "minuto": 48,
+                "cod_asistente": "1064105",
+                "desc_asist": "6° asistencia de la temporada"
+            },
+            {
+                "cod_goleador": "682588",
+                "resultado_gol": "0:2",
+                "desc": "7. gol de la temporada",
+                "minuto": 65,
+                "cod_asistente": "892926",
+                "desc_asist": "3° asistencia de la temporada"
+            }
+        ],
+        "fecha": "03/05/25  20:00",
+        "penaltis_fallados": []
+    },
+    {
+        "cod_partido": "4428803",
+        "goles_local": 0,
+        "goles_visitante": 3,
+        "cod_titulares_local": [
+            [
+                "363541",
+                "/samu-perez/profil/spieler/363541"
+            ],
+            [
+                "809715",
+                "/isaac-amoah/profil/spieler/809715"
+            ],
+            [
+                "766579",
+                "/angel-puerto/profil/spieler/766579"
+            ],
+            [
+                "186891",
+                "/alex-martinez/profil/spieler/186891"
+            ],
+            [
+                "971775",
+                "/kikin/profil/spieler/971775"
+            ],
+            [
+                "814286",
+                "/yasser-el-arbaoui/profil/spieler/814286"
+            ],
+            [
+                "523978",
+                "/luis-vacas/profil/spieler/523978"
+            ],
+            [
+                "1368893",
+                "/gnangoro-bouare/profil/spieler/1368893"
+            ],
+            [
+                "891107",
+                "/alex-guti/profil/spieler/891107"
+            ],
+            [
+                "1230202",
+                "/borja-vazquez/profil/spieler/1230202"
+            ],
+            [
+                "825670",
+                "/sofiane-el-ftouhi/profil/spieler/825670"
+            ]
+        ],
+        "cod_titulares_visitante": [
+            [
+                "296704",
+                "/jaume-valens/profil/spieler/296704"
+            ],
+            [
+                "355468",
+                "/primi-ferriz/profil/spieler/355468"
+            ],
+            [
+                "720410",
+                "/farru/profil/spieler/720410"
+            ],
+            [
+                "59337",
+                "/pichu-atienza/profil/spieler/59337"
+            ],
+            [
+                "305957",
+                "/dani-molina/profil/spieler/305957"
+            ],
+            [
+                "349889",
+                "/eneko-undabarrena/profil/spieler/349889"
+            ],
+            [
+                "455056",
+                "/imanol-garcia/profil/spieler/455056"
+            ],
+            [
+                "821501",
+                "/javi-anton/profil/spieler/821501"
+            ],
+            [
+                "355397",
+                "/victor-pastrana/profil/spieler/355397"
+            ],
+            [
+                "162044",
+                "/cristian-herrera/profil/spieler/162044"
+            ],
+            [
+                "677181",
+                "/mario-losada/profil/spieler/677181"
+            ]
+        ],
+        "cod_suplentes_local": [
+            [
+                "1300159",
+                "/owen-tega-udoh/profil/spieler/1300159"
+            ],
+            [
+                "636685",
+                "/raul-garcia-alejo/profil/spieler/636685"
+            ],
+            [
+                "253826",
+                "/adri-castellano/profil/spieler/253826"
+            ],
+            [
+                "628922",
+                "/alejandro-pavon/profil/spieler/628922"
+            ],
+            [
+                "1032447",
+                "/julio-cabrera/profil/spieler/1032447"
+            ],
+            [
+                "949510",
+                "/mauricio-reygadas/profil/spieler/949510"
+            ],
+            [
+                "616823",
+                "/alain-garcia/profil/spieler/616823"
+            ],
+            [
+                "1348799",
+                "/csanad-gonda/profil/spieler/1348799"
+            ],
+            [
+                "971693",
+                "/david-garcia/profil/spieler/971693"
+            ],
+            [
+                "381204",
+                "/colau/profil/spieler/381204"
+            ],
+            [
+                "251888",
+                "/mario-rodriguez/profil/spieler/251888"
+            ],
+            [
+                "670857",
+                "/jude-soonsup-bell/profil/spieler/670857"
+            ]
+        ],
+        "cod_suplentes_visitante": [
+            [
+                "446289",
+                "/manu-garcia/profil/spieler/446289"
+            ],
+            [
+                "771032",
+                "/andres-rodriguez/profil/spieler/771032"
+            ],
+            [
+                "881436",
+                "/sergi-lopez/profil/spieler/881436"
+            ],
+            [
+                "222013",
+                "/haritz-albisua/profil/spieler/222013"
+            ],
+            [
+                "1078985",
+                "/rafael-de-palmas/profil/spieler/1078985"
+            ],
+            [
+                "461858",
+                "/jose-alonso-lara/profil/spieler/461858"
+            ],
+            [
+                "93747",
+                "/yacine-qasmi/profil/spieler/93747"
+            ]
+        ],
+        "cambios_local": [
+            {
+                "cod_entra": "971693",
+                "cod_fuera": "814286",
+                "minuto": 55,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "670857",
+                "cod_fuera": "1368893",
+                "minuto": 55,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "381204",
+                "cod_fuera": "766579",
+                "minuto": 75,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "253826",
+                "cod_fuera": "523978",
+                "minuto": 75,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "251888",
+                "cod_fuera": "1230202",
+                "minuto": 75,
+                "desc": "Táctica"
+            }
+        ],
+        "cambios_visitante": [
+            {
+                "cod_entra": "881436",
+                "cod_fuera": "821501",
+                "minuto": 54,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "771032",
+                "cod_fuera": "59337",
+                "minuto": 54,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "222013",
+                "cod_fuera": "305957",
+                "minuto": 71,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "1078985",
+                "cod_fuera": "162044",
+                "minuto": 71,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "93747",
+                "cod_fuera": "677181",
+                "minuto": 81,
+                "desc": "Táctica"
+            }
+        ],
+        "amonestaciones_local": [
+            {
+                "cod_amonestado": "825670",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 13
+            },
+            {
+                "cod_amonestado": "814286",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 26
+            },
+            {
+                "cod_amonestado": "971775",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 90
+            }
+        ],
+        "amonestaciones_visitante": [
+            {
+                "cod_amonestado": "677181",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 9
+            },
+            {
+                "cod_amonestado": "355397",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 15
+            },
+            {
+                "cod_amonestado": "821501",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 48
+            },
+            {
+                "cod_amonestado": "771032",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 63
+            }
+        ],
+        "goles_local_desc": [],
+        "goles_visitante_desc": [
+            {
+                "cod_goleador": "355397",
+                "resultado_gol": "0:1",
+                "desc": "4. gol de la temporada",
+                "minuto": 38,
+                "cod_asistente": "305957",
+                "desc_asist": "3° asistencia de la temporada"
+            },
+            {
+                "cod_goleador": "305957",
+                "resultado_gol": "0:2",
+                "desc": "2. gol de la temporada",
+                "minuto": 60,
+                "cod_asistente": "771032",
+                "desc_asist": "1° asistencia de la temporada"
+            },
+            {
+                "cod_goleador": "1078985",
+                "resultado_gol": "0:3",
+                "desc": "1. gol de la temporada",
+                "minuto": 87,
+                "cod_asistente": "355397",
+                "desc_asist": "3° asistencia de la temporada"
+            }
+        ],
+        "fecha": "03/05/25  18:00",
+        "penaltis_fallados": []
+    },
+    {
+        "cod_partido": "4428795",
+        "goles_local": 3,
+        "goles_visitante": 2,
+        "cod_titulares_local": [
+            [
+                "1055220",
+                "/fran-gonzalez/profil/spieler/1055220"
+            ],
+            [
+                "941853",
+                "/kike-ribes/profil/spieler/941853"
+            ],
+            [
+                "1176520",
+                "/mario-rivas/profil/spieler/1176520"
+            ],
+            [
+                "646745",
+                "/edgar-pujol/profil/spieler/646745"
+            ],
+            [
+                "741289",
+                "/youssef-enriquez/profil/spieler/741289"
+            ],
+            [
+                "935281",
+                "/david-jimenez/profil/spieler/935281"
+            ],
+            [
+                "948279",
+                "/chema-andres/profil/spieler/948279"
+            ],
+            [
+                "741293",
+                "/pol-fortuny/profil/spieler/741293"
+            ],
+            [
+                "935231",
+                "/victor-munoz/profil/spieler/935231"
+            ],
+            [
+                "935230",
+                "/gonzalo-garcia/profil/spieler/935230"
+            ],
+            [
+                "720523",
+                "/loren-zuniga/profil/spieler/720523"
+            ]
+        ],
+        "cod_titulares_visitante": [
+            [
+                "786130",
+                "/eric-puerto/profil/spieler/786130"
+            ],
+            [
+                "64598",
+                "/bernardo-espinosa/profil/spieler/64598"
+            ],
+            [
+                "709371",
+                "/marcos-olguin/profil/spieler/709371"
+            ],
+            [
+                "423435",
+                "/aitor-punal/profil/spieler/423435"
+            ],
+            [
+                "1006890",
+                "/jorge-alvarez/profil/spieler/1006890"
+            ],
+            [
+                "192360",
+                "/ryan-edwards/profil/spieler/192360"
+            ],
+            [
+                "1064121",
+                "/marcos-pena/profil/spieler/1064121"
+            ],
+            [
+                "321919",
+                "/ernest-ohemeng/profil/spieler/321919"
+            ],
+            [
+                "579649",
+                "/tahiru-awudu/profil/spieler/579649"
+            ],
+            [
+                "61253",
+                "/jose-callejon/profil/spieler/61253"
+            ],
+            [
+                "869952",
+                "/dorian-hanza/profil/spieler/869952"
+            ]
+        ],
+        "cod_suplentes_local": [
+            [
+                "717952",
+                "/mario-de-luis/profil/spieler/717952"
+            ],
+            [
+                "926850",
+                "/diego-pineiro/profil/spieler/926850"
+            ],
+            [
+                "1186245",
+                "/victor-valdepenas/profil/spieler/1186245"
+            ],
+            [
+                "669517",
+                "/david-ruiz/profil/spieler/669517"
+            ],
+            [
+                "709997",
+                "/lorenzo-aguado/profil/spieler/709997"
+            ],
+            [
+                "948271",
+                "/borja-alonso/profil/spieler/948271"
+            ],
+            [
+                "895332",
+                "/antonio-david/profil/spieler/895332"
+            ],
+            [
+                "948272",
+                "/cesar-palacios/profil/spieler/948272"
+            ],
+            [
+                "709377",
+                "/andres-campos/profil/spieler/709377"
+            ],
+            [
+                "941567",
+                "/baba-diocou/profil/spieler/941567"
+            ]
+        ],
+        "cod_suplentes_visitante": [
+            [
+                "1099061",
+                "/dani-martin/profil/spieler/1099061"
+            ],
+            [
+                "225583",
+                "/jose-manuel-carrasco/profil/spieler/225583"
+            ],
+            [
+                "446101",
+                "/fermin-ruiz/profil/spieler/446101"
+            ],
+            [
+                "628490",
+                "/genar-fornes/profil/spieler/628490"
+            ],
+            [
+                "541035",
+                "/javi-duarte/profil/spieler/541035"
+            ],
+            [
+                "628465",
+                "/alberto-soto/profil/spieler/628465"
+            ],
+            [
+                "905711",
+                "/zeki-diaz/profil/spieler/905711"
+            ],
+            [
+                "1045767",
+                "/pablo-munoz/profil/spieler/1045767"
+            ],
+            [
+                "1012801",
+                "/yuezheng-du/profil/spieler/1012801"
+            ]
+        ],
+        "cambios_local": [
+            {
+                "cod_entra": "895332",
+                "cod_fuera": "948279",
+                "minuto": 74,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "709377",
+                "cod_fuera": "720523",
+                "minuto": 74,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "1186245",
+                "cod_fuera": "741289",
+                "minuto": 74,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "948272",
+                "cod_fuera": "741293",
+                "minuto": 81,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "948271",
+                "cod_fuera": "935231",
+                "minuto": 90,
+                "desc": "Táctica"
+            }
+        ],
+        "cambios_visitante": [
+            {
+                "cod_entra": "628465",
+                "cod_fuera": "579649",
+                "minuto": 33,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "905711",
+                "cod_fuera": "192360",
+                "minuto": 62,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "628490",
+                "cod_fuera": "1064121",
+                "minuto": 62,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "541035",
+                "cod_fuera": "64598",
+                "minuto": 62,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "1045767",
+                "cod_fuera": "709371",
+                "minuto": 82,
+                "desc": "Táctica"
+            }
+        ],
+        "amonestaciones_local": [
+            {
+                "cod_amonestado": "948279",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 31
+            },
+            {
+                "cod_amonestado": "941853",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 37
+            },
+            {
+                "cod_amonestado": "895332",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 79
+            },
+            {
+                "cod_amonestado": "948272",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 84
+            }
+        ],
+        "amonestaciones_visitante": [
+            {
+                "cod_amonestado": "786130",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 76
+            },
+            {
+                "cod_amonestado": "1006890",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 85
+            }
+        ],
+        "goles_local_desc": [
+            {
+                "cod_goleador": "935281",
+                "resultado_gol": "1:0",
+                "desc": "3. gol de la temporada",
+                "minuto": 1,
+                "cod_asistente": null,
+                "desc_asist": null
+            },
+            {
+                "cod_goleador": "935230",
+                "resultado_gol": "2:0",
+                "desc": "24. gol de la temporada",
+                "minuto": 56,
+                "cod_asistente": "741293",
+                "desc_asist": "8° asistencia de la temporada"
+            },
+            {
+                "cod_goleador": "720523",
+                "resultado_gol": "3:1",
+                "desc": "3. gol de la temporada",
+                "minuto": 65,
+                "cod_asistente": "935231",
+                "desc_asist": "7° asistencia de la temporada"
+            }
+        ],
+        "goles_visitante_desc": [
+            {
+                "cod_goleador": "61253",
+                "resultado_gol": "2:1",
+                "desc": "10. gol de la temporada",
+                "minuto": 58,
+                "cod_asistente": "1006890",
+                "desc_asist": "3° asistencia de la temporada"
+            },
+            {
+                "cod_goleador": "628465",
+                "resultado_gol": "3:2",
+                "desc": "2. gol de la temporada",
+                "minuto": 90,
+                "cod_asistente": "61253",
+                "desc_asist": "9° asistencia de la temporada"
+            }
+        ],
+        "fecha": "04/05/25  18:00",
+        "penaltis_fallados": []
+    },
+    {
+        "cod_partido": "4428798",
+        "goles_local": 0,
+        "goles_visitante": 1,
+        "cod_titulares_local": [
+            [
+                "200612",
+                "/pol-freixanet/profil/spieler/200612"
+            ],
+            [
+                "323462",
+                "/alvaro-perez/profil/spieler/323462"
+            ],
+            [
+                "711639",
+                "/miki-codina/profil/spieler/711639"
+            ],
+            [
+                "379739",
+                "/nacho-gonzalez/profil/spieler/379739"
+            ],
+            [
+                "340345",
+                "/borja-san-emeterio/profil/spieler/340345"
+            ],
+            [
+                "205276",
+                "/pol-llonch/profil/spieler/205276"
+            ],
+            [
+                "391346",
+                "/julio-gracia/profil/spieler/391346"
+            ],
+            [
+                "504398",
+                "/sergio-montero/profil/spieler/504398"
+            ],
+            [
+                "534455",
+                "/nito-gonzalez/profil/spieler/534455"
+            ],
+            [
+                "245157",
+                "/borja-martinez/profil/spieler/245157"
+            ],
+            [
+                "1264442",
+                "/keyner-ron/profil/spieler/1264442"
+            ]
+        ],
+        "cod_titulares_visitante": [
+            [
+                "270314",
+                "/gianfranco-gazzaniga/profil/spieler/270314"
+            ],
+            [
+                "175919",
+                "/alberto-gonzalez/profil/spieler/175919"
+            ],
+            [
+                "240360",
+                "/esteban-saveljich/profil/spieler/240360"
+            ],
+            [
+                "385912",
+                "/kike-cadete/profil/spieler/385912"
+            ],
+            [
+                "554334",
+                "/david-vicente/profil/spieler/554334"
+            ],
+            [
+                "495622",
+                "/moha-moukhliss/profil/spieler/495622"
+            ],
+            [
+                "894527",
+                "/joao-pedro-palmberg/profil/spieler/894527"
+            ],
+            [
+                "201861",
+                "/juan-carlos-real/profil/spieler/201861"
+            ],
+            [
+                "522190",
+                "/davo/profil/spieler/522190"
+            ],
+            [
+                "506941",
+                "/david-flakus-bosilj/profil/spieler/506941"
+            ],
+            [
+                "835794",
+                "/pedro-benito/profil/spieler/835794"
+            ]
+        ],
+        "cod_suplentes_local": [
+            [
+                "1175797",
+                "/alberto-paredes/profil/spieler/1175797"
+            ],
+            [
+                "1405637",
+                "/antonio-alfonso-sanchez/profil/spieler/1405637"
+            ],
+            [
+                "388888",
+                "/samu-casado/profil/spieler/388888"
+            ],
+            [
+                "445316",
+                "/andreu-hernandez/profil/spieler/445316"
+            ],
+            [
+                "993666",
+                "/mouhamed-diallo/profil/spieler/993666"
+            ],
+            [
+                "1118201",
+                "/alejandro-mestanza/profil/spieler/1118201"
+            ],
+            [
+                "320259",
+                "/sito/profil/spieler/320259"
+            ],
+            [
+                "340428",
+                "/luka-stor/profil/spieler/340428"
+            ],
+            [
+                "50512",
+                "/anthony-modeste/profil/spieler/50512"
+            ],
+            [
+                "166240",
+                "/jurgen-locadia/profil/spieler/166240"
+            ]
+        ],
+        "cod_suplentes_visitante": [
+            [
+                "634429",
+                "/iker-piedra/profil/spieler/634429"
+            ],
+            [
+                "590891",
+                "/antxon-jaso/profil/spieler/590891"
+            ],
+            [
+                "599327",
+                "/jorge-mier/profil/spieler/599327"
+            ],
+            [
+                "486834",
+                "/jorge-yriarte/profil/spieler/486834"
+            ],
+            [
+                "198400",
+                "/richard-boateng/profil/spieler/198400"
+            ],
+            [
+                "480445",
+                "/loren-buron/profil/spieler/480445"
+            ],
+            [
+                "884850",
+                "/antonio-toral/profil/spieler/884850"
+            ],
+            [
+                "628499",
+                "/kenneth-soler/profil/spieler/628499"
+            ],
+            [
+                "51587",
+                "/pedro-leon/profil/spieler/51587"
+            ],
+            [
+                "628473",
+                "/carlos-rojas/profil/spieler/628473"
+            ],
+            [
+                "611172",
+                "/raul-alcaina/profil/spieler/611172"
+            ],
+            [
+                "868060",
+                "/matheus-cadorini/profil/spieler/868060"
+            ]
+        ],
+        "cambios_local": [
+            {
+                "cod_entra": "166240",
+                "cod_fuera": "534455",
+                "minuto": 60,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "1118201",
+                "cod_fuera": "1264442",
+                "minuto": 60,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "50512",
+                "cod_fuera": "391346",
+                "minuto": 81,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "445316",
+                "cod_fuera": "504398",
+                "minuto": 81,
+                "desc": "Táctica"
+            }
+        ],
+        "cambios_visitante": [
+            {
+                "cod_entra": "486834",
+                "cod_fuera": "495622",
+                "minuto": 54,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "480445",
+                "cod_fuera": "522190",
+                "minuto": 54,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "611172",
+                "cod_fuera": "835794",
+                "minuto": 61,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "51587",
+                "cod_fuera": "201861",
+                "minuto": 76,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "198400",
+                "cod_fuera": "894527",
+                "minuto": 76,
+                "desc": "Táctica"
+            }
+        ],
+        "amonestaciones_local": [
+            {
+                "cod_amonestado": "340345",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 70
+            },
+            {
+                "cod_amonestado": "245157",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 90
+            }
+        ],
+        "amonestaciones_visitante": [],
+        "goles_local_desc": [],
+        "goles_visitante_desc": [
+            {
+                "cod_goleador": "486834",
+                "resultado_gol": "0:1",
+                "desc": "1. gol de la temporada",
+                "minuto": 77,
+                "cod_asistente": "51587",
+                "desc_asist": "3° asistencia de la temporada"
+            }
+        ],
+        "fecha": "04/05/25  17:30",
+        "penaltis_fallados": []
+    },
+    {
+        "cod_partido": "4428804",
+        "goles_local": 2,
+        "goles_visitante": 1,
+        "cod_titulares_local": [
+            [
+                "547248",
+                "/iker-alvarez/profil/spieler/547248"
+            ],
+            [
+                "886047",
+                "/antonio-espigares/profil/spieler/886047"
+            ],
+            [
+                "718027",
+                "/hugo-perez/profil/spieler/718027"
+            ],
+            [
+                "636697",
+                "/arnau-sola/profil/spieler/636697"
+            ],
+            [
+                "589459",
+                "/joseda-menargues/profil/spieler/589459"
+            ],
+            [
+                "1030425",
+                "/thiago-ojeda/profil/spieler/1030425"
+            ],
+            [
+                "945709",
+                "/dani-requena/profil/spieler/945709"
+            ],
+            [
+                "668505",
+                "/tiago-geralnik/profil/spieler/668505"
+            ],
+            [
+                "742864",
+                "/luis-quintero/profil/spieler/742864"
+            ],
+            [
+                "707608",
+                "/victor-valverde/profil/spieler/707608"
+            ],
+            [
+                "1038950",
+                "/etta-eyong/profil/spieler/1038950"
+            ]
+        ],
+        "cod_titulares_visitante": [
+            [
+                "317818",
+                "/carlos-abad/profil/spieler/317818"
+            ],
+            [
+                "343264",
+                "/josema-gomez/profil/spieler/343264"
+            ],
+            [
+                "396157",
+                "/alejandro-sotillos/profil/spieler/396157"
+            ],
+            [
+                "635344",
+                "/abraham-del-moral/profil/spieler/635344"
+            ],
+            [
+                "709376",
+                "/carlos-mangada/profil/spieler/709376"
+            ],
+            [
+                "202981",
+                "/jose-artiles/profil/spieler/202981"
+            ],
+            [
+                "787362",
+                "/roger-colomina/profil/spieler/787362"
+            ],
+            [
+                "731296",
+                "/alvaro-hernaiz/profil/spieler/731296"
+            ],
+            [
+                "674122",
+                "/nico-espinosa/profil/spieler/674122"
+            ],
+            [
+                "413506",
+                "/javi-moreno/profil/spieler/413506"
+            ],
+            [
+                "457973",
+                "/agustin-coscia/profil/spieler/457973"
+            ]
+        ],
+        "cod_suplentes_local": [
+            [
+                "709336",
+                "/ruben-gomez/profil/spieler/709336"
+            ],
+            [
+                "1305564",
+                "/jean-ives-valou/profil/spieler/1305564"
+            ],
+            [
+                "1158814",
+                "/ayouba-kone/profil/spieler/1158814"
+            ],
+            [
+                "696890",
+                "/cristo-romero/profil/spieler/696890"
+            ],
+            [
+                "937942",
+                "/daniel-budesca/profil/spieler/937942"
+            ],
+            [
+                "1106524",
+                "/facundo-viveros/profil/spieler/1106524"
+            ],
+            [
+                "1249340",
+                "/alassane-diatta/profil/spieler/1249340"
+            ],
+            [
+                "707273",
+                "/brais-val/profil/spieler/707273"
+            ],
+            [
+                "895335",
+                "/victor-moreno/profil/spieler/895335"
+            ],
+            [
+                "622991",
+                "/slavy/profil/spieler/622991"
+            ]
+        ],
+        "cod_suplentes_visitante": [
+            [
+                "930096",
+                "/nando-almodovar/profil/spieler/930096"
+            ],
+            [
+                "251880",
+                "/antonio-montoro/profil/spieler/251880"
+            ],
+            [
+                "710001",
+                "/alberto-retuerta/profil/spieler/710001"
+            ],
+            [
+                "1138481",
+                "/jorge-galvan/profil/spieler/1138481"
+            ],
+            [
+                "686151",
+                "/joel-arumi/profil/spieler/686151"
+            ],
+            [
+                "786039",
+                "/mario-garcia/profil/spieler/786039"
+            ],
+            [
+                "617070",
+                "/oriol-soldevila/profil/spieler/617070"
+            ],
+            [
+                "631223",
+                "/antonio-aranda/profil/spieler/631223"
+            ],
+            [
+                "271451",
+                "/dani-romera/profil/spieler/271451"
+            ]
+        ],
+        "cambios_local": [
+            {
+                "cod_entra": "1106524",
+                "cod_fuera": "742864",
+                "minuto": 70,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "1249340",
+                "cod_fuera": "1030425",
+                "minuto": 70,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "895335",
+                "cod_fuera": "668505",
+                "minuto": 70,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "696890",
+                "cod_fuera": "707608",
+                "minuto": 90,
+                "desc": "Táctica"
+            }
+        ],
+        "cambios_visitante": [
+            {
+                "cod_entra": "251880",
+                "cod_fuera": "343264",
+                "minuto": 20,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "710001",
+                "cod_fuera": "731296",
+                "minuto": 46,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "617070",
+                "cod_fuera": "709376",
+                "minuto": 46,
+                "desc": "Táctica"
+            },
+            {
+                "cod_entra": "631223",
+                "cod_fuera": "787362",
+                "minuto": 87,
+                "desc": "Táctica"
+            }
+        ],
+        "amonestaciones_local": [
+            {
+                "cod_amonestado": "1249340",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 81
+            },
+            {
+                "cod_amonestado": "945709",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 89
+            }
+        ],
+        "amonestaciones_visitante": [
+            {
+                "cod_amonestado": "731296",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 8
+            },
+            {
+                "cod_amonestado": "709376",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 33
+            },
+            {
+                "cod_amonestado": "251880",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 48
+            },
+            {
+                "cod_amonestado": "202981",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 49
+            },
+            {
+                "cod_amonestado": "413506",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 50
+            },
+            {
+                "cod_amonestado": "396157",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 77
+            },
+            {
+                "cod_amonestado": "635344",
+                "amarilla": true,
+                "roja": false,
+                "minuto": 85
+            }
+        ],
+        "goles_local_desc": [
+            {
+                "cod_goleador": "707608",
+                "resultado_gol": "1:0",
+                "desc": "10. gol de la temporada",
+                "minuto": 11,
+                "cod_asistente": "668505",
+                "desc_asist": "2° asistencia de la temporada"
+            },
+            {
+                "cod_goleador": "1106524",
+                "resultado_gol": "2:1",
+                "desc": "3. gol de la temporada",
+                "minuto": 87,
+                "cod_asistente": null,
+                "desc_asist": null
+            }
+        ],
+        "goles_visitante_desc": [
+            {
+                "cod_goleador": "457973",
+                "resultado_gol": "1:1",
+                "desc": "7. gol de la temporada",
+                "minuto": 69,
+                "cod_asistente": "202981",
+                "desc_asist": "2° asistencia de la temporada"
+            }
+        ],
+        "fecha": "04/05/25  19:30",
+        "penaltis_fallados": []
+    }
+]

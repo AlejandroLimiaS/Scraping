@@ -1,0 +1,108 @@
+
+-------------------------------------------------------------------------------------------------
+Iniciando inserción de jornada
+-------------------------------------------------------------------------------------------------
+Todas las inserciones finalizaron correctamente.
+
+-------------------------------------------------------------------------------------------------
+Jugadores encontrados que no estaban en la Base: 15
+-------------------------------------------------------------------------------------------------
+Scrapeandolos y insertandolos en la base de datos...
+
+-------------------------------------------------------------------------------------------------
+Jugadores intento 1. Jugadores restantes: 15
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado jugador: Joaquim Utgés Almeda
+Scrapeado jugador: Stanis Idumbo Muzambo
+Scrapeado jugador: Douga Fofana
+Scrapeado jugador: Juan José Mora Colomo
+Scrapeado jugador: Hugo López Fernández
+Scrapeado jugador: Gabriel Lozano De Vuyst
+Scrapeado jugador: Marcos García Montolío
+Scrapeado jugador: Manuel Montero Mora
+Scrapeado jugador: Alejandro Sánchez Mantecón
+Scrapeado jugador: Kirian Ramírez Quinteiro
+
+Procesando batch 1 de URLs
+Scrapeado jugador: Alejandro Orozco Gavilán
+Scrapeado jugador: José Aguilera Martín
+Scrapeado jugador: Mario Nieto Castellano
+Scrapeado jugador: Nicolás Ortiz Jiménez
+Scrapeado jugador: Antonio Lacida Belizón
+
+-------------------------------------------------------------------------------------------------
+Agentes intento 1. Agentes restantes: 7
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado agente: Stirr Associates
+Scrapeado agente: Jose Jorge Cuesta
+Scrapeado agente: MRH Football Agency
+Scrapeado agente: Identity Sports Agency
+Scrapeado agente: Roalza Sports
+Scrapeado agente: FUTBOL21 AGENCY
+Scrapeado agente: Next Level 360 Sports Management
+
+-------------------------------------------------------------------------------------------------
+Historico jugadores intento 1. Jugadores restantes: 15
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado historico jugador: 1334524
+Scrapeado historico jugador: 743387
+Scrapeado historico jugador: 1305565
+Scrapeado historico jugador: 889701
+Scrapeado historico jugador: 1334522
+Scrapeado historico jugador: 1334559
+Scrapeado historico jugador: 978026
+Scrapeado historico jugador: 1307662
+Scrapeado historico jugador: 1186244
+Scrapeado historico jugador: 990988
+
+Procesando batch 1 de URLs
+Scrapeado historico jugador: 1221064
+Scrapeado historico jugador: 1334558
+Scrapeado historico jugador: 930100
+Scrapeado historico jugador: 1086157
+Scrapeado historico jugador: 1334705
+
+-------------------------------------------------------------------------------------------------
+Valor mercado jugadores intento 1. Jugadores restantes: 15
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado grafico valores jugador: 1334524
+Scrapeado grafico valores jugador: 743387
+Scrapeado grafico valores jugador: 1305565
+Scrapeado grafico valores jugador: 889701
+Scrapeado grafico valores jugador: 1334522
+Scrapeado grafico valores jugador: 1334559
+Scrapeado grafico valores jugador: 978026
+Scrapeado grafico valores jugador: 1307662
+Scrapeado grafico valores jugador: 1186244
+Scrapeado grafico valores jugador: 990988
+
+Procesando batch 1 de URLs
+Scrapeado grafico valores jugador: 1221064
+Scrapeado grafico valores jugador: 1334558
+Scrapeado grafico valores jugador: 930100
+Scrapeado grafico valores jugador: 1086157
+Scrapeado grafico valores jugador: 1334705
+Todos los representantes se insertaron correctamente.
+Todos los jugadores se insertaron correctamente.
+
+-------------------------------------------------------------------------------------------------
+Jugadores scrapeados e insertados: 15
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Representantes scrapeados e insertados: 7
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Inserción de jornada finalizada
+-------------------------------------------------------------------------------------------------
+
+Tiempo total de ejecución: 1 minutos y 48.11 segundos

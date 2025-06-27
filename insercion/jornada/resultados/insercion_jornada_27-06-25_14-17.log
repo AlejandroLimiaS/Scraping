@@ -1,0 +1,102 @@
+
+-------------------------------------------------------------------------------------------------
+Iniciando inserción de jornada
+-------------------------------------------------------------------------------------------------
+Todas las inserciones finalizaron correctamente.
+
+-------------------------------------------------------------------------------------------------
+Jugadores encontrados que no estaban en la Base: 14
+-------------------------------------------------------------------------------------------------
+Scrapeandolos y insertandolos en la base de datos...
+
+-------------------------------------------------------------------------------------------------
+Jugadores intento 1. Jugadores restantes: 14
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado jugador: Mert Demirci Nijmeijer
+Scrapeado jugador: José Romero Marinelli
+Scrapeado jugador: Diego Díaz Fernández
+Scrapeado jugador: David López Jiménez
+Scrapeado jugador: Guillermo Zorrilla Peñacorada
+Scrapeado jugador: Héctor Min Díez Martínez
+Scrapeado jugador: Mokhammed Ensebaev
+Scrapeado jugador: Fernando Gonzalo Cid
+Scrapeado jugador: Sebastián Salazar Trujillo
+Scrapeado jugador: Sang-min Lee
+
+Procesando batch 1 de URLs
+Scrapeado jugador: Hugo García Garabal
+Scrapeado jugador: Iván Fernández Salcedo
+Scrapeado jugador: Miguel Monferrer Chicharro
+Scrapeado jugador: Marc Jurado López
+
+-------------------------------------------------------------------------------------------------
+Agentes intento 1. Agentes restantes: 4
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado agente: 380amk
+Scrapeado agente: Soro Sports Agency
+Scrapeado agente: Sport Arts
+Scrapeado agente: Eleven Stars Advisors Sports Company
+
+-------------------------------------------------------------------------------------------------
+Historico jugadores intento 1. Jugadores restantes: 14
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado historico jugador: 702445
+Scrapeado historico jugador: 1335868
+Scrapeado historico jugador: 1081513
+Scrapeado historico jugador: 944009
+Scrapeado historico jugador: 1345835
+Scrapeado historico jugador: 1345834
+Scrapeado historico jugador: 1065683
+Scrapeado historico jugador: 1222726
+Scrapeado historico jugador: 1345855
+Scrapeado historico jugador: 1030641
+
+Procesando batch 1 de URLs
+Scrapeado historico jugador: 1284667
+Scrapeado historico jugador: 1130771
+Scrapeado historico jugador: 1345858
+Scrapeado historico jugador: 1061614
+
+-------------------------------------------------------------------------------------------------
+Valor mercado jugadores intento 1. Jugadores restantes: 14
+-------------------------------------------------------------------------------------------------
+
+Procesando batch 0 de URLs
+Scrapeado grafico valores jugador: 702445
+Scrapeado grafico valores jugador: 1335868
+Scrapeado grafico valores jugador: 1081513
+Scrapeado grafico valores jugador: 944009
+Scrapeado grafico valores jugador: 1345835
+Scrapeado grafico valores jugador: 1345834
+Scrapeado grafico valores jugador: 1065683
+Scrapeado grafico valores jugador: 1222726
+Scrapeado grafico valores jugador: 1345855
+Scrapeado grafico valores jugador: 1030641
+
+Procesando batch 1 de URLs
+Scrapeado grafico valores jugador: 1284667
+Scrapeado grafico valores jugador: 1130771
+Scrapeado grafico valores jugador: 1345858
+Scrapeado grafico valores jugador: 1061614
+Todos los representantes se insertaron correctamente.
+Todos los jugadores se insertaron correctamente.
+
+-------------------------------------------------------------------------------------------------
+Jugadores scrapeados e insertados: 14
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Representantes scrapeados e insertados: 4
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+Inserción de jornada finalizada
+-------------------------------------------------------------------------------------------------
+
+Tiempo total de ejecución: 2 minutos y 35.54 segundos
