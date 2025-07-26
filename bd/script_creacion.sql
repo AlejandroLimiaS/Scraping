@@ -375,7 +375,7 @@ CREATE TABLE federacion.informe (
 	notas_fisico text NULL,
 	psicologico int DEFAULT 0 NOT NULL,
 	notas_psicologico text NULL,
-	media int DEFAULT 0 NOT NULL,
+	media float DEFAULT 0 NOT NULL,
 	CONSTRAINT informe_pk PRIMARY KEY (id_informe),
 	CONSTRAINT informe_usuario_FK FOREIGN KEY (id_usuario) REFERENCES federacion.usuario(id_usuario) ON DELETE SET NULL ON UPDATE SET NULL,
 	CONSTRAINT informe_jugador_FK FOREIGN KEY (id_jugador) REFERENCES federacion.jugador(id_jugador) ON DELETE RESTRICT ON UPDATE RESTRICT
@@ -435,7 +435,6 @@ CREATE TABLE federacion.tarea (
 	fecha_creacion timestamp DEFAULT current_timestamp on update current_timestamp NOT NULL,
 	fecha_limite timestamp DEFAULT current_timestamp on update current_timestamp NOT NULL,
 	estado tinyint(1) DEFAULT 0 NOT NULL,
-	visibilidad int DEFAULT 2 NOT NULL,
 	id_usuario_creador int NULL,
 	id_jugador int NULL,
 	id_equipo int NULL,
@@ -462,40 +461,3 @@ CREATE TABLE federacion.jugador_racha (
 ENGINE=InnoDB
 DEFAULT CHARSET=utf8mb4
 COLLATE=utf8mb4_0900_ai_ci;
-
-
-
-
-
-
-
-
-
-USE federacion;
-TRUNCATE TABLE `campo`;
-TRUNCATE TABLE `club`;
-TRUNCATE TABLE `contacto`;
-TRUNCATE TABLE `contrato`;
-TRUNCATE TABLE `equipo`;
-TRUNCATE TABLE `equipo_favorito`;
-TRUNCATE TABLE `equipo_liga`;
-TRUNCATE TABLE `historico`;
-TRUNCATE TABLE `incidencia`;
-TRUNCATE TABLE `informe`;
-TRUNCATE TABLE `jugador`;
-TRUNCATE TABLE `jugador_liga`;
-TRUNCATE TABLE `jugador_lista`;
-TRUNCATE TABLE `jugador_pais`;
-TRUNCATE TABLE `jugador_partido`;
-TRUNCATE TABLE `jugador_posicion`;
-TRUNCATE TABLE `liga`;
-TRUNCATE TABLE `liga_favorita`;
-TRUNCATE TABLE `lista`;
-TRUNCATE TABLE `localidad`;
-TRUNCATE TABLE `pais`;
-TRUNCATE TABLE `partido`;
-TRUNCATE TABLE `posicion`;
-TRUNCATE TABLE `representante`;
-TRUNCATE TABLE `representante_fav`;
-TRUNCATE TABLE `tarea`;
-TRUNCATE TABLE `usuario`;
